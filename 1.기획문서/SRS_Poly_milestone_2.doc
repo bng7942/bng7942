@@ -1,0 +1,2916 @@
+Date: Sun, 12 Apr 2020 23:53:07 +0000 (UTC)
+Message-ID: <760906246.319.1586735587700@580b3ee07cc1>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_318_814331214.1586735587699"
+
+------=_Part_318_814331214.1586735587699
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>Poly_milestone#2</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: #fff !important;
+        color: #000 !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: #000;
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>Poly_milestone#2</h1>
+    <div class=3D"Section1">
+        <p></p>
+<div class=3D"plugin-tabmeta-details">
+<div class=3D"table-wrap">
+<table class=3D"wrapped confluenceTable">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"confluenceTh">Target release</th>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<th class=3D"confluenceTh">Epic</th>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<th class=3D"confluenceTh">Document status</th>
+<td class=3D"confluenceTd">
+<div class=3D"content-wrapper">
+<span class=3D"status-macro aui-lozenge">DRAFT</span>
+</div></td>
+</tr>
+<tr>
+<th class=3D"confluenceTh">Document owner</th>
+<td class=3D"confluenceTd">
+<div class=3D"content-wrapper">
+<p><a class=3D"confluence-userlink user-mention current-user-mention" data-=
+username=3D"5aa5e1edc49185211a205f86" data-account-id=3D"5aa5e1edc49185211a=
+205f86" href=3D"https://jtnetco.atlassian.net/wiki/people/5aa5e1edc49185211=
+a205f86?ref=3Dconfluence" target=3D"_blank" data-linked-resource-id=3D"1638=
+51" data-linked-resource-version=3D"1" data-linked-resource-type=3D"userinf=
+o" data-base-url=3D"https://jtnetco.atlassian.net/wiki">=EC=9D=B4=EC=A4=80=
+=EC=8A=B9</a></p>
+</div></td>
+</tr>
+<tr>
+<th class=3D"confluenceTh">Designer</th>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<th class=3D"confluenceTh">Tech lead</th>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<th class=3D"confluenceTh">Technical writers</th>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<th class=3D"confluenceTh">QA</th>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<h2 id=3D"Poly_milestone#2-Objective">Objective</h2>
+<p>=ED=85=8C=EC=9D=B4=EB=B8=94 =EA=B4=80=EB=A6=AC=EC=99=80 =EC=A3=BC=EB=AC=
+=B8=EC=97=90 =EB=8C=80=ED=95=9C workflow=EB=A5=BC =EC=99=84=EC=84=B1, =EB=
+=B3=B5=EC=88=98=EC=9D=98 POS=EC=99=80 =EC=9E=A5=EB=B9=84=EB=93=A4=EC=9D=98 =
+=EC=95=88=EC=A0=95=EC=A0=81 =EA=B4=80=EA=B3=84 =EC=84=A4=EC=A0=95, =EC=98=
+=A4=ED=94=84=EB=9D=BC=EC=9D=B8=EC=97=90=EC=84=9C=EC=9D=98 =EB=8F=99=EC=9E=
+=91, =EB=AA=A8=EB=B0=94=EC=9D=BC =ED=99=98=EA=B2=BD=EC=9D=98 =EC=A7=80=EC=
+=9B=90</p>
+<h2 id=3D"Poly_milestone#2-#1=ED=94=84=EB=A6=B0=ED=84=B0=EA=B4=80=EB=A6=AC=
+=EA=B0=9C=EC=84=A0"><strong>#1 =ED=94=84=EB=A6=B0=ED=84=B0 =EA=B4=80=EB=A6=
+=AC =EA=B0=9C=EC=84=A0</strong></h2>
+<ol>
+<li>=EB=AA=A8=EB=8D=B8 / =EC=84=9C=EB=B9=84=EC=8A=A4 =EA=B0=9C=EC=9A=94
+<ol>
+<li>=ED=94=84=EB=A6=B0=ED=84=B0=EB=8A=94 POS=EC=97=90 =EC=A2=85=EC=86=8D=EB=
+=90=9C =EC=9E=A5=EB=B9=84=EA=B0=80 =EC=95=84=EB=8B=88=EB=9D=BC =EB=8F=85=EB=
+=A6=BD=EB=90=9C =EC=9E=A5=EB=B9=84=EB=A1=9C =EB=B3=84=EB=8F=84 =EB=93=B1=EB=
+=A1=9D=ED=95=98=EA=B3=A0, =EA=B0=81 POS=EC=97=90=EC=84=9C =EC=9A=A9=EB=8F=
+=84(=EC=97=AD=ED=95=A0)=EC=9D=84 =EC=A7=80=EC=A0=95=ED=95=98=EC=97=AC =ED=
+=94=84=EB=A6=B0=ED=84=B0=EB=A5=BC =EC=84=A0=ED=83=9D=ED=95=9C=EB=8B=A4.</li=
+>
+<li>=ED=98=84=EC=9E=AC =EC=97=AD=ED=95=A0=EC=9D=80 =EC=98=81=EC=88=98=EC=A6=
+=9D, =EC=A3=BC=EB=B0=A9=ED=94=84=EB=A6=B0=ED=84=B0=EB=A1=9C =ED=95=9C=EC=A0=
+=95=ED=95=98=EB=82=98 =ED=96=A5=ED=9B=84 =EC=A3=BC=EB=B0=A9=ED=94=84=EB=A6=
+=B0=ED=84=B0=EB=8A=94 =EC=A3=BC=EB=B0=A9_1, =EC=A3=BC=EB=B0=A9_2 =EB=93=B1=
+=EC=9C=BC=EB=A1=9C =ED=99=95=EB=8C=80=EB=90=A0 =EC=88=98 =EC=9E=88=EB=8B=A4
+<ol>
+<li>=EB=B3=B5=EC=88=98=EC=9D=98 =EC=A3=BC=EB=B0=A9=ED=94=84=EB=A6=B0=ED=84=
+=B0=EB=A5=BC =EC=9D=B4=EC=9A=A9=ED=95=98=EB=8A=94 =EA=B2=BD=EC=9A=B0 =EC=83=
+=81=ED=92=88=EB=93=A4=EC=9D=84 =ED=96=A5=ED=9B=84 =EC=B6=9C=EB=A0=A5 =ED=94=
+=84=EB=A6=B0=ED=84=B0 '=EC=97=AD=ED=95=A0'=EC=9D=84 =EC=A7=80=EC=A0=95=ED=
+=95=A0 =EC=88=98 =EC=9E=88=EB=8B=A4.</li>
+<li>=EC=A6=89, =EC=97=AD=ED=95=A0=EC=9D=80 =EA=B3=A0=EC=A0=95=EC=9D=B4 =EB=
+=90=98=EA=B3=A0, =EB=AC=BC=EB=A6=AC=EC=A0=81=EC=9D=B8 =ED=94=84=EB=A6=B0=ED=
+=84=B0=EB=A5=BC =ED=95=B4=EB=8B=B9 =EC=97=AD=ED=95=A0=EC=9D=84 =EA=B4=80=EA=
+=B3=84=EB=A1=9C =EB=A7=A4=EC=B9=AD=ED=95=9C=EB=8B=A4. =EC=83=81=ED=92=88=EC=
+=9D=80 =EC=97=AD=ED=95=A0=EC=9D=84 =EB=B0=94=EB=9D=BC=EB=B3=B4=EA=B2=8C =EB=
+=90=9C=EB=8B=A4.&nbsp;</li>
+<li>=EC=9D=B4=EB=B2=88 =EB=B2=94=EC=9C=84=EC=97=90=EC=84=9C=EB=8A=94 =EC=97=
+=AD=ED=95=A0=EC=9D=84 =EC=98=81=EC=88=98=EC=A6=9D, =EC=A3=BC=EB=B0=A9=EC=9C=
+=BC=EB=A1=9C =ED=95=9C=EC=A0=95 =ED=95=9C=EB=8B=A4.&nbsp;</li>
+</ol></li>
+<li>=EC=8B=9C=EB=A6=AC=EC=96=BC =ED=8F=AC=ED=8A=B8=EB=A1=9C =EC=97=B0=EA=B2=
+=B0=EB=90=9C =ED=94=84=EB=A6=B0=ED=84=B0=EB=8A=94 =EB=AC=BC=EB=A6=AC=EC=A0=
+=81=EC=9C=BC=EB=A1=9C host POS=EB=A5=BC =EA=B0=80=EC=A7=80=EA=B3=A0 =EC=9E=
+=88=EB=8B=A4. host POS=EC=97=90=EB=8A=94 =EC=9D=B4 =EC=8B=9C=EB=A6=AC=EC=96=
+=BC =ED=94=84=EB=A6=B0=ED=84=B0=EB=A5=BC =EB=84=A4=ED=8A=B8=EC=9B=8C=ED=81=
+=AC =ED=94=84=EB=A6=B0=ED=84=B0=EC=B2=98=EB=9F=BC =EC=9D=B4=EC=9A=A9=ED=95=
+=98=EA=B2=8C =ED=95=A0 =EC=88=98 =EC=9E=88=EB=8F=84=EB=A1=9D =EB=82=B4=EB=
+=B6=80 =EB=84=A4=ED=8A=B8=EC=9B=8D=ED=81=AC connectivity =EC=A0=95=EB=B3=B4=
+=EB=A5=BC =ED=8F=AC=ED=95=A8=ED=95=98=EA=B3=A0 =EC=9E=88=EB=8B=A4. =ED=95=
+=B4=EB=8B=B9 connectivty=EA=B0=80 =EC=B6=94=EC=83=81=ED=99=94=EB=90=98=EC=
+=96=B4 =ED=94=84=EB=A6=B0=ED=84=B0 =EC=9D=B4=EB=A6=84=EC=9C=BC=EB=A1=9C =EB=
+=8B=A4=EB=A5=B8 POS=EC=97=90=EC=84=9C =EC=9A=A9=EB=8F=84=EB=A5=BC =EC=A7=80=
+=EC=A0=95=ED=95=98=EB=A9=B4, =EC=B6=9C=EB=A0=A5=EB=8D=B0=EC=9D=B4=ED=84=B0=
+=EB=A5=BC =EB=B3=B4=EB=82=B4=EC=84=9C =EC=8B=9C=EB=A6=AC=EC=96=BC=EC=9D=84 =
+=EA=B1=B0=EC=B3=90=EC=84=9C =EB=B3=B4=EB=82=B4=EA=B2=8C =EB=90=9C=EB=8B=A4.=
+ =EC=A6=89, =EA=B0=81 =EC=8B=9C=EB=A6=AC=EC=96=BC=EB=A1=9C =EC=97=B0=EA=B2=
+=B0=EB=90=9C =ED=94=84=EB=A6=B0=ED=84=B0=EB=8A=94 =EA=B0=81 =ED=94=84=EB=A6=
+=B0=ED=84=B0 =EC=84=9C=EB=B9=84=EC=8A=A4=EB=A5=BC =ED=95=98=EB=82=98=EC=94=
+=A9 =EB=8F=8C=EB=A6=AC=EA=B2=8C =EB=90=9C=EB=8B=A4.&nbsp;</li>
+</ol></li>
+<li>=ED=94=84=EB=A6=B0=ED=84=B0 =EA=B4=80=EB=A6=AC - =EB=93=B1=EB=A1=9D / =
+=EC=88=98=EC=A0=95 / =EC=82=AD=EC=A0=9C
+<ol>
+<li>=ED=94=84=EB=A6=B0=ED=84=B0 =EB=93=B1=EB=A1=9D<br>
+<ol>
+<li>POS=EC=97=90=EC=84=9C =ED=94=84=EB=A6=B0=ED=84=B0 =EB=93=B1=EB=A1=9D
+<ol>
+<li><a href=3D"https://5x4efx.axshare.com/#g=3D1&amp;p=3D%ED%94%84%EB%A6%B0=
+%ED%84%B0_%EC%84%A4%EC%A0%95" class=3D"external-link" rel=3D"nofollow">http=
+s://5x4efx.axshare.com/#g=3D1&amp;p=3D%ED%94%84%EB%A6%B0%ED%84%B0_%EC%84%A4=
+%EC%A0%95</a>&nbsp;</li>
+<li>=EC=9E=90=EB=8F=99=EC=B0=BE=EA=B8=B0 =EA=B8=B0=EB=8A=A5=EC=9D=84&nbsp; =
+=EC=9D=B4=EC=9A=A9=ED=95=98=EC=97=AC =ED=8F=AC=ED=8A=B8 / =EA=B8=B0=EC=A2=
+=85 / =EC=86=8D=EB=8F=84=EB=A5=BC =EA=B2=80=EC=83=89=ED=95=98=EA=B3=A0 =EC=
+=83=88=EB=A1=9C=EC=9A=B4 '=EB=AC=BC=EB=A6=AC=EC=A0=81' =ED=94=84=EB=A6=B0=
+=ED=84=B0=EB=A1=9C =EB=93=B1=EB=A1=9D=EC=9D=84 =ED=95=9C=EB=8B=A4</li>
+<li>=ED=94=84=EB=A6=B0=ED=84=B0 =EC=9D=B4=EB=A6=84=EC=9D=80 =ED=94=84=EB=A6=
+=B0=ED=84=B0_1, =ED=94=84=EB=A6=B0=ED=84=B0_2=EB=A1=9C =EC=B0=BE=EC=9D=80 =
+=EC=88=9C=EC=84=9C=EB=8C=80=EB=A1=9C 1,2=EB=A5=BC =EB=B6=99=EC=97=AC=EC=A4=
+=80=EB=8B=A4</li>
+<li>3=EB=8B=A8=EA=B3=84=EC=97=90=EC=84=9C=EB=8A=94 =EA=B0=81 =ED=94=84=EB=
+=A6=B0=ED=84=B0 =EC=9D=B4=EB=A6=84 =EC=98=86=EC=97=90 =ED=85=8C=EC=8A=A4=ED=
+=8A=B8 =EC=B6=9C=EB=A0=A5=EB=B2=84=ED=8A=BC=EA=B3=BC =EC=9A=A9=EB=8F=84 =EC=
+=A7=80=EC=A0=95 =EB=B2=84=ED=8A=BC=EC=9D=B4 =EC=9E=88=EC=96=B4=EC=84=9C =EC=
+=B6=9C=EB=A0=A5=ED=99=95=EC=9D=B8 =ED=9B=84 =EC=9A=A9=EB=8F=84 =EC=A7=80=EC=
+=A0=95=EC=9D=84 =ED=95=A0 =EC=88=98 =EC=9E=88=EB=8F=84=EB=A1=9D =ED=95=9C=
+=EB=8B=A4.</li>
+</ol></li>
+<li>DB=EC=97=90=EC=84=9C =ED=94=84=EB=A6=B0=ED=84=B0 =EB=93=B1=EB=A1=9D
+<ol>
+<li><a href=3D"https://5x4efx.axshare.com/#g=3D1&amp;p=3Dprinters" class=3D=
+"external-link" rel=3D"nofollow">https://5x4efx.axshare.com/#g=3D1&amp;p=3D=
+printers</a>&nbsp;</li>
+<li>=EB=AA=A8=EB=93=A0 =EC=A0=95=EB=B3=B4=EB=A5=BC =EC=95=8C=EA=B3=A0 =EC=
+=9E=88=EB=8B=A4=EB=8A=94 =EC=A0=84=EC=A0=9C=ED=95=98=EC=97=90 =ED=94=84=EB=
+=A6=B0=ED=84=B0=EB=A5=BC =EB=93=B1=EB=A1=9D=ED=95=A0 =EC=88=98 =EC=9E=88=EB=
+=8B=A4.&nbsp;</li>
+<li>=EC=8B=9C=EB=A6=AC=EC=96=BC =ED=94=84=EB=A6=B0=ED=84=B0=EC=9D=98 =EA=B2=
+=BD=EC=9A=B0 =EC=96=B4=EB=8A=90 POS=EB=A5=BC =ED=86=B5=ED=95=B4 =EB=93=B1=
+=EB=A1=9D=EB=90=98=EC=97=88=EB=8A=94=EC=A7=80=EB=8F=84 =EC=84=A0=ED=83=9D=
+=ED=95=B4=EC=95=BC=ED=95=9C=EB=8B=A4.&nbsp;</li>
+<li>POS=EA=B0=80 =EC=97=86=EB=8B=A4=EB=A9=B4 =EC=8B=9C=EB=A6=AC=EC=96=BC =
+=ED=94=84=EB=A6=B0=ED=84=B0=EB=8A=94 =EC=83=9D=EC=84=B1=ED=95=A0 =EC=88=98 =
+=EC=97=86=EB=8B=A4.&nbsp;</li>
+</ol></li>
+<li>=EB=84=A4=ED=8A=B8=EC=9B=8C=ED=81=AC =ED=94=84=EB=A6=B0=ED=84=B0=EC=9D=
+=98 =EC=A7=80=EC=9B=90
+<ol>
+<li>host POS =EC=97=86=EC=9D=B4 =EC=8B=A4=EC=A0=9C =EB=8F=85=EB=A6=BD=EB=90=
+=9C =EB=84=A4=ED=8A=B8=EC=9B=8C=ED=81=AC =ED=94=84=EB=A6=B0=ED=84=B0=EC=9D=
+=B4=EB=8B=A4.&nbsp;</li>
+<li>=EC=9D=B4=EB=A6=84 / =EA=B8=B0=EC=A2=85 /&nbsp; ip=EB=A5=BC =EC=84=A4=
+=EC=A0=95=ED=95=98=EB=A9=B4 =EC=B6=94=EA=B0=80=ED=95=A0 =EC=88=98 =EC=9E=88=
+=EB=8B=A4. POS / DB =EB=AA=A8=EB=91=90 =EB=91=98=EB=8B=A4 =EB=8F=99=EC=9D=
+=BC=ED=95=98=EA=B2=8C =EC=B6=94=EA=B0=80 =EA=B0=80=EB=8A=A5=ED=95=98=EB=8B=
+=A4</li>
+</ol></li>
+</ol></li>
+<li>=ED=94=84=EB=A6=B0=ED=84=B0 =EB=AA=A9=EB=A1=9D / =EC=88=98=EC=A0=95
+<ol>
+<li>=EB=93=B1=EB=A1=9D=EB=90=9C =ED=94=84=EB=A6=B0=ED=84=B0=EB=A5=BC =ED=91=
+=9C=EC=8B=9C=ED=95=9C=EB=8B=A4.&nbsp;
+<ol>
+<li><a href=3D"https://5x4efx.axshare.com/#g=3D1&amp;p=3Dprinters" class=3D=
+"external-link" rel=3D"nofollow">https://5x4efx.axshare.com/#g=3D1&amp;p=3D=
+printers</a>&nbsp;</li>
+<li>=ED=94=84=EB=A6=B0=ED=84=B0=EB=AA=85, =EA=B8=B0=EC=A2=85, =EC=97=B0=EA=
+=B2=B0=EB=B0=A9=EC=8B=9D, =EC=86=8D=EB=8F=84/IP=EC=A3=BC=EC=86=8C, =EC=97=
+=B0=EA=B2=B0=EB=90=9CPOS =EB=A5=BC =EB=B3=B4=EC=97=AC=EC=A4=80=EB=8B=A4
+<ol>
+<li>=EC=86=8D=EB=8F=84/IP=EC=A3=BC=EC=86=8C =ED=95=AD=EB=AA=A9=EC=9D=80
+<ol>
+<li>=EC=86=8D=EB=8F=84=EB=8A=94 =EC=8B=9C=EB=A6=AC=EC=96=BC =EC=97=B0=EA=B2=
+=B0=EA=B0=92=EC=9D=B4=EB=8B=A4</li>
+<li>=EB=84=A4=ED=8A=B8=EC=9B=8C=ED=81=AC=ED=94=84=EB=A6=B0=ED=84=B0=EC=9D=
+=B8 =EA=B2=BD=EC=9A=B0=EB=8A=94 IP =EC=A3=BC=EC=86=8C=EB=A5=BC =EB=B3=B4=EC=
+=97=AC=EC=A4=80=EB=8B=A4</li>
+</ol></li>
+<li>=EC=97=B0=EA=B2=B0=EB=90=9CPOS=EB=8A=94 =EC=8B=9C=EB=A6=AC=EC=96=BC =EC=
+=97=B0=EA=B2=B0=EB=90=9C =ED=94=84=EB=A6=B0=ED=84=B0=EC=9D=B8 =EA=B2=BD=EC=
+=9A=B0 host =EC=97=AD=ED=95=A0=EC=9D=84 =ED=95=98=EB=8A=94 =ED=8F=AC=EC=8A=
+=A4=EB=A5=BC =EC=9D=B4=EC=95=BC=EA=B8=B0 =ED=95=9C=EB=8B=A4.&nbsp;
+<ol>
+<li>=ED=8F=AC=EC=8A=A4=EB=AA=85=EA=B3=BC =ED=95=B4=EB=8B=B9 POS=EC=9D=98 IP=
+=EC=A3=BC=EC=86=8C=EB=A5=BC =EB=B3=B4=EC=97=AC=EC=A4=80=EB=8B=A4</li>
+<li>=ED=95=B4=EB=8B=B9 IP=EC=A3=BC=EC=86=8C=EA=B0=80 =ED=94=84=EB=A6=B0=ED=
+=84=B0 =EC=84=9C=EB=B9=84=EC=8A=A4=EC=9D=98 IP =EC=A3=BC=EC=86=8C=EC=9D=B4=
+=EB=8B=A4. =ED=98=84=EC=9E=AC =EC=84=A4=EC=A0=95=EA=B3=BC =EB=B9=84=EA=B5=
+=90 =EB=93=B1=EC=9D=84 =EC=9C=84=ED=95=9C =EC=A0=95=EB=B3=B4 =EB=AA=A9=EC=
+=A0=81=EC=9C=BC=EB=A1=9C IP=EC=A3=BC=EC=86=8C=EB=A5=BC =EB=B3=B4=EC=97=AC=
+=EC=A4=80=EB=8B=A4.</li>
+</ol></li>
+</ol></li>
+</ol></li>
+<li>=ED=94=84=EB=A6=B0=ED=84=B0 =EB=AA=A9=EB=A1=9D=EC=97=90=EC=84=9C =ED=94=
+=84=EB=A6=B0=ED=84=B0=EB=A5=BC =EC=84=A0=ED=83=9D=ED=95=98=EB=A9=B4 =EB=AA=
+=A8=EB=93=A0 =EC=86=8D=EC=84=B1=EC=9D=84 =EC=88=98=EC=A0=95=ED=95=A0 =EC=88=
+=98 =EC=9E=88=EB=8B=A4</li>
+</ol></li>
+<li>=ED=94=84=EB=A6=B0=ED=84=B0 =EC=82=AD=EC=A0=9C
+<ol>
+<li>=EB=93=B1=EB=A1=9D=EB=90=9C =ED=94=84=EB=A6=B0=ED=84=B0=EB=A5=BC =EC=82=
+=AD=EC=A0=9C=ED=95=A0 =EC=88=98 =EC=9E=88=EB=8B=A4</li>
+<li>=ED=95=B4=EB=8B=B9 =ED=94=84=EB=A6=B0=ED=84=B0=EA=B0=80 =EB=8B=A4=EB=A5=
+=B8 POS=EC=97=90=EC=84=9C =EC=82=AC=EC=9A=A9=EB=90=98=EA=B3=A0 =EC=9E=88=EB=
+=8B=A4=EB=A9=B4 =ED=8C=9D=EC=97=85=EC=9D=84 =EB=B3=B4=EC=97=AC=EC=A4=80=EB=
+=8B=A4.&nbsp;
+<ol>
+<li>"=EC=9D=B4 =ED=94=84=EB=A6=B0=ED=84=B0=EB=8A=94 ###, ###=EC=97=90=EC=84=
+=9C =EC=82=AC=EC=9A=A9=EC=A4=91=EC=9E=85=EB=8B=88=EB=8B=A4. =EC=82=AD=EC=A0=
+=9C=EC=8B=9C =ED=95=B4=EB=8B=B9 POS=EC=97=90=EC=84=9C =EC=B6=9C=EB=A0=A5=EB=
+=90=98=EC=A7=80 =EC=95=8A=EC=9D=84 =EC=88=98 =EC=9E=88=EC=8A=B5=EB=8B=88=EB=
+=8B=A4." - =EC=B7=A8=EC=86=8C / =ED=99=95=EC=9D=B8</li>
+</ol></li>
+<li>=ED=94=84=EB=A6=B0=ED=84=B0=EA=B0=80 =EC=82=AD=EC=A0=9C=EB=90=98=EB=A9=
+=B4 =ED=95=B4=EB=8B=B9 =ED=94=84=EB=A6=B0=ED=84=B0=EB=A5=BC =EC=9D=B4=EC=9A=
+=A9=ED=95=98=EA=B3=A0 =EC=9E=88=EB=8A=94 POS=EC=97=90=EB=8A=94 "=EC=84=A0=
+=ED=83=9D=EB=90=98=EC=A7=80 =EC=95=8A=EC=9D=8C"=EC=9C=BC=EB=A1=9C =EB=B3=80=
+=EA=B2=BD=EB=90=9C=EB=8B=A4</li>
+</ol></li>
+</ol></li>
+<li>=ED=94=84=EB=A6=B0=ED=84=B0 =EC=84=9C=EB=B9=84=EC=8A=A4
+<ol>
+<li>=ED=94=84=EB=A6=B0=ED=84=B0 =EC=84=9C=EB=B9=84=EC=8A=A4=EB=8A=94 =EC=8B=
+=9C=EB=A6=AC=EC=96=BC =EC=97=B0=EA=B2=B0=EB=90=9C =ED=94=84=EB=A6=B0=ED=84=
+=B0=EC=9D=98 =EA=B2=BD=EC=9A=B0 =EC=9D=B4=EB=A5=BC =EB=84=A4=ED=8A=B8=EC=9B=
+=8C=ED=81=AC =ED=94=84=EB=A6=B0=ED=84=B0 =EC=B2=98=EB=9F=BC =EB=8F=99=EC=9E=
+=91=ED=95=98=EA=B2=8C =ED=95=B4=EC=A4=80=EB=8B=A4</li>
+<li>=EC=95=B1 =EC=8B=A4=ED=96=89 =EC=8B=9C=EC=97=90 IP=EC=A3=BC=EC=86=8C=EB=
+=A5=BC =ED=99=95=EC=9D=B8=ED=95=98=EC=97=AC =EC=84=9C=EB=B9=84=EC=8A=A4=EB=
+=A5=BC =EC=8B=9C=EC=9E=91=ED=95=9C=EB=8B=A4.</li>
+</ol></li>
+<li>=ED=94=84=EB=A6=B0=ED=84=B0 =EC=84=A0=ED=83=9D<br>
+<ol>
+<li>DB=EB=98=90=EB=8A=94 POS=EC=97=90=EC=84=9C =EC=98=81=EC=88=98=EC=A6=9D=
+=ED=94=84=EB=A6=B0=ED=84=B0, =EC=A3=BC=EB=B0=A9=ED=94=84=EB=A6=B0=ED=84=B0=
+=EB=A5=BC =EA=B8=B0=EC=A1=B4=EC=9D=98 =EB=93=B1=EB=A1=9D=EB=90=9C =ED=94=84=
+=EB=A6=B0=ED=84=B0=EC=A4=91 =EC=84=A0=ED=83=9D=ED=95=98=EC=97=AC =EC=A7=80=
+=EC=A0=95=ED=95=A0 =EC=88=98 =EC=9E=88=EB=8B=A4</li>
+<li>=EB=93=9C=EB=A1=AD=EB=8B=A4=EC=9A=B4 =EB=A9=94=EB=89=B4=EB=A1=9C =EA=B8=
+=B0=EC=A1=B4=EC=97=90 =EB=93=B1=EB=A1=9D=EB=90=9C =ED=94=84=EB=A6=B0=ED=84=
+=B0=EB=A5=BC =EB=B3=B4=EC=97=AC=EC=A4=80=EB=8B=A4.&nbsp;</li>
+<li>POS -&nbsp;<a href=3D"https://5x4efx.axshare.com/#g=3D1&amp;p=3D%ED%94%=
+84%EB%A6%B0%ED%84%B0_%EC%84%A4%EC%A0%95" class=3D"external-link" rel=3D"nof=
+ollow">https://5x4efx.axshare.com/#g=3D1&amp;p=3D%ED%94%84%EB%A6%B0%ED%84%B=
+0_%EC%84%A4%EC%A0%95</a></li>
+<li>DB -&nbsp;<a href=3D"https://5x4efx.axshare.com/#g=3D1&amp;p=3Dpos%EA%B=
+4%80%EB%A6%AC" class=3D"external-link" rel=3D"nofollow">https://5x4efx.axsh=
+are.com/#g=3D1&amp;p=3Dpos%EA%B4%80%EB%A6%AC</a></li>
+</ol></li>
+</ol>
+<h2 id=3D"Poly_milestone#2-#2DB-=EB=A7=A4=EC=9E=A5=EC=84=A4=EC=A0=95=EA=B0=
+=9C=EC=84=A0"><strong>#2 DB-=EB=A7=A4=EC=9E=A5=EC=84=A4=EC=A0=95 =EA=B0=9C=
+=EC=84=A0</strong></h2>
+<ol>
+<li>=EB=A7=A4=EC=9E=A5=EC=9D=84 =ED=95=9C=EB=B2=88 =EC=84=A0=ED=83=9D=ED=95=
+=98=EB=A9=B4 =EB=A7=A4=EC=9E=A5=EC=84=A4=EC=A0=95=EC=9D=98 =ED=95=98=EC=9C=
+=84 =EB=A9=94=EB=89=B4=EB=93=A4=EC=9D=80 =EC=84=A4=EC=A0=95=EB=90=9C =EB=A7=
+=A4=EC=9E=A5 =ED=95=84=ED=84=B0 =ED=95=98=EC=97=90 =EB=B3=B4=EC=97=AC=EC=A4=
+=80=EB=8B=A4.&nbsp;</li>
+<li>POS =EB=93=B1=EB=A1=9D=EC=9D=80 =ED=8C=9D=EC=97=85=EC=9C=BC=EB=A1=9C =
+=EB=B3=80=EA=B2=BD=ED=95=98=EA=B3=A0 =ED=94=84=EB=A6=B0=ED=84=B0=EB=8A=94 =
+=EC=84=A0=ED=83=9D=ED=95=A0 =EC=88=98 =EC=9E=88=EB=8F=84=EB=A1=9D =ED=95=9C=
+=EB=8B=A4
+<ol>
+<li><a href=3D"https://5x4efx.axshare.com/#g=3D1&amp;p=3Dpos%EA%B4%80%EB%A6=
+%AC" class=3D"external-link" rel=3D"nofollow">https://5x4efx.axshare.com/#g=
+=3D1&amp;p=3Dpos%EA%B4%80%EB%A6%AC</a></li>
+</ol></li>
+</ol>
+<h2 id=3D"Poly_milestone#2-#3=EC=98=A4=ED=94=84=EB=9D=BC=EC=9D=B8=EB=AA=A8=
+=EB=93=9C=EC=A7=80=EC=9B=90"><strong>#3 =EC=98=A4=ED=94=84=EB=9D=BC=EC=9D=
+=B8 =EB=AA=A8=EB=93=9C =EC=A7=80=EC=9B=90</strong></h2>
+<ol>
+<li>=EC=98=A4=ED=94=84=EB=9D=BC=EC=9D=B8 / =EC=98=A8=EB=9D=BC=EC=9D=B8 =EC=
+=97=AC=EB=B6=80=EB=A5=BC =EB=A9=94=EC=9D=B8 =EB=84=A4=EB=B9=84 =EC=9A=B0=EC=
+=B8=A1 =EC=83=81=EB=8B=A8=EC=97=90 =EB=B3=B4=EC=97=AC=EC=A4=80=EB=8B=A4.&nb=
+sp;</li>
+<li>=EC=98=A4=ED=94=84=EB=9D=BC=EC=9D=B8 =EB=AA=A8=EB=93=9C =EC=A0=84=ED=99=
+=98
+<ol>
+<li>=EC=98=A4=ED=94=84=EB=9D=BC=EC=9D=B8 =EB=AA=A8=EB=93=9C=EB=8A=94 POS=EA=
+=B0=80 =EC=99=B8=EB=B6=80 =EC=9D=B8=ED=84=B0=EB=84=B7=EA=B3=BC =EC=A0=91=EC=
+=86=8D=EB=90=98=EC=A7=80 =EC=95=8A=EC=9D=80 =EC=83=81=ED=83=9C=EB=A5=BC =EB=
+=9C=BB=ED=95=9C=EB=8B=A4</li>
+<li>1=EB=B6=84=EC=97=90 =ED=95=9C=EB=B2=88=EC=94=A9 =EC=99=B8=EB=B6=80 =EC=
+=A0=91=EC=86=8D=EC=9D=84 =ED=86=B5=ED=95=B4 =ED=99=95=EC=9D=B8=ED=95=9C=EB=
+=8B=A4</li>
+<li>=EC=99=B8=EB=B6=80=EC=99=80 =EC=A0=91=EC=86=8D=EC=9D=B4 =EC=95=88=EB=90=
+=98=EB=A9=B4 =EC=98=A4=ED=94=84=EB=9D=BC=EC=9D=B8 =EB=AA=A8=EB=93=9C=EB=A1=
+=9C =EB=B3=80=ED=99=98=ED=95=9C=EB=8B=A4
+<ol>
+<li><s>"=EC=99=B8=EB=B6=80=EC=99=80 =EC=9D=B8=ED=84=B0=EB=84=B7=EC=9D=B4 =
+=EB=81=8A=EA=B2=A8=EC=84=9C =EC=98=A4=ED=94=84=EB=9D=BC=EC=9D=B8 =EB=AA=A8=
+=EB=93=9C=EB=A1=9C =EC=A0=84=ED=99=98=ED=95=A9=EB=8B=88=EB=8B=A4" "=ED=99=
+=95=EC=9D=B8" =ED=8C=9D=EC=97=85&nbsp;</s></li>
+<li>=ED=8C=9D=EC=97=85=EC=97=86=EC=9D=B4 =EC=98=A4=ED=94=84=EB=9D=BC=EC=9D=
+=B8 =ED=91=9C=EC=8B=9C=EB=A7=8C=EC=9C=BC=EB=A1=9C =EC=9E=90=EC=97=B0=EC=8A=
+=A4=EB=9F=BD=EA=B2=8C =EB=B3=80=ED=99=98</li>
+</ol></li>
+</ol></li>
+<li>=EC=98=A4=ED=94=84=EB=9D=BC=EC=9D=B8 =EB=AA=A8=EB=93=9C
+<ol>
+<li>=EB=A1=9C=EC=BB=AC=EC=9D=98 =EC=A0=80=EC=9E=A5=EC=86=8C=EB=A5=BC =EC=9D=
+=B4=EC=9A=A9=ED=95=98=EC=97=AC =ED=95=84=EC=88=98 =EA=B8=B0=EB=8A=A5=EB=A7=
+=8C =EC=A7=80=EC=9B=90=ED=95=9C=EB=8B=A4</li>
+<li>=EC=98=A4=ED=94=84=EB=9D=BC=EC=9D=B8 =EA=B2=BD=EC=9A=B0=EC=97=90=EB=8A=
+=94 =EC=95=84=EB=9E=98 =EA=B8=B0=EB=8A=A5=EB=A7=8C =EC=A7=80=EC=9B=90=ED=95=
+=9C=EB=8B=A4
+<ol>
+<li>=EC=A3=BC=EB=AC=B8/=EA=B2=B0=EC=A0=9C
+<ol>
+<li>=EA=B3=BC=EA=B1=B0 =EC=A3=BC=EB=AC=B8 =EC=9E=AC=EC=B6=9C=EB=A0=A5=EA=B9=
+=8C=EC=A7=80=EB=8A=94 =EC=A7=80=EC=9B=90</li>
+<li>=EA=B3=BC=EA=B1=B0 =EC=A3=BC=EB=AC=B8 =EC=B7=A8=EC=86=8C =EC=A7=80=EC=
+=9B=90</li>
+<li>=EC=8B=A0=EC=9A=A9=EC=B9=B4=EB=93=9C =EA=B2=B0=EC=A0=9C=EB=8A=94 =EC=B7=
+=A8=EC=86=8C =EC=8B=9C=ED=82=A4=EC=A7=80 =EC=95=8A=EC=9D=8C</li>
+<li>=EA=B2=B0=EC=A0=9C=ED=95=9C =EC=83=81=ED=83=9C=EB=A1=9C =EB=91=A0</li>
+</ol></li>
+<li>=EA=B8=88=EC=A0=84=ED=95=A8 =EC=9E=85=EC=B6=9C =EB=82=B4=EC=97=AD =EA=
+=B8=B0=EB=A1=9D (=ED=98=84=EA=B8=88=EA=B2=B0=EC=A0=9C=EC=8B=9C =ED=8F=AC=ED=
+=95=A8)</li>
+<li>=ED=99=88=ED=99=94=EB=A9=B4=EC=97=90 =EB=A7=A4=EC=B6=9C =EC=A0=95=EB=B3=
+=B4=EB=8A=94 : =EC=98=A4=ED=94=84=EB=9D=BC=EC=9D=B8=EC=8B=9C =EC=A7=80=EC=
+=9B=90=ED=95=98=EC=A7=80 =EC=95=8A=EC=8A=B5=EB=8B=88=EB=8B=A4 =ED=91=9C=EC=
+=8B=9C</li>
+<li>=EB=A7=A4=EC=B6=9C=EB=A6=AC=ED=8F=AC=ED=8A=B8 / =EC=98=81=EC=97=85=EA=
+=B4=80=EB=A6=AC / =EC=84=A4=EC=A0=95=EC=9D=80 : disable =EB=B2=84=ED=8A=BC=
+=EC=9C=BC=EB=A1=9C =ED=91=9C=EC=8B=9C, =ED=81=B4=EB=A6=AD=EC=8B=9C "=ED=95=
+=B4=EB=8B=B9 =EA=B8=B0=EB=8A=A5=EC=9D=80 =EC=98=A4=ED=94=84=EB=9D=BC=EC=9D=
+=B8=EC=8B=9C =EC=A7=80=EC=9B=90=ED=95=98=EC=A7=80 =EC=95=8A=EC=8A=B5=EB=8B=
+=88=EB=8B=A4" =ED=8C=9D=EC=97=85 =ED=91=9C=EC=8B=9C</li>
+<li>=EC=9D=B4=EB=AF=B8 =EC=A7=80=EC=9B=90=ED=95=98=EC=A7=80 =EC=95=8A=EB=8A=
+=94 =EA=B8=B0=EB=8A=A5=EC=9D=84 =EB=B3=B4=EA=B3=A0 =EC=9E=88=EC=9D=84 =EB=
+=95=8C =EC=98=A4=ED=94=84=EB=9D=BC=EC=9D=B8=EC=9D=B4 =EB=90=9C =EA=B2=BD=EC=
+=9A=B0
+<ol>
+<li>=ED=95=B4=EB=8B=B9 =ED=8E=98=EC=9D=B4=EC=A7=80=EB=A5=BC =EB=B8=94=EB=9D=
+=BC=EC=9D=B8=EB=93=9C =EC=B2=98=EB=A6=AC&nbsp;</li>
+<li>=EB=84=A4=EB=B9=84 =EB=B6=80=EB=B6=84=EC=9D=80 =EC=82=B4=EB=A0=A4=EB=91=
+=AC=EC=84=9C =ED=99=88=EC=9C=BC=EB=A1=9C =EA=B0=88 =EC=88=98 =EC=9E=88=EA=
+=B2=8C =ED=95=A8</li>
+<li>"=EB=B8=94=EB=9D=BC=EC=9D=B8=EB=93=9C=EC=97=90 - =ED=95=B4=EB=8B=B9 =EA=
+=B8=B0=EB=8A=A5=EC=9D=80 =EC=98=A4=ED=94=84=EB=9D=BC=EC=9D=B8=EC=8B=9C =EC=
+=A7=80=EC=9B=90=ED=95=98=EC=A7=80 =EC=95=8A=EC=8A=B5=EB=8B=88=EB=8B=A4"</li=
+>
+</ol></li>
+</ol></li>
+</ol></li>
+<li>=EB=8F=99=EA=B8=B0=ED=99=94 =EB=AA=A8=EB=93=9C
+<ol>
+<li><s>1=EB=B6=84=EC=8B=9D =EC=A0=91=EC=86=8D=EC=9D=84 =ED=86=B5=ED=95=B4 =
+=EC=98=A8=EB=9D=BC=EC=9D=B8=EB=AA=A8=EB=93=9C=EC=9E=84=EC=9D=84 =ED=99=95=
+=EC=9D=B8=ED=95=9C=EB=8B=A4</s></li>
+<li><s>"=EC=99=B8=EB=B6=80=EC=99=80 =EC=9D=B8=ED=84=B0=EB=84=B7=EC=9D=B4 =
+=EC=97=B0=EA=B2=B0=EB=90=98=EC=96=B4 =EC=98=A4=ED=94=84=EB=9D=BC=EC=9D=B8 =
+=EB=8D=B0=EC=9D=B4=ED=84=B0=EB=A5=BC =EB=8F=99=EA=B8=B0=ED=99=94 =ED=95=A9=
+=EB=8B=88=EB=8B=A4" "=ED=99=95=EC=9D=B8"</s></li>
+<li><s>=EB=A1=9C=EB=94=A9 =EC=9D=B8=EB=94=94=EC=BC=80=EC=9D=B4=EC=9D=B4=ED=
+=84=B0=EB=A5=BC =EB=B3=B4=EC=97=AC=EC=A3=BC=EA=B3=A0 =EB=A1=9C=EC=BB=AC =EC=
+=A0=80=EC=9E=A5=EC=86=8C=EC=9D=98 =EB=8D=B0=EC=9D=B4=ED=84=B0=EB=A5=BC =EC=
+=84=9C=EB=B2=84=EB=A1=9C =EC=98=AC=EB=A0=A4=EC=A4=80=EB=8B=A4.&nbsp;</s></l=
+i>
+<li><s>=EB=AA=A8=EB=93=A0 =EB=8D=B0=EC=9D=B4=ED=84=B0=EA=B0=80 =EC=98=AC=EB=
+=9D=BC=EA=B0=80=EB=A9=B4 =EC=9E=90=EB=8F=99=EC=9C=BC=EB=A1=9C =EC=98=A8=EB=
+=9D=BC=EC=9D=B8 =EB=AA=A8=EB=93=9C=EB=A1=9C =EC=A0=84=ED=99=98=EB=90=98=EC=
+=96=B4 =EC=82=AC=EC=9A=A9=ED=95=A0 =EC=88=98 =EC=9E=88=EA=B2=8C =ED=95=9C=
+=EB=8B=A4.</s></li>
+<li><s>=EB=8F=99=EA=B8=B0=ED=99=94=EC=A4=91 =EC=98=A4=ED=94=84=EB=9D=BC=EC=
+=9D=B8=EC=9D=B4 =EB=90=9C =EA=B2=BD=EC=9A=B0&nbsp;</s>
+<ol>
+<li><s>"=EC=98=A4=ED=94=84=EB=9D=BC=EC=9D=B8 =EB=AA=A8=EB=93=9C=EB=A1=9C =
+=EC=A0=84=ED=99=98=ED=95=A9=EB=8B=88=EB=8B=A4" "=ED=99=95=EC=9D=B8"</s></li=
+>
+<li><s>=EB=8F=99=EA=B8=B0=ED=99=94 =EC=95=88=EB=90=9C =EB=8D=B0=EC=9D=B4=ED=
+=84=B0=EB=A7=8C =EB=82=A8=EC=95=84=EC=9E=88=EB=8B=A4</s></li>
+</ol></li>
+<li><s>=EB=8F=99=EA=B8=B0=ED=99=94=EC=A4=91 =EB=8F=99=EA=B8=B0=ED=99=94 =EC=
+=8B=A4=ED=8C=A8=ED=95=9C =EA=B2=BD=EC=9A=B0</s>
+<ol>
+<li><s>"=EB=8F=99=EA=B8=B0=ED=99=94 =EC=8B=A4=ED=8C=A8=ED=96=88=EC=8A=B5=EB=
+=8B=88=EB=8B=A4" "=EC=9E=AC=EC=8B=9C=EB=8F=84" "=EC=98=A4=ED=94=84=EB=9D=BC=
+=EC=9D=B8=EB=AA=A8=EB=93=9C=EC=97=90=EC=84=9C =EC=82=AC=EC=9A=A9"</s></li>
+<li><s>=EC=9E=AC=EC=8B=9C=EB=8F=84=EB=8A=94 =EB=8F=99=EA=B8=B0=EB=A5=BC =EB=
+=8B=A4=EC=8B=9C =EC=8B=9C=EB=8F=84=ED=95=A9=EB=8B=88=EB=8B=A4.</s></li>
+<li><s>"=EC=98=A4=ED=94=84=EB=9D=BC=EC=9D=B8 =EB=AA=A8=EB=93=9C=EC=97=90=EC=
+=84=9C =EC=82=AC=EC=9A=A9"=EC=9D=84 =EB=88=84=EB=A5=B4=EB=A9=B4 =EC=98=A4=
+=ED=94=84=EB=9D=BC=EC=9D=B8 =EB=AA=A8=EB=93=9C=EB=A1=9C =EC=A0=84=ED=99=98=
+=ED=95=98=EC=97=AC =EC=9D=B4=EC=9A=A9=ED=95=A9=EB=8B=88=EB=8B=A4.</s></li>
+<li><s>=EB=8B=A4=EC=8B=9C =EC=98=A8=EB=9D=BC=EC=9D=B8=EC=9D=B4 =ED=99=95=EC=
+=9D=B8=EB=90=98=EB=A9=B4 =EB=8F=99=EA=B8=B0=ED=99=94 =ED=8C=9D=EC=97=85=EC=
+=9D=B4 =EB=9C=B9=EB=8B=88=EB=8B=A4.&nbsp;&nbsp;</s></li>
+</ol></li>
+<li>=EB=B9=A0=EB=A5=B4=EA=B2=8C =EB=92=A4=EC=97=90=EC=84=9C =EB=8F=99=EA=B8=
+=B0=ED=99=94 =EB=90=98=EC=96=B4 =EC=98=A8=EB=9D=BC=EC=9D=B8 =EC=A0=84=ED=99=
+=98=EC=8B=9C =EB=8F=99=EA=B8=B0=ED=99=94 =EC=9E=91=EC=97=85=EC=9D=84 =EC=A7=
+=84=ED=96=89=ED=95=9C=EB=8B=A4</li>
+</ol></li>
+<li>=EC=98=A4=ED=94=84=EB=9D=BC=EC=9D=B8 =EC=A7=80=EC=9B=90 =EC=A3=BC=EB=AC=
+=B8=EC=88=98
+<ol>
+<li>=EC=B5=9C=EB=8C=80 1=EB=A7=8C=EA=B0=9C=EC=9D=98 =EC=A3=BC=EB=AC=B8=EC=
+=9D=84 =EC=A7=80=EC=9B=90=ED=95=A9=EB=8B=88=EB=8B=A4. =EC=9D=B4=ED=9B=84=EC=
+=97=90 =EC=86=90=EC=8B=A4=EB=90=A0 =EC=88=98 =EC=9E=88=EC=8A=B5=EB=8B=88=EB=
+=8B=A4</li>
+</ol></li>
+<li>=EC=B5=9C=EA=B7=BC =EC=98=A8=EB=9D=BC=EC=9D=B8 =EC=83=81=ED=83=9C =ED=
+=99=95=EC=9D=B8
+<ol>
+<li>=EB=8C=80=EC=89=AC=EB=B3=B4=EB=93=9C=EC=9D=98 POS =EB=A6=AC=EC=8A=A4=ED=
+=8A=B8=EC=97=90 =EC=B5=9C=EA=B7=BC =EC=A0=91=EC=86=8D =EC=8B=9C=EA=B0=84=EC=
+=9D=84 =ED=91=9C=EC=8B=9C=ED=95=A9=EB=8B=88=EB=8B=A4.&nbsp;</li>
+</ol></li>
+<li>=EB=B3=B5=EC=88=98 POS =EC=9D=BC =EA=B2=BD=EC=9A=B0 =EC=98=A4=ED=94=84=
+=EB=9D=BC=EC=9D=B8 =EB=AA=A8=EB=93=9C=EC=8B=9C =EB=8F=99=EC=9E=91
+<ol>
+<li>=EC=A0=84=EC=A0=9C : POS=EA=B0=80 =ED=95=9C=EB=8C=80=EC=9D=B8 =EA=B2=BD=
+=EC=9A=B0=EB=8A=94 =EC=98=A4=ED=94=84=EB=9D=BC=EC=9D=B8 =EB=AA=A8=EB=93=9C=
+=EB=A1=9C =EB=8F=99=EC=9E=91=EC=9D=84 =ED=95=9C=EB=8B=A4</li>
+<li>=EC=84=A0=EB=B6=88=EC=9D=B8 =EA=B2=BD=EC=9A=B0
+<ol>
+<li>=EA=B0=81 POS=EA=B0=80 =ED=95=9C=EB=8C=80=EC=9D=B8 =EA=B2=83=EA=B3=BC =
+=EB=8F=99=EC=9D=BC=ED=95=98=EA=B2=8C =EC=98=A4=ED=94=84=EB=9D=BC=EC=9D=B8 =
+=EB=AA=A8=EB=93=9C=EB=A1=9C =EA=B0=9C=EB=B3=84 =EB=8F=99=EC=9E=91</li>
+<li>=EA=B0=81 POS=EB=B3=84=EB=A1=9C =EC=A3=BC=EB=AC=B8 =EA=B3=B5=EC=9C=A0=
+=EB=8A=94 =EC=95=88=EB=90=A8</li>
+</ol></li>
+<li>=ED=9B=84=EB=B6=88=EC=9D=B8 =EA=B2=BD=EC=9A=B0
+<ol>
+<li><s>=EB=A7=A4=EC=9E=A5 =EC=A0=84=EC=B2=B4 POS=EA=B0=80 =EC=9D=B8=ED=84=
+=B0=EB=84=B7=EC=9D=B4 =EC=95=88=EB=90=98=EB=8A=94 =EA=B2=BD=EC=9A=B0</s><br=
+>
+<ol>
+<li><s>=EB=A9=94=EC=9D=B8POS=EB=8A=94 =EC=98=A4=ED=94=84=EB=9D=BC=EC=9D=B8=
+=EC=9C=BC=EB=A1=9C =EB=8F=99=EC=9E=91</s></li>
+<li><s>=EB=8B=A4=EB=A5=B8 POS =EC=82=AC=EC=9A=A9 =EB=B6=88=EA=B0=80 : "=EC=
+=9D=B8=ED=84=B0=EB=84=B7 =EC=97=B0=EA=B2=B0=EC=9D=B4 =EC=95=88=EB=90=A9=EB=
+=8B=88=EB=8B=A4. =EC=97=B0=EA=B2=B0=EC=9D=84 =ED=99=95=EC=9D=B8=ED=95=B4=EC=
+=A3=BC=EC=84=B8=EC=9A=94. =EC=9D=B8=ED=84=B0=EB=84=B7=EC=9D=B4 =EC=95=88=EB=
+=90=98=EB=8A=94 =EA=B2=BD=EC=9A=B0 =EB=A9=94=EC=9D=B8=ED=8F=AC=EC=8A=A4(=ED=
+=8F=AC=EC=8A=A4=EB=AA=85)=EB=A7=8C =EB=8F=99=EC=9E=91=ED=95=A9=EB=8B=88=EB=
+=8B=A4."=EB=9D=BC=EA=B3=A0 =EC=A3=BC=EB=AC=B8=ED=99=94=EB=A9=B4 / =ED=99=88=
+=ED=99=94=EB=A9=B4=EC=97=90 =EB=9D=84=EC=9A=B4=EB=8B=A4</s>
+<ol>
+<li><s>=EC=9D=B8=ED=84=B0=EB=84=B7 =EC=97=B0=EA=B2=B0 =ED=99=95=EC=9D=B8 =
+=EC=A6=89=EC=8B=9C disable</s></li>
+</ol></li>
+</ol></li>
+<li><s>=EC=9D=BC=EB=B6=80 POS=EB=A7=8C =EC=9D=B8=ED=84=B0=EB=84=B7=EC=9D=B4=
+ =EC=95=88=EB=90=98=EB=8A=94 =EA=B2=BD=EC=9A=B0 (=ED=95=9C POS=EB=A7=8C LAN=
+=EC=9D=B4 =EB=B9=A0=EC=A7=84 =EA=B2=BD=EC=9A=B0)</s>
+<ol>
+<li><s>=EB=A9=94=EC=9D=B8POS=EA=B0=80 =EC=95=84=EB=8B=8C POS=EA=B0=80 =EC=
+=98=A4=ED=94=84=EB=9D=BC=EC=9D=B8=EB=90=9C =EA=B2=BD=EC=9A=B0 =E2=86=92 =ED=
+=95=B4=EB=8B=B9 POS =EC=82=AC=EC=9A=A9 =EB=B6=88=EA=B0=80&nbsp;"=EC=9D=B8=
+=ED=84=B0=EB=84=B7 =EC=97=B0=EA=B2=B0=EC=9D=B4 =EC=95=88=EB=90=A9=EB=8B=88=
+=EB=8B=A4. =EC=97=B0=EA=B2=B0=EC=9D=84 =ED=99=95=EC=9D=B8=ED=95=B4=EC=A3=BC=
+=EC=84=B8=EC=9A=94. =EC=9D=B8=ED=84=B0=EB=84=B7=EC=9D=B4 =EC=95=88=EB=90=98=
+=EB=8A=94 =EA=B2=BD=EC=9A=B0 =EB=A9=94=EC=9D=B8=ED=8F=AC=EC=8A=A4(=ED=8F=AC=
+=EC=8A=A4=EB=AA=85)=EB=A7=8C =EB=8F=99=EC=9E=91=ED=95=A9=EB=8B=88=EB=8B=A4.=
+"=EB=9D=BC=EA=B3=A0 =EC=A3=BC=EB=AC=B8=ED=99=94=EB=A9=B4 / =ED=99=88=ED=99=
+=94=EB=A9=B4=EC=97=90 =EB=9D=84=EC=9A=B4=EB=8B=A4</s>
+<ol>
+<li><s>=EC=9D=B8=ED=84=B0=EB=84=B7=EC=9D=B4 =EB=90=98=EB=8A=94 =EB=8B=A4=EB=
+=A5=B8 POS=EB=8A=94 =EC=A0=95=EC=83=81 =EB=8F=99=EC=9E=91=ED=95=9C=EB=8B=A4=
+.&nbsp;</s></li>
+</ol></li>
+<li><s>=EB=A9=94=EC=9D=B8POS =EC=9D=B8=ED=84=B0=EB=84=B7=EC=9D=B4 =EC=95=88=
+=EB=90=9C =EA=B2=BD=EC=9A=B0</s>
+<ol>
+<li><s>=EC=A3=BC=EB=AC=B8POS=EC=97=90=EC=84=9C '=EC=A3=BC=EB=AC=B8'=EC=9D=
+=84 =EB=88=84=EB=A5=B8 =EC=8B=9C=EC=A0=90=EC=97=90 =EB=A9=94=EC=9D=B8POS =
+=EC=97=B0=EA=B2=B0=EC=83=81=ED=83=9C=EB=A5=BC =ED=99=95=EC=9D=B8</s>
+<ol>
+<li><s>"=EB=A9=94=EC=9D=B8POS=EC=99=80 =EC=97=B0=EA=B2=B0=EC=9D=B4 =ED=99=
+=95=EC=9D=B8=EB=90=98=EC=A7=80 =EC=95=8A=EC=95=84 =EC=A3=BC=EB=AC=B8=EC=9D=
+=84 =EB=84=A3=EC=9D=84 =EC=88=98 =EC=97=86=EC=8A=B5=EB=8B=88=EB=8B=A4. =EB=
+=A9=94=EC=9D=B8=ED=8F=AC=EC=8A=A4(=ED=8F=AC=EC=8A=A4=EB=AA=85)=EC=97=90=EC=
+=84=9C=EB=8A=94 =EC=A3=BC=EB=AC=B8=ED=95=A0 =EC=88=98 =EC=9E=88=EC=8A=B5=EB=
+=8B=88=EB=8B=A4"</s></li>
+<li><s>=EC=A3=BC=EB=AC=B8=EC=9D=B4 =EB=93=B1=EB=A1=9D=EB=90=98=EC=A7=80 =EC=
+=95=8A=EB=8A=94=EB=8B=A4.</s></li>
+</ol></li>
+</ol></li>
+</ol></li>
+<li>"=EC=98=A4=ED=94=84=EB=9D=BC=EC=9D=B8=EC=A7=80=EC=9B=90"=EC=9C=BC=EB=A1=
+=9C =EC=84=A4=EC=A0=95=EB=90=9C =ED=95=98=EB=82=98=EC=9D=98 POS=EB=A7=8C =
+=EC=98=A4=ED=94=84=EB=9D=BC=EC=9D=B8 =EB=AA=A8=EB=93=9C=EB=A5=BC =EC=A7=80=
+=EC=9B=90=ED=95=9C=EB=8B=A4</li>
+<li>=EC=98=A4=ED=94=84=EB=9D=BC=EC=9D=B8 =EB=AA=A8=EB=93=9C=EB=A1=9C =EC=A7=
+=80=EC=A0=95=EB=90=98=EC=A7=80 =EC=95=8A=EC=9D=80 POS=EB=8A=94 =EC=9D=B8=ED=
+=84=B0=EB=84=B7=EC=97=B0=EA=B2=B0=EC=9D=B4 =EC=95=88=EB=90=A0 =EA=B2=BD=EC=
+=9A=B0 =EB=8F=99=EC=9E=91=ED=95=98=EC=A7=80 =EC=95=8A=EB=8A=94=EB=8B=A4
+<ol>
+<li>'=EC=9D=B8=ED=84=B0=EB=84=B7 =EC=97=B0=EA=B2=B0=EC=9D=B4 =EC=95=88=EB=
+=90=A9=EB=8B=88=EB=8B=A4. =EC=97=B0=EA=B2=B0=EC=9D=84 =ED=99=95=EC=9D=B8=ED=
+=95=B4=EC=A3=BC=EC=84=B8=EC=9A=94. =EC=98=A4=ED=94=84=EB=9D=BC=EC=9D=B8=EC=
+=A7=80=EC=9B=90=ED=8F=AC=EC=8A=A4(=ED=8F=AC=EC=8A=A4=EB=AA=85)=EB=8A=94 =EB=
+=8F=99=EC=9E=91=ED=95=A9=EB=8B=88=EB=8B=A4."</li>
+</ol></li>
+<li>&nbsp;=EB=A9=94=EC=9D=B8=ED=8F=AC=EC=8A=A4
+<ol>
+<li>=EB=AA=85=EC=8B=9C=EC=A0=81=EC=9C=BC=EB=A1=9C CEO=EC=97=90=EC=84=9C =EC=
+=84=A0=ED=83=9D=ED=95=98=EB=8F=84=EB=A1=9D =ED=95=9C=EB=8B=A4</li>
+<li>=EC=A0=84=EC=B2=B4 POS=EC=A4=91 =ED=95=98=EB=82=98=EB=A7=8C =EC=98=A4=
+=ED=94=84=EB=9D=BC=EC=9D=B8 =EC=A7=80=EC=9B=90=EB=90=98=EA=B2=8C =EC=84=A0=
+=ED=83=9D=ED=95=A0 =EC=88=98 =EC=9E=88=EB=8B=A4</li>
+<li><s>=EC=84=A0=EB=B6=88POS=EB=8A=94 =EB=AC=B4=EC=A1=B0=EA=B1=B4 =EC=98=A4=
+=ED=94=84=EB=9D=BC=EC=9D=B8 =EB=AA=A8=EB=93=9C=EC=97=90 =EC=B2=B4=ED=81=AC=
+=EB=90=98=EC=96=B4 =EC=9E=88=EA=B3=A0 uncheck =EB=B6=88=EA=B0=80=ED=95=98=
+=EB=8B=A4</s></li>
+<li><s>=ED=9B=84=EB=B6=88POS=EA=B0=80 =ED=95=9C=EA=B0=9C=EC=9D=B8 =EA=B2=BD=
+=EC=9A=B0=EB=8A=94 =EC=B2=B4=ED=81=AC=EB=90=98=EC=96=B4 =EC=9E=88=EA=B3=A0 =
+uncheck =EB=B6=88=EA=B0=80=ED=95=98=EB=8B=A4</s></li>
+<li><s>=ED=9B=84=EB=B6=88POS=EA=B0=80 =EB=B3=B5=EC=88=98=EA=B0=9C=EC=9D=B8 =
+=EA=B2=BD=EC=9A=B0=EB=8A=94 =EA=B7=B8 =EC=A4=91=EC=97=90 =ED=95=98=EB=82=98=
+=EB=A5=BC =EC=84=A0=ED=83=9D=ED=95=A0 =EC=88=98 =EC=9E=88=EB=8B=A4.&nbsp;</=
+s>
+<ol>
+<li><s>=ED=95=98=EB=82=98=EB=A5=BC =EC=84=A0=ED=83=9D=ED=95=98=EB=A9=B4 =EB=
+=8B=A4=EB=A5=B8 POS=EC=97=90=EB=8A=94 uncheck =EB=90=9C=EB=8B=A4</s></li>
+</ol></li>
+<li><s>=ED=9B=84=EB=B6=88POS=EA=B0=80 3=EA=B0=9C=EC=9D=B8 =EA=B2=BD=EC=9A=
+=B0, =ED=95=98=EB=82=98=EC=9D=98 =EC=98=A4=ED=94=84=EB=9D=BC=EC=9D=B8 =EC=
+=A7=80=EC=9B=90(=EB=A9=94=EC=9D=B8=ED=8F=AC=EC=8A=A4) =ED=8F=AC=EC=8A=A4=EA=
+=B0=80 =EC=84=A4=EC=A0=95=EB=90=98=EC=96=B4 =EC=9E=88=EC=9D=84 =EB=95=8C, =
+=ED=95=B4=EB=8B=B9 POS=EB=A5=BC =EC=82=AD=EC=A0=9C=ED=95=98=EB=A9=B4 =EA=B0=
+=80=EC=9E=A5=EB=A8=BC=EC=A0=80 =EC=83=9D=EC=84=B1=EB=90=9C POS=EB=A5=BC =EB=
+=A9=94=EC=9D=B8POS=EB=A1=9C =EC=A7=80=EC=A0=95=ED=95=9C=EB=8B=A4.&nbsp;</s>
+<ol>
+<li><span class=3D"confluence-embedded-file-wrapper confluence-embedded-man=
+ual-size"><img class=3D"confluence-embedded-image" height=3D"171" src=3D"23=
+421e7881d0ed60ea6faee1ea587d42" data-image-src=3D"https://jtnetco.atlassian=
+.net/wiki/download/attachments/45252661/Screen%20Shot%202019-12-27%20at%206=
+.42.42%20PM.png?version=3D1&amp;modificationDate=3D1577439885729&amp;cacheV=
+ersion=3D1&amp;api=3Dv2" data-unresolved-comment-count=3D"0" data-linked-re=
+source-id=3D"66519088" data-linked-resource-version=3D"1" data-linked-resou=
+rce-type=3D"attachment" data-linked-resource-default-alias=3D"Screen Shot 2=
+019-12-27 at 6.42.42 PM.png" data-base-url=3D"https://jtnetco.atlassian.net=
+/wiki" data-linked-resource-content-type=3D"image/png" data-linked-resource=
+-container-id=3D"45252661" data-linked-resource-container-version=3D"32" da=
+ta-media-id=3D"f0329f21-be99-40af-93e1-11e97ec388f6" data-media-type=3D"fil=
+e" width=3D"468"></span></li>
+</ol></li>
+</ol></li>
+</ol></li>
+</ol></li>
+<li>=ED=9B=84=EB=B6=88 POS =EC=A3=BC=EB=AC=B8=EB=A6=AC=EC=8A=A4=ED=8A=B8
+<ol>
+<li>=ED=9B=84=EB=B6=88=EC=9D=B8 =EA=B2=BD=EC=9A=B0 =EC=98=A4=ED=94=84=EB=9D=
+=BC=EC=9D=B8 =EB=AA=A8=EB=93=9C=EC=97=AC=EB=8F=84, =EC=A3=BC=EB=AC=B8=EB=A6=
+=AC=EC=8A=A4=ED=8A=B8=EC=97=90 active =EC=A3=BC=EB=AC=B8=EC=9D=80 =EB=B3=B4=
+=EC=97=AC=EC=A4=80=EB=8B=A4.&nbsp;<br>
+<ol>
+<li>=ED=85=8C=EC=9D=B4=EB=B8=94=EC=9D=84 =ED=86=B5=ED=95=B4=EC=84=9C =EC=84=
+=A0=ED=83=9D=EA=B3=BC =EB=8F=99=EC=9D=BC</li>
+</ol></li>
+</ol></li>
+</ol>
+<h2 id=3D"Poly_milestone#2-#4=EA=B8=88=EC=95=A1/=EA=B0=9C=EC=88=98=EC=9D=98=
+=EB=B2=94=EC=9C=84"><strong>#4 =EA=B8=88=EC=95=A1 / =EA=B0=9C=EC=88=98=EC=
+=9D=98 =EB=B2=94=EC=9C=84</strong></h2>
+<ol>
+<li>=EC=83=81=ED=92=88 =EA=B8=88=EC=95=A1
+<ol>
+<li>=EC=B5=9C=EB=8C=80 9,999,999 =EC=9B=90</li>
+<li>=EC=98=B5=EC=85=98=ED=95=AD=EB=AA=A9 =EA=B8=88=EC=95=A1 =EC=B5=9C=EB=8C=
+=80 9,999,999 =EC=9B=90</li>
+</ol></li>
+<li>=ED=95=9C =EC=98=B5=EC=85=98=EC=9D=98 =EC=B5=9C=EB=8C=80 =EC=98=B5=EC=
+=85=98=ED=95=AD=EB=AA=A9 =EC=88=98
+<ol>
+<li>50=EA=B0=9C</li>
+</ol></li>
+<li>=ED=95=9C =EC=A3=BC=EB=AC=B8=EC=9D=B4 =ED=8F=AC=ED=95=A8=ED=95=A0 =EC=
+=88=98 =EC=9E=88=EB=8A=94 =EC=B5=9C=EB=8C=80 =EC=95=84=EC=9D=B4=ED=85=9C =
+=EC=A2=85=EB=A5=98 =EC=88=98 (line item)&nbsp;
+<ol>
+<li>50=EA=B0=9C</li>
+</ol></li>
+<li>=ED=95=9C =EC=A3=BC=EB=AC=B8=EC=9D=98 =ED=95=9C =EC=95=84=EC=9D=B4=ED=
+=85=9C=EC=9D=98 =EC=B5=9C=EB=8C=80 =EC=88=98=EB=9F=89 (qty)
+<ol>
+<li>999 =EA=B0=9C</li>
+</ol></li>
+<li>=ED=95=9C =EC=A3=BC=EB=AC=B8=EC=9D=98 =EC=B5=9C=EB=8C=80 =EC=A3=BC=EB=
+=AC=B8 =EA=B8=88=EC=95=A1&nbsp;
+<ol>
+<li><span style=3D"color: rgb(34,34,34);">=EC=B5=9C=EB=8C=80 =EC=A3=BC=EB=
+=AC=B8 =EA=B8=88=EC=95=A1 : 999,999,999&nbsp;</span></li>
+<li><span style=3D"color: rgb(34,34,34);">=EC=B5=9C=EB=8C=80 =EC=A3=BC=EB=
+=AC=B8 =EA=B8=88=EC=95=A1=EC=9D=B4 =EC=96=B4=EB=96=A0=ED=95=9C =EC=83=81=ED=
+=99=A9=EC=97=90=EC=84=9C=EB=93=A0 =EB=84=98=EC=96=B4=EA=B0=80=EB=A9=B4 =ED=
+=8C=9D=EC=97=85</span>
+<ol>
+<li><span style=3D"color: rgb(34,34,34);">"=EC=97=90=EB=9F=AC" "=EC=B5=9C=
+=EB=8C=80 =EA=B8=88=EC=95=A1=EC=9D=B4 10=EC=96=B5=EC=9D=84 =EB=84=98=EC=9D=
+=84 =EC=88=98 =EC=97=86=EC=8A=B5=EB=8B=88=EB=8B=A4"</span></li>
+</ol></li>
+</ol></li>
+</ol>
+<p><br></p>
+<h2 id=3D"Poly_milestone#2-#5=EA=B8=B0=EC=A1=B4=EA=B8=B0=EB=8A=A5=EA=B0=9C=
+=EC=84=A0"><strong><span style=3D"color: rgb(34,34,34);">#5 =EA=B8=B0=EC=A1=
+=B4 =EA=B8=B0=EB=8A=A5 =EA=B0=9C=EC=84=A0</span></strong></h2>
+<ol>
+<li><span style=3D"color: rgb(34,34,34);">=EC=98=B5=EC=85=98&nbsp; <span cl=
+ass=3D"confluence-jim-macro jira-issue resolved" data-jira-key=3D"POS-1282"=
+> <a href=3D"https://jtnetco.atlassian.net/browse/POS-1282" class=3D"jira-i=
+ssue-key"><img class=3D"icon" src=3D"https://jtnetco.atlassian.net/secure/v=
+iewavatar?size=3Dmedium&amp;avatarId=3D10315&amp;avatarType=3Dissuetype">PO=
+S-1282</a> - <span class=3D"summary">[CEO-=EC=98=B5=EC=85=98 =EC=83=9D=EC=
+=84=B1 =EA=B0=9C=EC=84=A0 / =EB=B2=84=EA=B7=B8=EC=88=98=EC=A0=95] =EC=98=B5=
+=EC=85=98=ED=95=AD=EB=AA=A9 =EC=9E=85=EB=A0=A5 =EB=B0=A9=EC=8B=9D =EA=B0=9C=
+=EC=84=A0, =EA=B0=9C=EC=88=98 =EC=A7=80=EC=A0=95, =EC=83=81=ED=92=88=EC=97=
+=90=EC=84=9C =EC=98=B5=EC=85=98 =EC=9E=90=EB=8F=99=EB=84=A3=EA=B8=B0 =EB=A0=
+=88=EC=9D=B4=EB=B8=94 =EB=B3=80=EA=B2=BD</span> <span class=3D"aui-lozenge =
+aui-lozenge-subtle aui-lozenge-success jira-macro-single-issue-export-pdf">=
+Done</span> </span> </span>
+<ol>
+<li><span style=3D"color: rgb(34,34,34);">=EC=98=B5=EC=85=98=ED=8C=9D=EC=97=
+=85=EC=97=90=EC=84=9C =EC=84=A0=ED=83=9D=ED=95=AD=EB=AA=A9 =EC=9E=85=EB=A0=
+=A5 UX =EA=B0=9C=EC=84=A0 (=EC=97=94=ED=84=B0=EB=88=84=EB=A5=B4=EB=A9=B4 =
+=EC=95=84=EC=9D=B4=ED=85=9C =EB=93=B1=EB=A1=9D)</span>
+<ol>
+<li>=EC=84=A0=ED=83=9D=ED=95=AD=EB=AA=A9=EC=9D=98 =EC=9D=B4=EB=A6=84=EC=9D=
+=84 =EC=9E=85=EB=A0=A5=ED=95=98=EA=B3=A0 =EC=97=94=ED=84=B0 =EB=88=84=EB=A5=
+=B4=EB=A9=B4 =EC=B6=94=EA=B0=80=EA=B0=80=EA=B2=A9=EC=9C=BC=EB=A1=9C =EC=BB=
+=A4=EC=84=9C =EC=9D=B4=EB=8F=99</li>
+<li>=EC=B6=94=EA=B0=80=EA=B0=80=EA=B2=A9=EC=9D=84 =EC=9E=85=EB=A0=A5=ED=95=
+=98=EA=B3=A0 =EC=97=94=ED=84=B0=EB=A5=BC =EB=88=84=EB=A5=B4=EB=A9=B4 =EC=A0=
+=80=EC=9E=A5</li>
+<li>=EC=9D=B4=ED=9B=84 =ED=95=9C=EC=A4=84 =EC=83=9D=EC=84=B1=EB=90=98=EC=96=
+=B4 =EC=83=88=EB=A1=9C=EC=9A=B4 =EC=84=A0=ED=83=9D=ED=95=AD=EB=AA=A9=EC=9C=
+=BC=EB=A1=9C =ED=8F=AC=EC=BB=A4=EC=8B=B1 =EC=9D=B4=EB=8F=99</li>
+</ol></li>
+<li><span style=3D"color: rgb(34,34,34);">=EA=B0=9C=EC=88=98 =EC=A7=80=EC=
+=A0=95 =ED=91=9C=EC=8B=9C =EB=B2=84=EA=B7=B8 =EC=88=98=EC=A0=95</span>
+<ol>
+<li>=ED=95=9C=EA=B0=9C=EB=A7=8C=EA=B3=BC =EC=97=AC=EB=9F=AC=EA=B0=9C=EC=9D=
+=98 =EC=A0=95=EC=9D=98 - =ED=95=B4=EB=8B=B9 =EC=A1=B0=EA=B1=B4=EC=9D=B4=EB=
+=A9=B4 =ED=95=9C=EA=B0=9C=EB=A7=8C, =EC=97=AC=EB=9F=AC=EA=B0=9C=EB=A1=9C =
+=EB=9D=BC=EB=94=94=EC=98=A4=EB=B2=84=ED=8A=BC=EC=9D=84 =EB=B3=B4=EC=97=AC=
+=EC=A4=80=EB=8B=A4.&nbsp;
+<ol>
+<li>=ED=95=9C=EA=B0=9C=EB=A7=8C
+<ol>
+<li><span style=3D"color: rgb(34,34,34);">=ED=95=84=EC=88=98 =EC=84=A0=ED=
+=83=9D=EC=88=98 :1, =EC=B5=9C=EB=8C=80 =ED=97=88=EC=9A=A9 =EC=88=98 : 1=EC=
+=9D=B4=EB=A9=B4&nbsp;</span></li>
+</ol></li>
+<li><span style=3D"color: rgb(34,34,34);">=EC=97=AC=EB=9F=AC=EA=B0=9C </spa=
+n>
+<ol>
+<li><span style=3D"color: rgb(34,34,34);">=ED=95=84=EC=88=98=EC=84=A0=ED=83=
+=9D=EC=88=98&nbsp;: =EC=84=A4=EC=A0=95=EC=95=88=ED=95=A8, =EC=B5=9C=EB=8C=
+=80=ED=97=88=EC=9A=A9=EC=88=98&nbsp;: =EC=84=A4=EC=A0=95=EC=95=88=ED=95=A8<=
+/span></li>
+</ol></li>
+</ol></li>
+<li><span style=3D"color: rgb(34,34,34);">=EC=B5=9C=EB=8C=80 =ED=97=88=EC=
+=9A=A9=EC=88=98, =ED=95=84=EC=88=98 =EC=84=A0=ED=83=9D=EC=88=98&nbsp; : =EC=
+=84=A4=EC=A0=95=EC=95=88=ED=95=A8 =EB=A0=88=EC=9D=B4=EB=B8=94 =EB=B3=80=EA=
+=B2=BD</span>
+<ol>
+<li><span style=3D"color: rgb(34,34,34);">=EC=A7=81=EC=A0=91=EC=9E=85=EB=A0=
+=A5=EC=8B=9C =EC=B5=9C=EB=8C=80=ED=97=88=EC=9A=A9=EC=88=98=EB=A5=BC =EC=84=
+=A4=EC=A0=95=EC=95=88=ED=95=A8=EC=9D=84 =ED=95=98=EB=A9=B4 "=EC=B5=9C=EB=8C=
+=80=ED=97=88=EC=9A=A9=EC=88=98 : =EC=84=A4=EC=A0=95=EC=95=88=ED=95=A8" =EC=
+=9C=BC=EB=A1=9C =EB=A0=88=EC=9D=B4=EB=B8=94 =EB=B3=80=EA=B2=BD (=ED=98=84=
+=EC=9E=AC =EC=B5=9C=EB=8C=80=ED=97=88=EC=9A=A9=EC=88=98:0)</span></li>
+<li><span style=3D"color: rgb(34,34,34);">=EC=A7=81=EC=A0=91=EC=9E=85=EB=A0=
+=A5=EC=8B=9C =ED=95=84=EC=88=98 =EC=84=A0=ED=83=9D=EC=88=98=EB=A5=BC =EC=84=
+=A4=EC=A0=95=EC=95=88=ED=95=A8=EC=9D=84 =ED=95=98=EB=A9=B4 "=ED=95=84=EC=88=
+=98=EC=84=A0=ED=83=9D=EC=88=98 : =EC=84=A4=EC=A0=95=EC=95=88=ED=95=A8" =EC=
+=9C=BC=EB=A1=9C =EB=A0=88=EC=9D=B4=EB=B8=94 =EB=B3=80=EA=B2=BD(=ED=98=84=EC=
+=9E=AC =ED=95=84=EC=88=98 =EC=84=A0=ED=83=9D=EC=88=98 : 0)</span></li>
+<li><span style=3D"color: rgb(34,34,34);">=EC=98=B5=EC=85=98=EB=A6=AC=EC=8A=
+=A4=ED=8A=B8=EC=97=90=EC=84=9C=EB=8F=84 =EB=B9=88=EC=B9=B8 =EB=8C=80=EC=8B=
+=A0 "=EC=84=A4=EC=A0=95=EC=95=88=ED=95=A8"=EC=9C=BC=EB=A1=9C =ED=91=9C=EC=
+=8B=9C</span></li>
+</ol></li>
+</ol></li>
+<li><span style=3D"color: rgb(34,34,34);">=EC=83=81=ED=92=88=EC=9D=98 =EC=
+=98=B5=EC=85=98 flag =EB=A0=88=EC=9D=B4=EB=B8=94 / default =EB=B3=80=EA=B2=
+=BD</span>
+<ol>
+<li><span style=3D"color: rgb(34,34,34);">"=EC=98=B5=EC=85=98 =EB=AC=BC=EC=
+=96=B4=EB=B3=B4=EC=A7=80 =EC=95=8A=EA=B8=B0" =3D=3D&gt; "=EC=98=B5=EC=85=98=
+ =ED=95=AD=EC=83=81 =EB=AC=BC=EC=96=B4=EB=B3=B4=EA=B8=B0 - =EC=83=81=ED=92=
+=88=EC=B6=94=EA=B0=80=EC=8B=9C =EC=98=B5=EC=85=98 =EC=84=A0=ED=83=9D=EC=9D=
+=84 =ED=95=AD=EC=83=81 =EB=AC=BC=EC=96=B4=EB=B4=85=EB=8B=88=EB=8B=A4" / def=
+ault =3D=3D true</span></li>
+</ol></li>
+</ol></li>
+<li><span style=3D"color: rgb(34,34,34);">=EC=A3=BC=EB=AC=B8=EC=B7=A8=EC=86=
+=8C&nbsp; <span class=3D"confluence-jim-macro jira-issue resolved" data-jir=
+a-key=3D"POS-1221"> <a href=3D"https://jtnetco.atlassian.net/browse/POS-122=
+1" class=3D"jira-issue-key"><img class=3D"icon" src=3D"https://jtnetco.atla=
+ssian.net/secure/viewavatar?size=3Dmedium&amp;avatarId=3D10315&amp;avatarTy=
+pe=3Dissuetype">POS-1221</a> - <span class=3D"summary">[POS] =EC=A7=84=ED=
+=96=89=EC=A4=91=EC=9D=B8 =EC=A3=BC=EB=AC=B8=EC=97=90 =EB=8C=80=ED=95=B4=EC=
+=84=9C=EB=8F=84 =EC=A3=BC=EB=AC=B8=EC=B7=A8=EC=86=8C =EA=B8=B0=EB=8A=A5 =EC=
+=B6=94=EA=B0=80 - (=EB=B2=84=EA=B7=B8=ED=98=84=EC=83=81)=EB=B6=80=EB=B6=84=
+=EA=B2=B0=EC=A0=9C=ED=9B=84, "=EC=A0=84=EC=B2=B4=EC=82=AD=EC=A0=9C", =ED=9B=
+=84 =EA=B2=B0=EC=A0=9C=EB=A5=BC =EC=B7=A8=EC=86=8C=ED=95=98=EB=A9=B4 =EB=A6=
+=AC=EC=85=8B=EC=9D=B4=EB=90=98=EC=96=B4=EC=95=BC =ED=95=98=EC=A7=80=EB=A7=
+=8C, =EC=B7=A8=EC=86=8C=EB=90=9C payment=EA=B0=80 =EB=82=B4=EC=97=AD=EC=97=
+=90 =EB=82=A8=EC=95=84 =EC=9E=88=EC=9D=8C</span> <span class=3D"aui-lozenge=
+ aui-lozenge-subtle aui-lozenge-success jira-macro-single-issue-export-pdf"=
+>Done</span> </span> </span>
+<ol>
+<li><span style=3D"color: rgb(34,34,34);">"=EC=A0=84=EC=B2=B4=EC=82=AD=EC=
+=A0=9C"&nbsp;=E2=86=92 "=EC=A3=BC=EB=AC=B8=EC=B7=A8=EC=86=8C" =EB=8F=99=EC=
+=9E=91</span>
+<ol>
+<li><span style=3D"color: rgb(34,34,34);">=EA=B2=B0=EC=A0=9C=EA=B0=80 =EC=
+=95=88=EB=90=9C =EC=A3=BC=EB=AC=B8=EC=9D=98 =EA=B2=BD=EC=9A=B0</span>
+<ol>
+<li><span style=3D"color: rgb(34,34,34);">=EC=A0=84=EC=B2=B4 =EC=82=AD=EC=
+=A0=9C=EB=A5=BC =EB=88=84=EB=A5=B4=EB=A9=B4 =EA=B7=B8=EB=83=A5 =EC=95=84=EC=
+=9D=B4=ED=85=9C=EB=A7=8C clear =EB=90=9C=EB=8B=A4 (=EC=A3=BC=EB=B0=A9=EC=B6=
+=9C=EB=A0=A5=EC=95=88=EB=90=A8)</span></li>
+</ol></li>
+<li><span style=3D"color: rgb(34,34,34);">=EB=B6=80=EB=B6=84 =EA=B2=B0=EC=
+=A0=9C=EA=B0=80 =EB=90=9C =EA=B2=BD=EC=9A=B0</span>
+<ol>
+<li><span style=3D"color: rgb(34,34,34);">=ED=8C=9D=EC=97=85=EC=9D=84 =EB=
+=B3=B4=EC=97=AC=EC=A4=80=EB=8B=A4 - =EC=A3=BC=EB=AC=B8=EA=B3=BC =EA=B2=B0=
+=EC=A0=9C=EB=A5=BC =EB=AA=A8=EB=91=90 =EC=B7=A8=EC=86=8C=ED=95=A9=EB=8B=88=
+=EB=8B=A4. "=EC=95=84=EB=8B=88=EC=9A=94" "=ED=99=95=EC=9D=B8"</span></li>
+<li><span style=3D"color: rgb(34,34,34);">=EC=A3=BC=EB=AC=B8=EC=9D=84 =EC=
+=B7=A8=EC=86=8C =EC=83=81=ED=83=9C=EB=A1=9C =EB=B0=94=EA=BE=B8=EA=B3=A0 =EA=
+=B2=B0=EC=A0=9C=EB=8F=84 =EC=B7=A8=EC=86=8C=ED=95=98=EB=8F=84=EB=A1=9D =EC=
+=A7=84=ED=96=89=ED=95=9C=EB=8B=A4.</span></li>
+</ol></li>
+<li><span style=3D"color: rgb(34,34,34);">=EC=A0=84=EC=B2=B4 =EA=B2=B0=EC=
+=A0=9C=EA=B0=80 =EB=90=9C =EA=B2=BD=EC=9A=B0 (=EA=B8=B0=EC=A1=B4=EC=9D=98 =
+=EC=99=84=EB=A3=8C=EC=A3=BC=EB=AC=B8 =EC=B7=A8=EC=86=8C=EC=99=80 =EB=8F=99=
+=EC=9D=BC)</span>
+<ol>
+<li><span style=3D"color: rgb(34,34,34);">=ED=8C=9D=EC=97=85=EC=9D=84 =EB=
+=B3=B4=EC=97=AC=EC=A4=80=EB=8B=A4 - =EC=A3=BC=EB=AC=B8=EA=B3=BC =EA=B2=B0=
+=EC=A0=9C=EB=A5=BC =EB=AA=A8=EB=91=90 =EC=B7=A8=EC=86=8C=ED=95=A9=EB=8B=88=
+=EB=8B=A4. "=EC=95=84=EB=8B=88=EC=9A=94" "=ED=99=95=EC=9D=B8"</span></li>
+<li><span style=3D"color: rgb(34,34,34);">=EC=A3=BC=EB=AC=B8=EC=9D=84 =EC=
+=B7=A8=EC=86=8C =EC=83=81=ED=83=9C=EB=A1=9C =EB=B0=94=EA=BE=B8=EA=B3=A0 =EC=
+=B7=A8=EC=86=8C =EC=A3=BC=EB=AC=B8=EC=84=9C=EB=A5=BC =EC=B6=9C=EB=A0=A5=ED=
+=95=98=EA=B3=A0, =EA=B2=B0=EC=A0=9C=EB=A5=BC =EC=88=9C=EC=B0=A8=EC=A0=81=EC=
+=9C=BC=EB=A1=9C =EC=B7=A8=EC=86=8C=ED=95=9C=EB=8B=A4.</span></li>
+</ol></li>
+</ol></li>
+</ol></li>
+<li><span style=3D"color: rgb(34,34,34);">=EC=8B=9C=EC=9E=AC=EC=A0=90=EA=B2=
+=80&nbsp;</span>
+<ol>
+<li><span style=3D"color: rgb(34,34,34);">=EC=8B=9C=EC=9E=AC=EC=A0=90=EA=B2=
+=80=EA=B3=BC =EC=8B=9C=EC=9E=AC=EC=A0=90=EA=B2=80=EB=AA=A9=EB=A1=9D =EB=A9=
+=94=EB=89=B4 =EA=B5=AC=EB=B6=84</span></li>
+<li><span style=3D"color: rgb(34,34,34);">=EC=8B=9C=EC=9E=AC=EC=A0=90=EA=B2=
+=80</span>
+<ol>
+<li><a href=3D"https://5x4efx.axshare.com/#g=3D1&amp;p=3D%EC%8B%9C%EC%9E%AC=
+%EC%A0%90%EA%B2%80%EC%83%9D%EC%84%B1_1" class=3D"external-link" rel=3D"nofo=
+llow">https://5x4efx.axshare.com/#g=3D1&amp;p=3D%EC%8B%9C%EC%9E%AC%EC%A0%90=
+%EA%B2%80%EC%83%9D%EC%84%B1_1</a>&nbsp;</li>
+<li><span style=3D"color: rgb(34,34,34);">=EB=8B=A4=EC=9D=8C=EC=9D=98 =EC=
+=88=9C=EC=84=9C=EB=A1=9C =EB=B3=B4=EC=97=AC=EC=A4=8C</span>
+<ol>
+<li><span style=3D"color: rgb(34,34,34);">=EC=98=81=EC=97=85=EC=A4=80=EB=B9=
+=84=EA=B8=88</span>
+<ol>
+<li><span style=3D"color: rgb(34,34,34);">=EC=9E=85=EA=B8=88 =EA=B3=84=EC=
+=A0=95=EC=A4=91 '=EC=98=81=EC=97=85=EC=A4=80=EB=B9=84=EA=B8=88'=EB=A7=8C =
+=ED=95=A9=EC=9D=84 =EB=B3=B4=EC=97=AC=EC=A4=8C</span></li>
+</ol></li>
+<li><span style=3D"color: rgb(34,34,34);">=EC=9E=85=EA=B8=88</span>
+<ol>
+<li><span style=3D"color: rgb(34,34,34);">=EC=98=81=EC=97=85=EC=A4=80=EB=B9=
+=84=EA=B8=88 =EA=B3=84=EC=A0=95=EC=9D=84 =EC=A0=9C=EC=99=B8=ED=95=9C =EB=AA=
+=A8=EB=93=A0 =EC=9E=85=EA=B8=88=EC=95=A1=EC=9D=98 =ED=95=A9</span></li>
+</ol></li>
+<li><span style=3D"color: rgb(34,34,34);">=EC=B6=9C=EA=B8=88</span></li>
+<li><span style=3D"color: rgb(34,34,34);">=EC=98=88=EC=83=81=EC=8B=9C=EC=9E=
+=AC</span></li>
+<li><span style=3D"color: rgb(34,34,34);">=EA=B8=88=EC=A0=84=ED=95=A8=ED=99=
+=95=EC=9D=B8</span></li>
+<li><span style=3D"color: rgb(34,34,34);">=EA=B3=BC=EB=B6=80=EC=A1=B1</span=
+></li>
+</ol></li>
+<li><span style=3D"color: rgb(34,34,34);">=EC=98=81=EC=97=85=EC=A4=80=EB=B9=
+=84=EA=B8=88=EC=9D=80 =ED=81=B4=EB=A6=AD=ED=95=98=EC=97=AC =EC=B6=94=EA=B0=
+=80=ED=95=A0 =EC=88=98 =EC=9E=88=EC=9D=8C</span></li>
+<li>=EC=8B=9C=EC=9E=AC=EC=A0=90=EA=B2=80=EB=93=B1=EB=A1=9D
+<ol>
+<li>3=EA=B0=80=EC=A7=80 =EC=98=B5=EC=85=98=EC=9C=BC=EB=A1=9C =EC=A0=90=EA=
+=B2=80=EC=9D=84 =EC=A0=95=EB=A6=AC=ED=95=A0 =EC=88=98 =EC=9E=88=EC=9D=8C
+<ol>
+<li>=EA=B8=88=EC=A0=84=ED=95=A8=EB=B9=84=EC=9A=B0=EA=B8=B0
+<ol>
+<li>=EA=B8=88=EC=A0=84=ED=95=A8=EC=9D=98 =EB=8F=88=EC=9D=84 =EB=AA=A8=EB=91=
+=90 =EA=B0=80=EC=A0=B8=EA=B0=84=EB=8B=A4=EA=B3=A0 =EA=B0=80=EC=A0=95</li>
+<li>=EC=9E=85=EC=B6=9C=EB=82=B4=EC=97=AD =EA=B8=B0=EB=A1=9D =EC=95=88=ED=95=
+=A8</li>
+<li>=ED=98=84=EC=9E=AC =EC=98=88=EC=83=81=EC=8B=9C=EC=9E=AC=EB=A5=BC 0=EC=
+=9C=BC=EB=A1=9C Reset</li>
+</ol></li>
+<li>=ED=98=84=EC=9E=AC=EC=8B=9C=EC=9E=AC=EB=A5=BC =EC=98=81=EC=97=85=EC=A4=
+=80=EB=B9=84=EA=B8=88=EC=9C=BC=EB=A1=9C =EB=93=B1=EB=A1=9D
+<ol>
+<li>=ED=98=84=EC=9E=AC=EC=8B=9C=EC=9E=AC=EB=A5=BC =EC=98=81=EC=97=85=EC=A4=
+=80=EB=B9=84=EA=B8=88 =EA=B3=84=EC=A0=95=EC=9C=BC=EB=A1=9C '=EC=9E=85=EA=B8=
+=88' =EC=83=9D=EC=84=B1</li>
+<li>=EC=8B=9C=EC=9E=AC=EC=A0=90=EA=B2=80=EC=97=90 =EB=93=A4=EC=96=B4=EA=B0=
+=80=EB=A9=B4&nbsp;
+<ol>
+<li>=EC=98=81=EC=97=85=EC=A4=80=EB=B9=84=EA=B8=88 : (=EC=9D=B4=EC=A0=84=EC=
+=9D=98 =EC=8B=9C=EC=9E=AC =EA=B8=88=EC=95=A1)</li>
+<li>=EC=98=88=EC=83=81=EC=8B=9C=EC=9E=AC : (=EC=9D=B4=EC=A0=84=EC=9D=98 =EC=
+=8B=9C=EC=9E=AC=EA=B8=88=EC=95=A1)</li>
+<li>=EC=9C=BC=EB=A1=9C =EC=83=9D=EC=84=B1=EB=90=98=EC=96=B4 =EC=9E=88=EC=9D=
+=8C</li>
+</ol></li>
+<li>=EB=8B=A4=EC=9D=8C=EC=8B=9C=EC=9E=AC =EC=A0=90=EA=B2=80=EC=9D=98 =EC=98=
+=81=EC=97=85=EC=A4=80=EB=B9=84=EA=B8=88 =ED=95=AD=EB=AA=A9=EC=9C=BC=EB=A1=
+=9C =EC=82=AC=EC=9A=A9=EB=90=A8</li>
+</ol></li>
+<li>=EB=8B=A4=EC=9D=8C =EC=98=81=EC=97=85=EC=A4=80=EB=B9=84=EA=B8=88 =EC=A7=
+=80=EC=A0=95
+<ol>
+<li>=ED=98=84=EC=9E=AC =EC=98=88=EC=83=81=EC=8B=9C=EC=9E=AC=EB=A5=BC =EC=A7=
+=80=EC=A0=95=ED=95=9C =EA=B8=88=EC=95=A1=EC=9C=BC=EB=A1=9C =EB=B3=80=EA=B2=
+=BD</li>
+<li>=ED=95=B4=EB=8B=B9 =EA=B8=88=EC=95=A1=EC=9D=84 =EC=98=81=EC=97=85=EC=A4=
+=80=EB=B9=84=EA=B8=88=EC=9C=BC=EB=A1=9C =EB=93=B1=EB=A1=9D</li>
+</ol></li>
+</ol></li>
+<li>=EC=8B=9C=EC=9E=AC=EC=A0=90=EA=B2=80=EC=9D=84 =ED=95=98=EB=A9=B4 =EA=B8=
+=B0=EB=B3=B8=EC=9C=BC=EB=A1=9C =ED=98=84=EC=9E=AC =EC=8B=9C=EC=9E=AC=EB=8A=
+=94 0=EC=9C=BC=EB=A1=9C =EC=84=A4=EC=A0=95=ED=95=98=EA=B3=A0, =EC=98=B5=EC=
+=85=98=EC=97=90 =EB=94=B0=EB=9D=BC =EB=8B=A4=EC=9D=8C =EC=98=81=EC=97=85=EC=
+=A4=80=EB=B9=84=EA=B8=88=EC=9D=84 =EC=B6=94=EA=B0=80 =EC=83=9D=EC=84=B1=ED=
+=95=A8</li>
+</ol></li>
+</ol></li>
+<li>=EC=8B=9C=EC=9E=AC=EC=A0=90=EA=B2=80=EB=AA=A9=EB=A1=9D
+<ol>
+<li><a href=3D"https://5x4efx.axshare.com/#g=3D1&amp;p=3D%EC%8B%9C%EC%9E%AC=
+%EC%A0%90%EA%B2%80%EB%A6%AC%EC%8A%A4%ED%8A%B8" class=3D"external-link" rel=
+=3D"nofollow">https://5x4efx.axshare.com/#g=3D1&amp;p=3D%EC%8B%9C%EC%9E%AC%=
+EC%A0%90%EA%B2%80%EB%A6%AC%EC%8A%A4%ED%8A%B8</a>&nbsp;</li>
+<li>=EC=8B=9C=EC=9E=AC=EC=A0=90=EA=B2=80 =EB=82=B4=EC=97=AD=EC=9D=84 =EB=B3=
+=B4=EC=97=AC=EC=A4=8C</li>
+<li>=EC=98=81=EC=97=85=EC=A4=80=EB=B9=84=EA=B8=88=EC=9D=84 =EC=B6=94=EA=B0=
+=80</li>
+<li>=EC=9E=85=EA=B8=88=EC=97=90=EB=8A=94 =EC=98=81=EC=97=85=EC=A4=80=EB=B9=
+=84=EA=B8=88=EC=9D=80 =EC=A0=9C=EC=99=B8</li>
+</ol></li>
+</ol></li>
+<li>=EA=B8=B0=ED=83=80 =EB=B3=B4=EC=99=84=EC=82=AC=ED=95=AD
+<ol>
+<li>=EB=A7=A4=EC=9E=A5=EC=84=A4=EC=A0=95=EC=97=90 =EC=97=85=EC=A2=85=EB=A6=
+=AC=EC=8A=A4=ED=8A=B8 =EC=B6=94=EA=B0=80
+<ol>
+<li>=EC=97=85=EC=A2=85=EB=A6=AC=EC=8A=A4=ED=8A=B8 =EC=B6=94=EA=B0=80
+<ol>
+<li>=EC=A7=81=EC=A0=91=EC=9E=85=EB=A0=A5</li>
+<li>=ED=95=9C=EC=8B=9D</li>
+<li>=EC=9D=BC=EC=8B=9D</li>
+<li>=EC=A4=91=EA=B5=AD=EC=A7=91</li>
+<li>=EC=96=91=EC=8B=9D</li>
+<li>=ED=98=B8=ED=94=84</li>
+<li>=EB=B6=84=EC=8B=9D</li>
+<li>=EC=B9=B4=ED=8E=98</li>
+<li>=EC=B9=98=ED=82=A8</li>
+<li>=ED=94=BC=EC=9E=90</li>
+<li>=ED=96=84=EB=B2=84=EA=B1=B0</li>
+</ol></li>
+</ol></li>
+<li>=EC=83=9D=EC=84=B1=EC=8B=9C =EA=B8=B0=EB=B3=B8=EA=B0=92
+<ol>
+<li>=EB=A7=A4=EC=9E=A5 - "=EB=A7=A4=EC=9E=A5=EC=8B=9D=EC=82=AC"</li>
+<li>=EC=83=81=ED=92=88 - "=EC=98=B5=EC=85=98=ED=95=AD=EC=83=81 =EB=AC=BC=EC=
+=96=B4=EB=B3=B4=EA=B8=B0" =3D=3D True</li>
+<li>=EA=B4=80=EB=A6=AC=EC=9E=90 =EA=B8=B0=EB=B3=B8 PIN =3D 0000</li>
+</ol></li>
+<li>=EC=A3=BC=EB=AC=B8=EB=B2=88=ED=98=B8 =EC=83=88=EB=A1=9C=EC=9A=B4 =EC=98=
+=81=EC=97=85=EC=9D=BC=EC=9D=B8 =EA=B2=BD=EC=9A=B0 1=EB=B2=88=EB=B6=80=ED=84=
+=B0 =EC=8B=9C=EC=9E=91</li>
+<li>=ED=8C=A9=ED=86=A0=EB=A6=AC =EB=A6=AC=EC=85=8B =EA=B8=B0=EB=8A=A5
+<ol>
+<li>=EB=AA=A8=EB=93=A0 =EC=A3=BC=EB=AC=B8, =EA=B2=B0=EC=A0=9C, =ED=98=84=EA=
+=B8=88=EC=B6=9C=EB=82=A9, =EC=8B=9C=EC=9E=AC=EC=A0=90=EA=B2=80 =ED=9E=88=EC=
+=8A=A4=ED=86=A0=EB=A6=AC=EB=A5=BC =EC=82=AD=EC=A0=9C</li>
+<li>=EC=82=AC=EC=9E=A5=EB=8B=98=ED=8E=98=EC=9D=B4=EC=A7=80 &gt; =EA=B8=B0=
+=EB=B3=B8=EC=A0=95=EB=B3=B4 &gt; =EB=A7=A4=EC=9E=A5</li>
+<li>=EB=B9=84=ED=99=9C=EC=84=B1=ED=99=94 =EC=98=86=EC=97=90 "=EC=98=81=EC=
+=97=85=EC=A0=95=EB=B3=B4=EC=B4=88=EA=B8=B0=ED=99=94"
+<ol>
+<li>=ED=8C=9D=EC=97=85 : =ED=98=84=EC=9E=AC =EB=AA=A8=EB=93=A0 =EC=A3=BC=EB=
+=AC=B8/=EA=B2=B0=EC=A0=9C/=ED=98=84=EA=B8=88=EC=9E=85=EC=B6=9C/=EB=A7=A4=EC=
+=B6=9C=EC=A0=95=EB=B3=B4=EA=B0=80 =EC=B4=88=EA=B8=B0=ED=99=94 =EB=90=A9=EB=
+=8B=88=EB=8B=A4. =EB=8B=A4=EC=8B=9C =EB=B3=B5=EA=B5=AC=ED=95=A0 =EC=88=98 =
+=EC=97=86=EC=8A=B5=EB=8B=88=EB=8B=A4. =EC=B4=88=EA=B8=B0=ED=99=94=ED=95=98=
+=EB=A0=A4=EB=A9=B4 =EB=B9=84=EB=B0=80=EB=B2=88=ED=98=B8=EA=B0=80 =ED=95=84=
+=EC=9A=94=ED=95=A9=EB=8B=88=EB=8B=A4." "=EC=95=84=EB=8B=88=EC=9A=94" "=ED=
+=99=95=EC=9D=B8"&nbsp;
+<ol>
+<li>=EA=B4=80=EB=A6=AC=EC=9E=90=EB=B9=84=EB=B0=80=EB=B2=88=ED=98=B8=EB=A5=
+=BC =EC=9E=85=EB=A0=A5=ED=95=B4=EC=A3=BC=EC=84=B8=EC=9A=94 "=EC=B7=A8=EC=86=
+=8C" "=ED=99=95=EC=9D=B8"</li>
+</ol></li>
+</ol></li>
+</ol></li>
+<li>=EC=8A=A4=ED=83=80=EC=9D=BC =EB=B2=84=EA=B7=B8
+<ol>
+<li>=EB=A9=94=EB=89=B4=EA=B7=B8=EB=A3=B9 =EB=B2=84=ED=8A=BC=EB=B0=B0=EC=B9=
+=98 =ED=8E=B8=EC=A7=91=EC=8B=9C =ED=8F=B0=ED=8A=B8 =EC=84=A0=ED=83=9D =EB=
+=B6=88=EA=B0=80&nbsp;
+<ol>
+<li>=ED=8C=9D=EC=97=85=EC=B0=BD=EB=B3=B4=EB=8B=A4 =EB=93=9C=EB=A1=AD=EB=8B=
+=A4=EC=9A=B4=EC=9D=B4 =EB=82=B4=EB=A0=A4=EA=B0=80=EC=84=9C =EC=84=A0=ED=83=
+=9D =EB=B6=88=EA=B0=80</li>
+</ol></li>
+<li>=EB=B3=B5=EC=88=98=EC=9D=98 =EC=83=81=ED=92=88=EC=9D=84 =EC=83=81=ED=92=
+=88=EB=B6=84=EB=A5=98=EC=97=90 =ED=95=A0=EB=8B=B9=ED=95=A0 =EB=95=8C 1024X7=
+68 =EC=9D=B8 =EA=B2=BD=EC=9A=B0 =ED=8C=9D=EC=97=85=EC=9D=B4 =EC=9E=91=EC=95=
+=84=EC=84=9C =EB=A7=88=EC=A7=80=EB=A7=89 =EC=95=84=EC=9D=B4=ED=85=9C 2~3=EA=
+=B0=9C =EC=84=A0=ED=83=9D =EB=B6=88=EA=B0=80</li>
+<li>=EC=83=81=ED=92=88=EB=B6=84=EB=A5=98=ED=95=84=ED=84=B0
+<ol>
+<li>=EC=83=81=ED=92=88=EB=B6=84=EB=A5=98=EB=A5=BC =EC=84=A0=ED=83=9D=ED=95=
+=98=EB=A9=B4 =EB=8B=A4=EB=A5=B8 =EA=B0=92=EC=9D=84 =EB=AC=B4=EC=A1=B0=EA=B1=
+=B4 =EC=84=A0=ED=83=9D=ED=95=B4=EC=95=BC =EB=93=9C=EB=A1=AD=EB=8B=A4=EC=9A=
+=B4 =EB=A9=94=EB=89=B4=EA=B0=80 =EB=8B=AB=ED=9E=98.
+<ol>
+<li>=EC=98=86=EC=9D=84 =EC=84=A0=ED=83=9D=ED=95=98=EA=B1=B0=EB=82=98 =EC=9D=
+=B4=EB=AF=B8 =EC=84=A0=ED=83=9D=EB=90=9C =EA=B0=92=EC=9D=84 =EC=84=A0=ED=83=
+=9D=ED=95=B4=EB=8F=84 =EB=93=9C=EB=A1=AD=EB=8B=A4=EC=9A=B4 =EB=8B=AB=ED=9E=
+=88=EB=8F=84=EB=A1=9D =EC=88=98=EC=A0=95</li>
+</ol></li>
+</ol></li>
+</ol></li>
+<li>=EB=B3=B5=EC=88=98 =EC=84=A0=ED=83=9D=EC=8B=9C =EB=8F=99=EC=9E=91 =ED=
+=86=B5=EC=9D=BC
+<ol>
+<li>=EC=B6=94=EA=B0=80=EC=9D=98 =EA=B0=9C=EB=85=90=EC=9D=B4 =EC=95=84=EB=8B=
+=88=EB=9D=BC '=ED=98=84=EC=9E=AC =ED=95=A0=EB=8B=B9=EB=90=9C =EC=83=81=ED=
+=83=9C'=EC=9E=84
+<ol>
+<li>(=EB=B2=84=EA=B7=B8) =EC=83=81=ED=92=88=EB=B6=84=EB=A5=98 =ED=95=84=ED=
+=84=B0=EB=A5=BC =EA=B1=B8=EA=B3=A0 =EC=A0=84=EC=B2=B4 =EC=84=A0=ED=83=9D=EC=
+=9D=84 =ED=95=98=EB=A9=B4 =EA=B8=B0=EC=A1=B4=EC=9D=98 =EC=83=81=ED=92=88=EC=
+=9D=B4 uncheck=EB=90=98=EC=96=B4 =EC=A0=9C=EA=B1=B0=EB=90=98=EB=8A=94 =EB=
+=B2=84=EA=B7=B8=EA=B0=80 =EB=B0=9C=EC=83=9D (=EC=98=B5=EC=85=98=EA=B7=B8=EB=
+=A3=B9 / =EB=A9=94=EB=89=B4=EA=B7=B8=EB=A3=B9)</li>
+<li>=EB=A9=94=EB=89=B4=EA=B7=B8=EB=A3=B9=EC=97=90=EC=84=9C=EB=8A=94 uncheck=
+ =ED=95=B4=EB=8F=84 =EB=A9=94=EB=89=B4=EA=B7=B8=EB=A3=B9=EC=97=90 =EA=B3=84=
+=EC=86=8D =EB=82=A8=EC=95=84=EC=9E=88=EC=9D=8C&nbsp; =E2=86=92 =EB=A9=94=EB=
+=89=B4=EA=B7=B8=EB=A3=B9=EC=97=90=EC=84=9C=EB=8F=84 uncheck =ED=95=98=EB=A9=
+=B4 =ED=95=A0=EB=8B=B9 =EC=A0=9C=EA=B1=B0=EB=90=98=EB=8F=84=EB=A1=9D =EC=88=
+=98=EC=A0=95 (=EB=8F=99=EC=9D=BC=ED=95=98=EA=B2=8C =EC=88=98=EC=A0=95)</li>
+</ol></li>
+</ol></li>
+<li>=EA=B4=80=EB=A6=AC=EC=9E=90 =EA=B8=B0=EB=B3=B8 PIN&nbsp;
+<ol>
+<li>=EA=B4=80=EB=A6=AC=EC=9E=90 =EA=B8=B0=EB=B3=B8 PIN=EC=9D=80 0000=EC=9C=
+=BC=EB=A1=9C =EC=83=9D=EC=84=B1</li>
+</ol></li>
+<li>=EB=B2=84=ED=8A=BC=EB=B0=B0=EC=B9=98=EC=8B=9C word wrap =EC=A7=80=EC=9B=
+=90
+<ol>
+<li>=EB=A9=94=EB=89=B4=EA=B7=B8=EB=A3=B9=EB=AA=85, =EC=83=81=ED=92=88=EB=AA=
+=85=EC=97=90 =EA=B3=B5=EB=B0=B1=EA=B8=B0=EC=A4=80=EC=9C=BC=EB=A1=9C =EC=A4=
+=84=EB=B0=94=EA=BF=88=EC=9D=84 =ED=95=9C=EB=8B=A4.&nbsp;&nbsp;</li>
+</ol></li>
+</ol></li>
+</ol>
+<p><br></p>
+<h2 id=3D"Poly_milestone#2-#6CEO-=ED=85=8C=EC=9D=B4=EB=B8=94=EA=B4=80=EB=A6=
+=AC"><strong>#6 CEO - =ED=85=8C=EC=9D=B4=EB=B8=94 =EA=B4=80=EB=A6=AC&nbsp;<=
+/strong></h2>
+<ol>
+<li>=EA=B0=9C=EC=9A=94
+<ol>
+<li>=EA=B0=81 =EB=A7=A4=EC=9E=A5=EC=9D=98 =EB=B0=B0=EC=B9=98=EB=A5=BC =EC=
+=83=9D=EC=84=B1/=EC=88=98=EC=A0=95/=EC=82=AD=EC=A0=9C=ED=95=A0 =EC=88=98 =
+=EC=9E=88=EB=8B=A4.</li>
+<li>=ED=95=B4=EB=8B=B9 =EB=A0=88=EC=9D=B4=EC=95=84=EC=9B=83=EC=9D=80 POS=EC=
+=97=90=EC=84=9C =EC=A3=BC=EB=AC=B8 =ED=99=94=EB=A9=B4=EC=97=90 =EB=B3=B4=EC=
+=97=AC=EC=A7=84=EB=8B=A4</li>
+<li>(TBD) =EC=B0=A8=ED=9B=84 =ED=8F=AC=EC=9E=A5, =EB=B0=B0=EB=8B=AC =EC=A3=
+=BC=EB=AC=B8 =EB=93=B1 =EB=8B=A4=EB=A5=B8 =ED=98=95=ED=83=9C=EC=9D=98 Activ=
+e =EC=A3=BC=EB=AC=B8 =EB=A0=88=EC=9D=B4=EC=95=84=EC=9B=83=EC=9D=B4 =ED=95=
+=84=EC=9A=94=ED=95=9C =EA=B2=BD=EC=9A=B0=EB=8A=94 =EC=9C=A0=ED=98=95=EC=9D=
+=84 =EB=B3=80=EA=B2=BD=ED=95=98=EC=97=AC =ED=99=95=EC=9E=A5=ED=95=9C=EB=8B=
+=A4.
+<ol>
+<li>=ED=98=84=EC=9E=AC=EB=8A=94 =ED=85=8C=EC=9D=B4=EB=B8=94=EB=B0=B0=EC=B9=
+=98=EA=B0=80 =EA=B8=B0=EB=B3=B8</li>
+<li>=ED=96=A5=ED=9B=84 '=ED=8F=AC=EC=9E=A5=EC=A0=84=EC=9A=A9' =EB=A0=88=EC=
+=9D=B4=EC=95=84=EC=9B=83</li>
+<li>'=EB=B0=B0=EB=8B=AC=EC=A3=BC=EB=AC=B8' =EB=A0=88=EC=9D=B4=EC=95=84=EC=
+=9B=83</li>
+<li>=EC=9C=A0=ED=98=95=EC=9D=B4 =EC=B6=94=EA=B0=80 =EC=98=88=EC=A0=95=EC=9D=
+=B4=EB=8B=A4.</li>
+<li>=EB=A0=88=EC=9D=B4=EB=B8=94=EC=9D=80 =EA=B7=B8=EB=95=8C =EC=B6=94=EA=B0=
+=80=EB=90=A0 =EB=95=8C =EC=A0=81=EC=A0=88=ED=95=9C =EC=9D=B4=EB=A6=84=EC=9C=
+=BC=EB=A1=9C =EB=B3=80=EA=B2=BD=ED=95=98=EA=B3=A0, =ED=98=84=EC=9E=AC=EB=8A=
+=94 =ED=85=8C=EC=9D=B4=EB=B8=94=EA=B4=80=EB=A6=AC=EB=A1=9C =ED=95=9C=EB=8B=
+=A4</li>
+</ol></li>
+</ol></li>
+<li>=EB=A0=88=EC=9D=B4=EC=95=84=EC=9B=83 =EB=A6=AC=EC=8A=A4=ED=8A=B8
+<ol>
+<li>=EB=A7=A4=EC=9E=A5&gt;=ED=85=8C=EC=9D=B4=EB=B8=94=EA=B4=80=EB=A6=AC</li=
+>
+<li>=EA=B8=B0=EB=8A=A5&nbsp;
+<ol>
+<li>=EC=A0=84=EC=B2=B4 =EC=83=9D=EC=84=B1=EB=90=9C =EB=A0=88=EC=9D=B4=EC=95=
+=84=EC=9B=83 =EB=A6=AC=EC=8A=A4=ED=8A=B8=EB=A5=BC =EB=B3=B4=EC=97=AC=EC=A4=
+=80=EB=8B=A4.</li>
+<li>=EB=A0=88=EC=9D=B4=EC=95=84=EC=9B=83 =EC=83=9D=EC=84=B1 =EB=B2=84=ED=8A=
+=BC=EC=9D=B4 =EC=9E=88=EB=8B=A4.</li>
+<li>=ED=95=9C =EB=A0=88=EC=9D=B4=EC=95=84=EC=9B=83=EC=9D=84 =EC=84=A0=ED=83=
+=9D=ED=95=98=EC=97=AC =EC=82=AD=EC=A0=9C, =EC=88=98=EC=A0=95=ED=95=A0 =EC=
+=88=98 =EC=9E=88=EB=8B=A4</li>
+<li>=EB=93=9C=EB=9E=98=EA=B7=B8=EC=95=A4 =EB=93=9C=EB=A1=AD=EC=9C=BC=EB=A1=
+=9C =EC=88=9C=EC=84=9C=EB=A5=BC =EB=B3=80=EA=B2=BD=ED=95=A0 =EC=88=98 =EC=
+=9E=88=EB=8B=A4
+<ol>
+<li>=ED=95=B4=EB=8B=B9 =EC=88=9C=EC=84=9C=EB=8A=94 POS=EC=97=90=EC=84=9C =
+=EB=B3=B4=EC=97=AC=EC=A3=BC=EB=8A=94 =EC=88=9C=EC=84=9C=EB=A5=BC =EB=B3=80=
+=EA=B2=BD=ED=95=9C=EB=8B=A4</li>
+</ol></li>
+</ol></li>
+<li>=EC=84=B8=EB=B6=80 =ED=95=AD=EB=AA=A9
+<ol>
+<li>=EB=A0=88=EC=9D=B4=EC=95=84=EC=9B=83=EC=9D=B4=EB=A6=84, =ED=85=8C=EC=9D=
+=B4=EB=B8=94 =EC=88=98, =EC=88=98=EC=A0=95=EB=B2=84=ED=8A=BC, =EC=82=AD=EC=
+=A0=9C=EB=B2=84=ED=8A=BC</li>
+</ol></li>
+</ol></li>
+<li>=EB=A0=88=EC=9D=B4=EC=95=84=EC=9B=83 =EC=83=9D=EC=84=B1
+<ol>
+<li>=EB=A0=88=EC=9D=B4=EC=95=84=EC=9B=83 =EC=83=9D=EC=84=B1=EC=9D=84 =EB=88=
+=84=EB=A5=B8=EB=8B=A4</li>
+<li>=EB=A0=88=EC=9D=B4=EC=95=84=EC=9B=83=EC=9D=B4=EB=A6=84(=ED=94=8C=EB=A0=
+=88=EC=9D=B4=EC=8A=A4 =ED=99=80=EB=8D=94 :1=EC=B8=B5), =ED=85=8C=EC=9D=B4=
+=EB=B8=94 =EC=88=98=EB=A5=BC =EC=9E=85=EB=A0=A5=ED=95=9C=EB=8B=A4
+<ol>
+<li>=ED=85=8C=EC=9D=B4=EB=B8=94 =EC=88=98=EB=8A=94 0~OO =EA=B9=8C=EC=A7=80 =
+=EC=9E=85=EB=A0=A5=ED=95=A0 =EC=88=98 =EC=9E=88=EB=8B=A4</li>
+</ol></li>
+<li>=EC=B4=88=EA=B8=B0 =EB=B0=B0=EC=B9=98
+<ol>
+<li>=ED=85=8C=EC=9D=B4=EB=B8=94 =EC=88=98=EA=B0=80 OO=EA=B0=9C =EB=AF=B8=EB=
+=A7=8C=EC=9D=B4=EB=A9=B4
+<ol>
+<li>=ED=85=8C=EC=9D=B4=EB=B8=94 =EA=B8=B0=EB=B3=B8 =EC=82=AC=EC=9D=B4=EC=A6=
+=88=EB=A1=9C =ED=95=B4=EB=8B=B9 =ED=85=8C=EC=9D=B4=EB=B8=94=EC=9D=B4 =EC=A0=
+=95=EB=A0=AC=EB=90=98=EC=96=B4 =EB=B0=B0=EC=B9=98=EB=90=9C=EB=8B=A4</li>
+</ol></li>
+<li>OO=EA=B0=9C =EC=9D=B4=EC=83=81=EC=9D=B4=EB=A9=B4 =EC=82=AC=EC=9D=B4=EC=
+=A6=88=EB=A5=BC =EC=A4=84=EC=97=AC=EC=84=9C =EB=B0=B0=EC=B9=98=ED=95=9C=EB=
+=8B=A4</li>
+<li>=EB=A0=88=EC=9D=B4=EB=B8=94=EC=9D=80 1=EB=B6=80=ED=84=B0 =EC=88=AB=EC=
+=9E=90=EB=A7=8C=ED=81=BC =EC=9E=90=EB=8F=99 =EC=83=9D=EC=84=B1=EB=90=9C=EB=
+=8B=A4</li>
+<li>=EC=9D=B4=EB=AF=B8 =EC=B5=9C=EC=B4=88 =EB=B2=84=EC=A0=84 =EC=A0=80=EC=
+=9E=A5=EB=90=9C =EC=83=81=ED=83=9C=EC=9D=B4=EB=8B=A4</li>
+</ol></li>
+</ol></li>
+<li>=EB=A0=88=EC=9D=B4=EC=95=84=EC=9B=83 =EC=88=98=EC=A0=95
+<ol>
+<li>=EC=83=9D=EC=84=B1=EB=90=9C =EB=A0=88=EC=9D=B4=EC=95=84=EC=9B=83 '=EC=
+=88=98=EC=A0=95'=EC=9D=84 =EB=88=84=EB=A5=B8=EB=8B=A4</li>
+<li>=ED=85=8C=EC=9D=B4=EB=B8=94=EC=88=98=EC=A0=95
+<ol>
+<li>=EC=9C=84=EC=B9=98=EC=9D=B4=EB=8F=99
+<ol>
+<li>=ED=85=8C=EC=9D=B4=EB=B8=94=EC=9D=84 =ED=81=B4=EB=A6=AD=ED=95=98=EC=97=
+=AC =EB=93=9C=EB=9E=98=EA=B7=B8=EC=95=A4 =EB=93=9C=EB=A1=AD=EC=9C=BC=EB=A1=
+=9C =EC=9D=B4=EB=8F=99=EC=8B=9C=ED=82=AC =EC=88=98=EC=9E=88=EB=8B=A4</li>
+<li>=EB=B3=B5=EC=88=98=EC=9D=98 =ED=85=8C=EC=9D=B4=EB=B8=94=EC=9D=84 =EC=84=
+=A0=ED=83=9D=ED=95=98=EC=97=AC =EC=9D=B4=EB=8F=99=EC=8B=9C=ED=82=AC =EC=88=
+=98 =EC=9E=88=EB=8B=A4</li>
+<li>(=EA=B2=B9=EC=B9=98=EA=B2=8C =EB=B0=B0=EC=B9=98=ED=95=A0 =EC=88=98 =EC=
+=9E=88=EB=8B=A4 )</li>
+</ol></li>
+<li>&nbsp;=EB=A6=AC=EC=82=AC=EC=9D=B4=EC=A6=88
+<ol>
+<li>=ED=81=B4=EB=A6=AD=EC=9D=84 =ED=95=98=EB=A9=B4 =EB=A6=AC=EC=82=AC=EC=9D=
+=B4=EC=A6=88 =EC=83=81=ED=83=9C=EA=B0=80 =EB=90=9C=EB=8B=A4.</li>
+<li>=EB=AA=A8=EC=84=9C=EB=A6=AC =EB=93=9C=EB=9E=98=EA=B7=B8=EB=A1=9C =EC=82=
+=AC=EC=9D=B4=EC=A6=88=EB=A5=BC =EB=B3=80=EA=B2=BD=ED=95=A0 =EC=88=98 =EC=9E=
+=88=EB=8B=A4</li>
+</ol></li>
+<li>=EA=B7=B8=EB=A6=AC=EB=93=9C =EB=B0=B0=EC=B9=98
+<ol>
+<li>=EC=9C=84=EC=B9=98=EC=9D=B4=EB=8F=99, =EB=A6=AC=EC=82=AC=EC=9D=B4=EC=A6=
+=88=EB=8A=94 =EB=AA=A8=EB=91=90 =EA=B7=B8=EB=A6=AC=EB=93=9C=EC=97=90 =EB=A7=
+=9E=EC=B6=B0 =EC=9D=B4=EB=A3=A8=EC=96=B4=EC=A7=84=EB=8B=A4</li>
+</ol></li>
+<li>=EB=A6=AC=EB=84=A4=EC=9E=84
+<ol>
+<li>=EB=A0=88=EC=9D=B4=EB=B8=94=EC=9D=84 =ED=81=B4=EB=A6=AD=ED=95=98=EB=A9=
+=B4 =EC=88=98=EC=A0=95 =EC=83=81=ED=83=9C=EA=B0=80 =EB=90=9C=EB=8B=A4.&nbsp=
+;</li>
+<li>=EC=88=98=EC=A0=95=EC=9D=84 =ED=95=98=EA=B3=A0 =EC=97=94=ED=84=B0=EB=A5=
+=BC =EB=88=84=EB=A5=B4=EB=A9=B4 =ED=95=B4=EB=8B=B9 =EC=9D=B4=EB=A6=84=EC=9C=
+=BC=EB=A1=9C =EB=B3=80=EA=B2=BD=EB=90=9C=EB=8B=A4</li>
+</ol></li>
+<li><s>=ED=8F=B0=ED=8A=B8 =EC=82=AC=EC=9D=B4=EC=A6=88 =EB=B3=80=EA=B2=BD</s=
+>
+<ol>
+<li><s>=ED=85=8C=EC=9D=B4=EB=B8=94=EC=9D=98 =ED=8F=B0=ED=8A=B8 =EC=82=AC=EC=
+=9D=B4=EC=A6=88=EB=A5=BC =EB=B3=80=EA=B2=BD=ED=95=A0 =EC=88=98 =EC=9E=88=EB=
+=8B=A4</s></li>
+<li><s>=EB=B3=B5=EC=88=98=EC=9D=98 =EC=84=A0=ED=83=9D=EC=9D=B4 =EA=B0=80=EB=
+=8A=A5=ED=95=98=EA=B3=A0, =EB=B3=B5=EC=88=98=EC=97=90 =EC=A0=81=EC=9A=A9=EB=
+=90=9C=EB=8B=A4</s></li>
+</ol></li>
+</ol></li>
+<li>=ED=85=8C=EC=9D=B4=EB=B8=94 =EC=82=AD=EC=A0=9C
+<ol>
+<li>=EB=B3=B5=EC=88=98=EC=9D=98 =ED=85=8C=EC=9D=B4=EB=B8=94=EC=9D=84 =EC=84=
+=A0=ED=83=9D=ED=95=98=EA=B3=A0 =ED=9C=B4=EC=A7=80=ED=86=B5 =EC=95=84=EC=9D=
+=B4=EC=BD=98=EC=9D=84 =EB=88=84=EB=A5=B4=EB=A9=B4 =EC=82=AD=EC=A0=9C=ED=95=
+=A0 =EC=88=98 =EC=9E=88=EB=8B=A4</li>
+</ol></li>
+<li>=ED=85=8C=EC=9D=B4=EB=B8=94 =EC=B6=94=EA=B0=80
+<ol>
+<li>=EC=83=88=EB=A1=9C=EC=9A=B4=ED=85=8C=EC=9D=B4=EB=B8=94=EC=9D=84 =EB=93=
+=9C=EB=9E=98=EA=B7=B8=EC=95=A4 =EB=93=9C=EB=A1=AD=ED=95=98=EC=97=AC =EB=B0=
+=B0=EC=B9=98=ED=95=A0 =EC=88=98 =EC=9E=88=EB=8B=A4</li>
+<li>=EB=A0=88=EC=9D=B4=EB=B8=94=EC=9D=80 =EB=82=98=EC=A4=91=EC=97=90 =EC=9E=
+=85=EB=A0=A5=ED=95=A0 =EC=88=98 =EC=9E=88=EB=8B=A4</li>
+</ol></li>
+<li>=EA=B5=AC=EC=A1=B0=EB=AC=BC =EC=B6=94=EA=B0=80
+<ol>
+<li>=EC=83=88=EB=A1=9C=EC=9A=B4 =EA=B5=AC=EC=A1=B0=EB=AC=BC=EC=9D=84 =EB=93=
+=9C=EB=9E=98=EA=B7=B8=EC=95=A4 =EB=93=9C=EB=A1=AD=EC=9C=BC=EB=A1=9C =EB=B0=
+=B0=EC=B9=98=ED=95=A0 =EC=88=98 =EC=9E=88=EB=8B=A4</li>
+<li>=EB=A0=88=EC=9D=B4=EB=B8=94=EC=9D=84 =EC=9E=85=EB=A0=A5=ED=95=A0 =EC=88=
+=98 =EC=9E=88=EB=8B=A4</li>
+</ol></li>
+<li>=EC=88=98=EC=A0=95 =EC=A0=80=EC=9E=A5 / =EC=B7=A8=EC=86=8C
+<ol>
+<li>=EC=88=98=EC=A0=95=EC=9D=B4 =EC=A1=B0=EA=B8=88=EC=9D=B4=EB=9D=BC=EB=8F=
+=84 =EC=9E=88=EC=9C=BC=EB=A9=B4 =EC=A0=80=EC=9E=A5 =EB=B2=84=ED=8A=BC=EC=9D=
+=B4 =ED=99=9C=EC=84=B1=ED=99=94 =EB=90=9C=EB=8B=A4</li>
+<li>=EC=88=98=EC=A0=95=EC=9D=B4 =EC=9E=88=EB=8A=94 =EC=83=81=ED=83=9C=EC=97=
+=90=EC=84=9C =EC=B7=A8=EC=86=8C=EB=A5=BC =EB=88=84=EB=A5=B4=EB=A9=B4 =ED=8C=
+=9D=EC=97=85=EC=9D=B4 =EB=9C=AC=EB=8B=A4
+<ol>
+<li>"=EC=A0=80=EC=9E=A5=EB=90=98=EC=A7=80 =EC=95=8A=EC=9D=80 =EB=B3=80=EA=
+=B2=BD=EC=82=AC=ED=95=AD=EC=9D=B4 =EC=9E=88=EC=8A=B5=EB=8B=88=EB=8B=A4. =EC=
+=A7=84=ED=96=89=ED=95=98=EC=8B=9C=EA=B2=A0=EC=8A=B5=EB=8B=88=EB=8B=A4? "=EC=
+=95=84=EB=8B=88=EC=9A=94" "=ED=99=95=EC=9D=B8"</li>
+</ol></li>
+<li>=EC=88=98=EC=A0=95=EC=9D=B4 =EC=97=86=EB=8A=94 =EC=83=81=ED=83=9C=EC=97=
+=90=EC=84=9C =EC=B7=A8=EC=86=8C=EB=A5=BC =EB=88=84=EB=A5=B4=EB=A9=B4 =EB=A6=
+=AC=EC=8A=A4=ED=8A=B8=EB=A1=9C =EB=8F=8C=EC=95=84=EA=B0=84=EB=8B=A4</li>
+<li>=EC=A0=80=EC=9E=A5=EC=8B=9C
+<ol>
+<li>=EB=A0=88=EC=9D=B4=EB=B8=94=EC=9D=B4 =EC=97=86=EA=B1=B0=EB=82=98, =EC=
+=A4=91=EB=B3=B5=EB=90=9C =ED=85=8C=EC=9D=B4=EB=B8=94=EC=9D=B4 =EC=9E=88=EC=
+=9C=BC=EB=A9=B4 =EA=B2=BD=EA=B3=A0=EB=A5=BC =EB=B3=B4=EC=97=AC=EC=A4=80=EB=
+=8B=A4</li>
+<li>"=EB=A0=88=EC=9D=B4=EB=B8=94=EC=9D=B4 =EC=97=86=EA=B1=B0=EB=82=98, =EC=
+=A4=91=EB=B3=B5=EB=90=9C =ED=85=8C=EC=9D=B4=EB=B8=94=EC=9D=B4 =EC=9E=88=EC=
+=8A=B5=EB=8B=88=EB=8B=A4" "=EC=A7=84=ED=96=89=ED=95=98=EC=8B=9C=EA=B2=A0=EC=
+=8A=B5=EB=8B=88=EA=B9=8C?" "=EC=B7=A8=EC=86=8C" "=ED=99=95=EC=9D=B8"</li>
+</ol></li>
+</ol></li>
+</ol></li>
+<li>=EB=A0=88=EC=9D=B4=EC=95=84=EC=9B=83 =EC=82=AD=EC=A0=9C
+<ol>
+<li>=EB=A0=88=EC=9D=B4=EC=95=84=EC=9B=83 =EB=A6=AC=EC=8A=A4=ED=8A=B8=EC=97=
+=90=EC=84=9C =EB=A0=88=EC=9D=B4=EC=95=84=EC=9B=83=EC=9D=84 =EC=82=AD=EC=A0=
+=9C=ED=95=A0 =EC=88=98 =EC=9E=88=EB=8B=A4</li>
+<li>"=EB=A0=88=EC=9D=B4=EC=95=84=EC=9B=83=EC=9D=84 =EC=82=AD=EC=A0=9C=ED=95=
+=A9=EB=8B=88=EB=8B=A4. =EC=A7=84=ED=96=89=ED=95=98=EC=8B=9C=EA=B2=A0=EC=8A=
+=B5=EB=8B=88=EA=B9=8C?" "=EC=B7=A8=EC=86=8C" "=ED=99=95=EC=9D=B8"</li>
+</ol></li>
+</ol>
+<h2 id=3D"Poly_milestone#2-#7CEO-=ED=9B=84=EB=B6=88=EA=B4=80=EB=A0=A8=EC=84=
+=A4=EC=A0=95=EC=B6=94=EA=B0=80"><strong>#7 CEO - =ED=9B=84=EB=B6=88=EA=B4=
+=80=EB=A0=A8 =EC=84=A4=EC=A0=95 =EC=B6=94=EA=B0=80</strong></h2>
+<ol>
+<li>POS =EC=84=A4=EC=A0=95=EC=97=90 =ED=9B=84=EB=B6=88 =EC=84=A4=EC=A0=95 =
+=EA=B0=80=EB=8A=A5
+<ol>
+<li>=EA=B8=B0=EB=B3=B8 =EA=B0=92=EC=9D=80 =EC=84=A0=EB=B6=88&nbsp;</li>
+<li>=ED=9B=84=EB=B6=88 =EC=84=A4=EC=A0=95=EC=9D=84 =ED=95=98=EB=A9=B4 =EC=
+=86=90=EB=8B=98=EC=88=98=EB=A5=BC =EC=9E=85=EB=A0=A5=EB=B0=9B=EB=8A=94 =EC=
+=B2=B4=ED=81=AC=EB=B0=95=EC=8A=A4 =ED=99=9C=EC=84=B1=ED=99=94
+<ol>
+<li>=EB=A0=88=EC=9D=B4=EB=B8=94 : '=EC=A3=BC=EB=AC=B8=EC=8B=9C =EC=86=90=EB=
+=8B=98 =EC=88=98 =EC=9E=85=EB=A0=A5'</li>
+<li>=EA=B8=B0=EB=B3=B8=EA=B0=92 : true</li>
+</ol></li>
+<li>=EA=B8=B0=EB=B3=B8 =EC=A3=BC=EB=AC=B8 =EC=9C=A0=ED=98=95=EC=9D=80 =EC=
+=84=A0=EB=B6=88=EC=97=90=EB=A7=8C =ED=95=B4=EB=8B=B9=EB=90=9C=EB=8B=A4
+<ol>
+<li>=EC=9C=84=EC=B9=98 =EB=B3=80=EA=B2=BD</li>
+</ol></li>
+<li>=EC=A3=BC=EB=AC=B8=EC=84=B8=EB=B6=80 =EC=A0=95=EB=B3=B4
+<ol>
+<li>=EC=9D=B8=EC=9B=90=EC=88=98 =EC=BB=AC=EB=9F=BC=EC=9D=84 =EC=B6=94=EA=B0=
+=80=ED=95=9C=EB=8B=A4</li>
+<li>=ED=85=8C=EC=9D=B4=EB=B8=94 =EB=B2=88=ED=98=B8=EB=A5=BC =EC=B6=94=EA=B0=
+=80=ED=95=9C=EB=8B=A4</li>
+</ol></li>
+<li><s>=EC=A3=BC=EB=AC=B8 =EC=B6=94=EA=B0=80 =EC=A3=BC=EB=AC=B8=EC=84=9C =
+=EC=96=91=EC=8B=9D =EC=84=A4=EC=A0=95</s>
+<ol>
+<li><s>=EB=B3=80=EA=B2=BD=EB=90=9C =EB=B6=80=EB=B6=84=EB=A7=8C =EC=B6=9C=EB=
+=A0=A5</s></li>
+<li><s>=EC=B5=9C=EC=A2=85 =EC=A3=BC=EB=AC=B8=EC=84=9C=EB=A7=8C =EC=B6=9C=EB=
+=A0=A5</s></li>
+<li><s>=EA=B8=B0=EC=A1=B4=EC=A3=BC=EB=AC=B8=EC=84=9C + =EB=B3=80=EA=B2=BD=
+=EB=82=B4=EC=9A=A9 =EC=B6=9C=EB=A0=A5</s></li>
+</ol></li>
+</ol></li>
+</ol>
+<p><br></p>
+<h2 id=3D"Poly_milestone#2-#8POS-=ED=9B=84=EB=B6=88=EC=A3=BC=EB=AC=B8=EC=B2=
+=98=EB=A6=AC"><strong>#8 POS - =ED=9B=84=EB=B6=88 =EC=A3=BC=EB=AC=B8 =EC=B2=
+=98=EB=A6=AC</strong></h2>
+<ol>
+<li>=EC=A3=BC=EB=AC=B8=ED=99=94=EB=A9=B4
+<ol>
+<li>=ED=95=9C =ED=85=8C=EC=9D=B4=EB=B8=94 =ED=91=9C=EC=8B=9C
+<ol>
+<li><s>=ED=85=8C=EC=9D=B4=EB=B8=94=EC=9D=80 =EB=91=90=EA=B0=80=EC=A7=80 Mod=
+e =EB=A1=9C =EB=B3=B4=EC=97=AC=EC=A4=80=EB=8B=A4.</s>
+<ol>
+<li><s>=ED=99=94=EB=A9=B4=EC=A0=84=ED=99=98 =EB=B2=84=ED=8A=BC=EC=9D=84 =EB=
+=88=84=EB=A5=B4=EB=A9=B4 Mode =EA=B0=80 =EB=B3=80=EA=B2=BD=EB=90=9C=EB=8B=
+=A4</s></li>
+<li><s>=EB=A9=94=EB=89=B4=EB=AA=A8=EB=93=9C</s>
+<ol>
+<li><s>=ED=85=8C=EC=9D=B4=EB=B8=94=EB=B2=88=ED=98=B8, =EB=A9=94=EB=89=B4, =
+=EA=B0=80=EA=B2=A9=EC=9D=B4 =ED=91=9C=EC=8B=9C=EB=90=A8</s></li>
+</ol></li>
+<li><s>=EA=B3=A0=EA=B0=9D=EB=AA=A8=EB=93=9C</s>
+<ol>
+<li><s>=ED=85=8C=EC=9D=B4=EB=B8=94=EB=B2=88=ED=98=B8, =EC=9D=B8=EC=9B=90=EC=
+=88=98(=EC=9D=B8=EC=9B=90=EC=88=98=EB=A5=BC =EC=84=A4=EC=A0=95=ED=95=9C =EA=
+=B2=BD=EC=9A=B0=EB=A7=8C), =EC=A3=BC=EB=AC=B8=EC=8B=9C=EA=B0=84, =EA=B2=BD=
+=EA=B3=BC=EC=8B=9C=EA=B0=84 =ED=91=9C=EC=8B=9C</s></li>
+<li><s>(=EA=B2=BD=EA=B3=BC=EC=8B=9C=EA=B0=84=EC=97=90 =EB=94=B0=EB=9D=BC =
+=EB=B9=84=EC=A3=BC=EC=96=BC=ED=95=98=EA=B2=8C =ED=91=9C=EC=8B=9C=ED=95=9C=
+=EB=8B=A4 )</s></li>
+</ol></li>
+</ol></li>
+<li>=ED=85=8C=EC=9D=B4=EB=B8=94=ED=91=9C=EC=8B=9C
+<ol>
+<li>=ED=85=8C=EC=9D=B4=EB=B8=94=EB=B2=88=ED=98=B8</li>
+<li>=EA=B2=BD=EA=B3=BC=EC=8B=9C=EA=B0=84</li>
+<li>=EC=9D=B8=EC=9B=90=EC=88=98</li>
+<li>=EB=A9=94=EB=89=B4</li>
+<li>=EA=B0=80=EA=B2=A9</li>
+</ol></li>
+<li>=ED=85=8C=EC=9D=B4=EB=B8=94=EC=9D=84 =EC=82=AC=EC=9D=B4=EC=A6=88=EB=B3=
+=84 =ED=91=9C=EC=8B=9C =EC=A0=95=EB=B3=B4
+<ol>
+<li>=EC=B5=9C=EC=86=8C=EC=82=AC=EC=9D=B4=EC=A6=88 - =EB=A0=88=EC=9D=B4=EB=
+=B8=94=EA=B9=8C=EC=A7=80=EB=8A=94 =EB=B3=B4=EC=9D=B8=EB=8B=A4&nbsp;</li>
+<li>=EC=B5=9C=EC=86=8C=EC=82=AC=EC=9D=B4=EC=A6=88~=EA=B8=B0=EB=B3=B8=EC=82=
+=AC=EC=9D=B4=EC=A6=88 : =EC=A0=95=EB=B3=B4=EA=B0=80 =EC=A7=A4=EB=A6=B0=EB=
+=8B=A4</li>
+<li>=EA=B8=B0=EB=B3=B8=EC=82=AC=EC=9D=B4=EC=A6=88 : =EB=AA=A8=EB=93=A0 =EC=
+=A0=95=EB=B3=B4=EA=B0=80 =EB=B0=B0=EC=B9=98=EB=90=9C =EC=82=AC=EC=9D=B4=EC=
+=A6=88</li>
+<li>=EA=B8=B0=EB=B3=B8=EC=82=AC=EC=9D=B4=EC=A6=88 =EC=9D=B4=EC=83=81 : =EB=
+=A9=94=EB=89=B4 =EB=B6=80=EB=B6=84=EB=A7=8C =ED=99=95=EB=8C=80=ED=95=9C=EB=
+=8B=A4)&nbsp;</li>
+</ol></li>
+<li>=EA=B2=B0=EC=A0=9C=EA=B0=80 =EC=99=84=EB=A3=8C=EB=90=9C =EC=A3=BC=EB=AC=
+=B8, =EB=B6=80=EB=B6=84=EA=B2=B0=EC=A0=9C=EA=B0=80 =EB=90=9C =EC=A3=BC=EB=
+=AC=B8=EC=9D=80 =EB=B3=84=EB=8F=84 =ED=91=9C=EC=8B=9C</li>
+</ol></li>
+<li>=EC=83=81=EB=8B=A8=EC=97=90 =EC=B8=B5 =ED=91=9C=EC=8B=9C</li>
+<li>=EC=98=A4=EB=A5=B8=EC=AA=BD=EC=97=90 =ED=85=8C=EC=9D=B4=EB=B8=94 =EC=9D=
+=B4=EB=8F=99 / =EB=8B=A8=EC=B2=B4 / =EB=B6=84=ED=95=A0 =EB=B2=84=ED=8A=BC</=
+li>
+<li><s>=EC=83=81=EB=8B=A8=EC=97=90 =EC=A0=84=EC=B2=B4 =ED=85=8C=EC=9D=B4=EB=
+=B8=94 =ED=98=84=EC=9E=AC =EB=B9=88 =ED=85=8C=EC=9D=B4=EB=B8=94 =EC=88=98 =
+=EB=B3=B4=EC=97=AC=EC=A4=8C</s></li>
+</ol></li>
+<li>=EC=A3=BC=EB=AC=B8=EC=83=9D=EC=84=B1
+<ol>
+<li>=ED=85=8C=EC=9D=B4=EB=B8=94=EC=9D=84 =EC=84=A0=ED=83=9D</li>
+<li>=EC=86=90=EB=8B=98=EC=88=98=EC=9E=85=EB=A0=A5 (=EC=A3=BC=EB=AC=B8=EC=8B=
+=9C =EC=86=90=EB=8B=98=EC=88=98 =EC=9E=85=EB=A0=A5=EC=9D=B4 true=EC=9D=B8 =
+=EA=B2=BD=EC=9A=B0)
+<ol>
+<li>POS=EC=97=90=EC=84=9C =ED=85=8C=EC=9D=B4=EB=B8=94 =EC=84=A0=ED=83=9D=EC=
+=8B=9C =EC=9D=B8=EC=9B=90=EC=88=98=EB=A5=BC =EB=B0=9B=EB=8A=94=EB=8B=A4&nbs=
+p;</li>
+</ol></li>
+<li>=EC=A3=BC=EB=AC=B8 =ED=99=94=EB=A9=B4 =EA=B5=AC=EC=84=B1
+<ol>
+<li>1=EC=B8=B5=EC=9D=B8 =EA=B2=BD=EC=9A=B0 =ED=85=8C=EC=9D=B4=EB=B8=94 =EB=
+=B2=88=ED=98=B8=EB=A7=8C =EB=B3=B4=EC=97=AC=EC=A4=80=EB=8B=A4</li>
+<li>2=EC=B8=B5=EC=9D=B8 =EA=B2=BD=EC=9A=B0 "=EC=B8=B5=EC=9D=B4=EB=A6=84+"=
+=ED=85=8C=EC=9D=B4=EB=B8=94=EB=B2=88=ED=98=B8"=EB=A5=BC =EB=B3=B4=EC=97=AC=
+=EC=A4=80=EB=8B=A4</li>
+<li>=EC=86=90=EB=8B=98=EC=88=98=EA=B0=80 =ED=91=9C=EC=8B=9C=EB=90=98=EC=96=
+=B4 =EC=9E=88=EB=8B=A4</li>
+</ol></li>
+<li>=EC=86=90=EB=8B=98=EC=88=98 =EB=B6=80=EB=B6=84=EC=9D=84 =EB=88=84=EB=A5=
+=B4=EB=A9=B4 =EB=B3=80=EA=B2=BD=ED=95=A0 =EC=88=98 =EC=9E=88=EB=8B=A4 (=EC=
+=86=90=EB=8B=98=EC=88=98 =EB=B3=80=EA=B2=BD=EC=9D=80 =EB=B3=80=EA=B2=BD =EC=
+=B6=9C=EB=A0=A5=ED=95=98=EC=A7=80 =EC=95=8A=EB=8A=94=EB=8B=A4)</li>
+<li>=EB=A9=94=EB=89=B4=EB=A5=BC =EC=84=A0=ED=83=9D</li>
+<li>'=EC=A3=BC=EB=AC=B8' =EB=B2=84=ED=8A=BC</li>
+<li>=ED=85=8C=EC=9D=B4=EB=B8=94=EC=9D=84 =ED=86=B5=ED=95=B4=EC=84=9C =EC=83=
+=9D=EC=84=B1=EB=90=9C =EC=A3=BC=EB=AC=B8=EC=9D=80 =EB=AA=A8=EB=91=90 "=EB=
+=A7=A4=EC=9E=A5"=EC=9D=B4=EB=8B=A4</li>
+<li>(TBD) =ED=96=A5=ED=9B=84 =EC=A3=BC=EB=AC=B8 =EC=9C=A0=ED=98=95=EC=9D=84=
+ =EC=88=98=EC=A0=95=ED=95=A0 =EC=88=98 =EC=9E=88=EB=8B=A4
+<ol>
+<li>=EB=A7=A4=EC=9E=A5&nbsp;=E2=86=92 =ED=8F=AC=EC=9E=A5=EC=9C=BC=EB=A1=9C =
+=EB=B3=80=EA=B2=BD=EB=90=9C =EA=B2=BD=EC=9A=B0
+<ol>
+<li>=ED=8F=AC=EC=9E=A5 =EB=A0=88=EC=9D=B4=EC=95=84=EC=9B=83=EC=9C=BC=EB=A1=
+=9C =EC=9D=B4=EB=8F=99=ED=95=9C=EB=8B=A4</li>
+</ol></li>
+<li>=EC=A3=BC=EB=AC=B8=EC=9C=A0=ED=98=95=EC=9D=B4 =ED=8F=AC=EC=9E=A5=EC=9D=
+=B8 =EA=B2=BD=EC=9A=B0=EB=8A=94 =ED=8F=AC=EC=9E=A5 =EB=A0=88=EC=9D=B4=EC=95=
+=84=EC=9B=83=EC=97=90=EC=84=9C =EB=B3=B4=EC=97=AC=EC=A7=80=EA=B3=A0 =EC=B2=
+=98=EB=A6=AC=EB=90=9C=EB=8B=A4.</li>
+<li>=EC=A3=BC=EB=AC=B8=EC=9C=A0=ED=98=95=EC=9D=B4 =EB=B0=B0=EB=8B=AC=EC=9D=
+=B8 =EA=B2=BD=EC=9A=B0=EB=8A=94 =EB=B0=B0=EB=8B=AC =EB=A0=88=EC=9D=B4=EC=95=
+=84=EC=9B=83=EC=97=90=EC=84=9C =EB=B3=B4=EC=97=AC=EC=A7=80=EA=B3=A0 =EC=B2=
+=98=EB=A6=AC=EB=90=9C=EB=8B=A4.</li>
+</ol></li>
+</ol></li>
+<li>=EC=A3=BC=EB=AC=B8=EC=88=98=EC=A0=95
+<ol>
+<li style=3D"list-style-type: none;">
+<ol class=3D"ak-ol">
+<li><p><span style=3D"color: rgb(151,160,175);">=EC=A3=BC=EB=AC=B8=EC=9D=B4=
+ =EC=9E=88=EB=8A=94 =ED=85=8C=EC=9D=B4=EB=B8=94 =EC=84=A0=ED=83=9D</span></=
+p></li>
+<li><p><span style=3D"color: rgb(151,160,175);">=EC=BC=80=EC=9D=B4=EC=8A=A4=
+ 1) =EC=95=84=EC=9D=B4=ED=85=9C =EC=B6=94=EA=B0=80</span></p>
+<ol class=3D"ak-ol">
+<li><p><span style=3D"color: rgb(151,160,175);">=EA=B8=B0=EC=A1=B4 =EC=A3=
+=BC=EB=AC=B8=EC=97=90 =EC=95=84=EC=9D=B4=ED=85=9C=EC=9D=84 =EC=B6=94=EA=B0=
+=80=ED=95=98=EB=A9=B4 =EC=83=88=EB=A1=9C=EC=9A=B4 =EC=A3=BC=EB=AC=B8=EC=9D=
+=B4 =EC=95=84=EB=9E=98=EB=A1=9C =EC=B6=94=EA=B0=80=EB=90=98=EC=96=B4 =EB=B3=
+=B4=EC=97=AC=EC=A7=84=EB=8B=A4</span></p></li>
+<li><p><span style=3D"color: rgb(151,160,175);">=EA=B8=B0=EC=A1=B4 =EC=A3=
+=BC=EB=AC=B8=EC=97=90 =EB=8F=99=EC=9D=BC=ED=95=9C =ED=92=88=EB=AA=A9=EC=9D=
+=B4 =EC=9E=88=EC=96=B4=EB=8F=84 =EC=83=88=EB=A1=9C=EC=9A=B4 =EB=9D=BC=EC=9D=
+=B8=EC=9C=BC=EB=A1=9C =EC=B6=94=EA=B0=80 =EB=90=9C=EB=8B=A4</span></p></li>
+<li><p><span style=3D"color: rgb(151,160,175);">'=EC=A3=BC=EB=AC=B8'=EC=9D=
+=84 =EB=88=84=EB=A5=B4=EB=A9=B4 =ED=95=B4=EB=8B=B9 =EB=B3=80=EA=B2=BD=EC=82=
+=AC=ED=95=AD=EC=9D=B4 =EC=B6=9C=EB=A0=A5=EB=90=9C=EB=8B=A4 (=EC=B6=9C=EB=A0=
+=A5=EC=9D=80 =EC=95=84=EB=9E=98 =EB=B3=84=EB=8F=84 =EC=96=91=EC=8B=9D=EB=B3=
+=84 =EC=B6=9C=EB=A0=A5)</span></p></li>
+<li><p><span style=3D"color: rgb(151,160,175);">=EB=8B=A4=EC=8B=9C =EB=93=
+=A4=EC=96=B4=EA=B0=80=EB=A9=B4 =ED=95=A9=EC=B3=90=EC=A7=84 =EC=B5=9C=EC=A2=
+=85 =EC=A3=BC=EB=AC=B8=EC=9D=B4 =EB=B3=B4=EC=97=AC=EC=A7=84=EB=8B=A4.</span=
+></p>
+<ol class=3D"ak-ol">
+<li><p><span style=3D"color: rgb(151,160,175);">=EC=A6=89, =EB=8F=99=EC=9D=
+=BC =EC=95=84=EC=9D=B4=ED=85=9C=EC=9D=B4 =EC=B6=94=EA=B0=80=EB=90=9C =EA=B2=
+=BD=EC=9A=B0 =EC=88=98=EB=9F=89=EC=9D=B4 =EB=B3=80=EA=B2=BD=EB=90=98=EC=96=
+=B4 =EC=9E=88=EB=8B=A4</span></p></li>
+</ol></li>
+</ol></li>
+<li><p><span style=3D"color: rgb(151,160,175);">=EC=BC=80=EC=9D=B4=EC=8A=A4=
+ 2) =EC=95=84=EC=9D=B4=ED=85=9C =EC=B7=A8=EC=86=8C</span></p>
+<ol class=3D"ak-ol">
+<li><p><span style=3D"color: rgb(151,160,175);">=EA=B8=B0=EC=A1=B4 =EC=A3=
+=BC=EB=AC=B8 =EC=95=84=EC=9D=B4=ED=85=9C =EC=A4=91 =ED=95=98=EB=82=98=EB=A5=
+=BC =EC=B7=A8=EC=86=8C=ED=95=9C =EA=B2=BD=EC=9A=B0</span></p></li>
+<li><p><span style=3D"color: rgb(151,160,175);">=ED=95=B4=EB=8B=B9 =EC=95=
+=84=EC=9D=B4=ED=85=9C=EC=9D=84 =EC=84=A0=ED=83=9D=ED=95=9C=EB=8B=A4 '-'=EB=
+=A5=BC =EB=88=84=EB=A5=B8=EB=8B=A4. =EB=B3=B5=EC=88=98=EC=9D=98 =EC=88=98=
+=EB=9F=89=EC=9D=B8 =EA=B2=BD=EC=9A=B0 '=EC=82=AD=EC=A0=9C'=EB=A5=BC =EB=88=
+=84=EB=A5=B4=EB=A9=B4 =ED=95=B4=EB=8B=B9 =EC=88=98=EB=9F=89 =EC=A0=84=EC=B2=
+=B4=EA=B0=80 =EC=B7=A8=EC=86=8C=EB=90=9C=EB=8B=A4</span></p></li>
+<li><p><span style=3D"color: rgb(151,160,175);">=ED=95=B4=EB=8B=B9 =EC=95=
+=84=EC=9D=B4=ED=85=9C=EC=9D=B4 =EC=B7=A8=EC=86=8C=EB=90=A8=EC=9D=84 =ED=91=
+=9C=EC=8B=9C=ED=95=9C=EB=8B=A4 ('strike'=EC=9C=BC=EB=A1=9C =EC=B7=A8=EC=86=
+=8C=EB=90=A8=EC=9D=84 =ED=91=9C=EC=8B=9C)</span></p></li>
+<li><p><span style=3D"color: rgb(151,160,175);">=EB=93=B1=EB=A1=9D=EC=9D=84=
+ =EB=88=84=EB=A5=B4=EB=A9=B4 =EB=B3=80=EA=B2=BD =EB=82=B4=EC=97=AD=EC=9D=B4=
+ =EC=B6=9C=EB=A0=A5=EB=90=9C=EB=8B=A4</span></p></li>
+<li><p><span style=3D"color: rgb(151,160,175);">=EB=8B=A4=EC=8B=9C =EB=93=
+=A4=EC=96=B4=EA=B0=80=EB=A9=B4 =EC=B5=9C=EC=A2=85 =EB=82=A8=EC=9D=80 =EC=A3=
+=BC=EB=AC=B8=EC=9D=B4 =EB=B3=B4=EC=97=AC=EC=A7=84=EB=8B=A4</span></p></li>
+</ol></li>
+<li><p>=EC=BC=80=EC=9D=B4=EC=8A=A4 3) =EB=B3=B5=EC=88=98=EC=9D=98 =EC=88=98=
+=EB=9F=89=EC=9D=98 =EC=95=84=EC=9D=B4=ED=85=9C=EC=A4=91 =EC=9D=BC=EB=B6=80 =
+=EC=B7=A8=EC=86=8C</p>
+<ol class=3D"ak-ol">
+<li><p>3=EA=B0=9C =EC=95=84=EB=A9=94=EB=A6=AC=EC=B9=B4=EB=85=B8=EC=97=90=EC=
+=84=9C 2=EA=B0=9C=EB=A1=9C =EC=A4=84=EC=9D=B4=EB=8A=94 =EA=B2=BD=EC=9A=B0</=
+p></li>
+<li><p><s>=ED=95=B4=EB=8B=B9 =EC=95=84=EC=9D=B4=ED=85=9C=EC=97=90=EC=84=9C =
+'-'=EB=A5=BC =EB=88=84=EB=A5=B8=EB=8B=A4</s></p></li>
+<li><p><s>=EC=95=84=EB=A9=94=EB=A6=AC=EC=B9=B4=EB=85=B8 1=EA=B0=9C=EA=B0=80=
+ =EC=B7=A8=EC=86=8C (strike) =EC=9C=BC=EB=A1=9C =EB=B3=B4=EC=9D=B4=EA=B3=A0=
+</s></p></li>
+<li><p><s>=EC=95=84=EB=A9=94=EB=A6=AC=EC=B9=B4=EB=85=B8 2=EA=B0=9C=EB=A1=9C=
+ =EB=B0=94=EB=80=90=EB=8B=A4</s></p></li>
+<li><p><s>'=EC=A3=BC=EB=AC=B8'=EC=9D=84 =EB=88=84=EB=A5=B8=EB=8B=A4</s></p>=
+</li>
+<li><p><s>=EB=B3=80=EA=B2=BD =EB=82=B4=EC=9A=A9=EC=9D=B4 =EC=B6=9C=EB=A0=A5=
+=EC=9D=B4 =EB=90=98=EA=B3=A0</s></p></li>
+<li><p><s>=EB=8B=A4=EC=8B=9C =EB=93=A4=EC=96=B4=EA=B0=80=EB=A9=B4 =EC=B5=9C=
+=EC=A2=85 =EC=A3=BC=EB=AC=B8=EC=9D=B4 =EB=B3=B4=EC=97=AC=EC=A7=84=EB=8B=A4.=
+</s></p></li>
+<li><p>=EC=88=98=EB=9F=89=EC=9D=84 =EC=A4=84=EC=9D=B4=EA=B8=B0 =EC=9C=84=ED=
+=95=B4=EC=84=9C=EB=8A=94 =ED=95=B4=EB=8B=B9 =EC=95=84=EC=9D=B4=ED=85=9C =EC=
+=A0=84=EC=B2=B4=EB=A5=BC =EC=B7=A8=EC=86=8C=ED=95=98=EA=B3=A0 =EB=8B=A4=EC=
+=8B=9C =EC=A3=BC=EB=AC=B8=ED=95=B4=EC=95=BC=ED=95=9C=EB=8B=A4. =EC=A6=89, 3=
+=EA=B0=9C =EC=95=84=EB=A9=94=EB=A6=AC=EC=B9=B4=EB=85=B8 =EC=B7=A8=EC=86=8C,=
+ 2=EA=B0=9C =EC=95=84=EB=A9=94=EB=A6=AC=EC=B9=B4=EB=85=B8 =EC=A3=BC=EB=AC=
+=B8 =EC=B6=94=EA=B0=80</p></li>
+<li><p>=EA=B8=B0=EC=A1=B4 =EC=A3=BC=EB=AC=B8=EC=9D=98 =EB=B3=80=EA=B2=BD=EC=
+=9D=80 =EB=B6=88=EA=B0=80=EB=8A=A5=ED=95=98=EB=8B=A4. =EC=B7=A8=EC=86=8C=E2=
+=86=92 =EC=83=88=EB=A1=9C =EC=B6=94=EA=B0=80</p></li>
+</ol></li>
+<li><p>=EC=BC=80=EC=9D=B4=EC=8A=A4 4) =EC=98=B5=EC=85=98/=EB=A9=94=EB=AA=A8=
+=EC=9D=98 =EC=B6=94=EA=B0=80 / =EC=82=AD=EC=A0=9C =E2=86=92 =EB=B6=88=EA=B0=
+=80</p>
+<ol class=3D"ak-ol">
+<li><p>=EC=A3=BC=EB=AC=B8=EC=9D=98 =EC=88=98=EC=A0=95=EC=9D=80 =EC=95=84=EC=
+=9D=B4=ED=85=9C=EC=9D=98 =EC=B6=94=EA=B0=80 / =EC=82=AD=EC=A0=9C=EB=A7=8C =
+=EA=B0=80=EB=8A=A5=ED=95=98=EB=8B=A4</p></li>
+<li><p>=EC=A6=89, =EC=98=B5=EC=85=98=EC=9D=98 =EB=B3=80=EA=B2=BD, =EC=98=B5=
+=EC=85=98=EC=A0=9C=EA=B1=B0, =EB=A9=94=EB=AA=A8 =EC=B6=94=EA=B0=80 =EB=93=
+=B1=EC=9D=80 =EB=B6=88=EA=B0=80 =E2=86=92 =EC=98=B5=EC=85=98 =EB=A9=94=EB=
+=89=B4=EB=8A=94 =ED=95=B4=EB=8B=B9 =EC=95=84=EC=9D=B4=ED=85=9C=EC=9D=84 =EC=
+=B7=A8=EC=86=8C=ED=95=98=EA=B3=A0 =EC=83=88=EB=A1=9C=EC=9A=B4 =EC=95=84=EC=
+=9D=B4=ED=85=9C=EC=9C=BC=EB=A1=9C =EC=B6=94=EA=B0=80</p></li>
+</ol></li>
+<li><p><s>=EC=BC=80=EC=9D=B4=EC=8A=A4 5) =ED=8F=AC=EC=9E=A5 / =EB=A7=A4=EC=
+=9E=A5=EC=8B=9D=EC=82=AC =EC=88=98=EC=A0=95</s></p>
+<ol class=3D"ak-ol">
+<li><p><s>=EC=A3=BC=EB=AC=B8=EC=9D=84 =EC=84=A0=ED=83=9D=ED=95=9C=EB=8B=A4<=
+/s></p></li>
+<li><p><s>=EC=A3=BC=EB=AC=B8=EC=9C=A0=ED=98=95=EC=9D=84 =EB=B3=80=EA=B2=BD=
+=ED=95=9C=EB=8B=A4.</s></p></li>
+<li><p><s>=EC=A3=BC=EB=AC=B8=EC=9D=84 =EB=88=84=EB=A5=B8=EB=8B=A4</s></p></=
+li>
+<li><p><s>=EC=A3=BC=EB=B0=A9=EC=A3=BC=EB=AC=B8=EC=84=9C=EA=B0=80 =EB=B3=80=
+=EA=B2=BD=EB=90=98=EC=96=B4 =EC=B6=9C=EB=A0=A5=EB=90=9C=EB=8B=A4</s></p></l=
+i>
+</ol></li>
+<li><p>=EC=BC=80=EC=9D=B4=EC=8A=A4 6) =EC=A3=BC=EB=AC=B8=EC=97=90 =EB=8C=80=
+=ED=95=9C =EC=A3=BC=EB=B0=A9=EB=A9=94=EB=AA=A8 =EC=B6=94=EA=B0=80/ =EC=82=
+=AD=EC=A0=9C</p>
+<ol class=3D"ak-ol">
+<li><p>=EC=A3=BC=EB=AC=B8=EC=97=90 =EB=8C=80=ED=95=9C =EC=A3=BC=EB=B0=A9=EB=
+=A9=94=EB=AA=A8=EB=A5=BC=EC=B6=94=EA=B0=80=ED=95=98=EA=B1=B0=EB=82=98 =EC=
+=82=AD=EC=A0=9C=ED=95=9C=EB=8B=A4.</p></li>
+<li><p>=EC=95=84=EC=9D=B4=ED=85=9C=EA=B3=BC =EB=8F=99=EC=9D=BC=ED=95=98=EA=
+=B2=8C =EB=B3=B4=EC=97=AC=EC=A4=80=EB=8B=A4</p></li>
+<li><p>=EC=A3=BC=EB=AC=B8 =EB=B2=84=ED=8A=BC=EC=9D=84 =EB=88=84=EB=A5=B8=EB=
+=8B=A4</p></li>
+<li><p>=EB=B3=80=EA=B2=BD =EC=A3=BC=EB=AC=B8=EC=84=9C=EA=B0=80 =EC=B6=9C=EB=
+=A0=A5=EB=90=9C=EB=8B=A4</p></li>
+<li><p>=EB=8B=A4=EC=8B=9C =EB=93=A4=EC=96=B4=EA=B0=80=EB=A9=B4 =EC=B5=9C=EC=
+=A2=85 =EC=A3=BC=EB=AC=B8=EB=A7=8C =EB=B3=B4=EC=9D=B8=EB=8B=A4.</p></li>
+</ol></li>
+<li><p>=EC=BC=80=EC=9D=B4=EC=8A=A4 7) =EC=95=84=EC=9D=B4=ED=85=9C=EC=9D=B4 =
+=ED=95=98=EB=82=98=EC=9D=B8 =EA=B2=BD=EC=9A=B0 =EC=82=AD=EC=A0=9C</p>
+<ol class=3D"ak-ol">
+<li><p>=EC=95=84=EC=9D=B4=ED=85=9C=EC=9D=B4 =ED=95=98=EB=82=98 =EC=9E=88=EB=
+=8A=94 =EC=A3=BC=EB=AC=B8=EC=9D=98 =EC=95=84=EC=9D=B4=ED=85=9C=EC=9D=84 =EC=
+=82=AD=EC=A0=9C=ED=95=9C=EB=8B=A4</p></li>
+<li><p>=EC=A3=BC=EB=AC=B8=EC=9D=84 =EB=88=84=EB=A5=B8=EB=8B=A4</p></li>
+<li><p>=ED=85=8C=EC=9D=B4=EB=B8=94 =ED=99=94=EB=A9=B4=EC=9C=BC=EB=A1=9C =EA=
+=B0=80=EA=B3=A0, =ED=95=B4=EB=8B=B9 =EC=A3=BC=EB=AC=B8=EC=9D=80 =EC=B7=A8=
+=EC=86=8C=EC=B2=98=EB=A6=AC =EB=90=9C=EB=8B=A4</p></li>
+</ol></li>
+<li><p>=EC=BC=80=EC=9D=B4=EC=8A=A4 8 ) =ED=95=A0=EC=9D=B8=EC=9D=84 =EC=B6=
+=94=EA=B0=80=ED=95=98=EA=B1=B0=EB=82=98 =EC=82=AD=EC=A0=9C=ED=95=9C =EA=B2=
+=BD=EC=9A=B0</p>
+<ol class=3D"ak-ol">
+<li><p>=ED=95=A0=EC=9D=B8=EC=9D=80 =EC=A3=BC=EB=AC=B8=EB=B3=80=EA=B2=BD=EA=
+=B3=BC =EB=AC=B4=EA=B4=80=ED=95=98=EA=B2=8C =EC=82=AD=EC=A0=9C, =EC=B6=94=
+=EA=B0=80=ED=95=A0 =EC=88=98 =EC=9E=88=EB=8B=A4</p></li>
+</ol></li>
+<li><p>=ED=99=94=EB=A9=B4=EC=9D=98=EA=B5=AC=EC=84=B1</p>
+<ol class=3D"ak-ol">
+<li><p>=EA=B8=B0=EC=A1=B4=EC=97=90 =EB=93=B1=EB=A1=9D=EB=90=9C =EC=A3=BC=EB=
+=AC=B8=EC=9D=84 =ED=85=8C=EC=9D=B4=EB=B8=94=EC=97=90=EC=84=9C =EC=84=A0=ED=
+=83=9D=ED=95=98=EB=A9=B4 =EA=B7=B8=EB=8C=80=EB=A1=9C =ED=91=9C=EC=8B=9C=ED=
+=95=9C=EB=8B=A4</p></li>
+<li><p>=EC=A3=BC=EB=AC=B8 =EC=95=84=EC=9D=B4=ED=85=9C=EC=9D=84 =EC=B7=A8=EC=
+=86=8C =ED=95=98=EB=A9=B4</p>
+<ol class=3D"ak-ol">
+<li><p>=EC=95=84=EC=9D=B4=ED=85=9C =EC=B7=A8=EC=86=8C, =EB=A9=94=EB=AA=A8 =
+=EC=B7=A8=EC=86=8C</p></li>
+<li><p>=ED=95=B4=EB=8B=B9 =EC=95=84=EC=9D=B4=ED=85=9C=EC=9D=B4 =EC=B7=A8=EC=
+=86=8C=EB=A1=9C strikethrough + =EB=B6=89=EC=9D=80=EC=83=89 =ED=91=9C=EC=8B=
+=9C=EB=90=9C=EB=8B=A4</p></li>
+<li><p>=E2=80=9C=EC=82=AD=EC=A0=9C=EC=B7=A8=EC=86=8C=E2=80=9D =EB=88=84=EB=
+=A5=B4=EB=A9=B4 =EB=8B=A4=EC=8B=9C =EC=9B=90=EB=9E=98 =EC=83=89=EC=9C=BC=EB=
+=A1=9C =EB=8F=8C=EC=95=84=EA=B0=84=EB=8B=A4</p></li>
+</ol></li>
+<li><p>=EC=95=84=EC=9D=B4=ED=85=9C=EC=9D=84 =EC=B6=94=EA=B5=AC=ED=95=98=EB=
+=A9=B4</p>
+<ol class=3D"ak-ol">
+<li><p>=EC=98=81=EC=97=AD=EC=9D=B4 =EA=B5=AC=EB=B6=84=EB=90=9C =EC=83=88=EB=
+=A1=9C=EC=9A=B4 =EC=98=81=EC=97=AD=EC=9D=B4 =EB=82=98=ED=83=80=EB=82=98=EA=
+=B3=A0 =EA=B7=B8 =EC=98=81=EC=97=AD=EC=97=90 =EC=95=84=EC=9D=B4=ED=85=9C=EC=
+=9D=B4 =EC=B6=94=EA=B0=80=EB=90=9C=EB=8B=A4</p></li>
+<li><p>=EC=A0=84=EC=B2=B4 =ED=95=A0=EC=9D=B8=EC=9D=98 =EA=B2=BD=EC=9A=B0 =
+=EA=B0=80=EC=9E=A5 =EC=95=84=EB=9E=98=EC=AA=BD=EC=97=90 =EB=B0=B0=EC=B9=98=
+=EB=90=9C=EB=8B=A4.</p></li>
+</ol></li>
+</ol></li>
+</ol></li>
+</ol></li>
+<li>=EC=A3=BC=EB=AC=B8=EC=B7=A8=EC=86=8C
+<ol>
+<li><s>=EC=95=84=EC=A7=81 =EC=A3=BC=EB=AC=B8=EC=9D=B4 =EB=93=A4=EC=96=B4=EA=
+=B0=80=EC=A7=80 =EC=95=8A=EC=9D=80 =EC=8B=A0=EA=B7=9C =EB=A9=94=EB=89=B4=EC=
+=9D=98 =EA=B2=BD=EC=9A=B0</s>
+<ol>
+<li><s>=EC=A3=BC=EB=AC=B8=EC=B7=A8=EC=86=8C =EB=B2=84=ED=8A=BC</s></li>
+<li><s>"=EC=A3=BC=EB=AC=B8=EC=9D=84 =EC=B7=A8=EC=86=8C=ED=95=98=EC=8B=9C=EA=
+=B2=A0=EC=8A=B5=EB=8B=88=EA=B9=8C?"," "=EC=95=84=EB=8B=88=EC=9A=94 / =EC=98=
+=88"</s></li>
+<li><s>=ED=98=84=EC=9E=AC =EC=B0=BD =EC=9C=A0=EC=A7=80</s></li>
+<li><s>=EC=A6=89, =EC=95=84=EC=9D=B4=ED=85=9C =EC=A0=84=EC=B2=B4 =EC=82=AD=
+=EC=A0=9C=EC=99=80 =EB=8F=99=EC=9D=BC</s></li>
+</ol></li>
+<li><s>=EC=A3=BC=EB=AC=B8=EC=9D=B4 =EB=93=A4=EC=96=B4=EA=B0=94=EC=A7=80=EB=
+=A7=8C =EA=B2=B0=EC=A0=9C=EA=B0=80 =EC=95=88=EB=90=9C =EA=B2=BD=EC=9A=B0 (=
+=ED=9B=84=EB=B6=88)</s>
+<ol>
+<li><s>=EC=A3=BC=EB=AC=B8=EC=B7=A8=EC=86=8C =EB=B2=84=ED=8A=BC</s></li>
+<li><s>"=EC=A3=BC=EB=AC=B8=EC=9D=84 =EC=B7=A8=EC=86=8C=ED=95=98=EC=8B=9C=EA=
+=B2=A0=EC=8A=B5=EB=8B=88=EA=B9=8C?" "=EC=95=84=EB=8B=88=EC=9A=94 / =EC=98=
+=88"</s></li>
+<li><s>"=EC=A3=BC=EB=AC=B8=EC=9D=B4 =EC=B7=A8=EC=86=8C=EB=90=98=EC=97=88=EC=
+=8A=B5=EB=8B=88=EB=8B=A4. =ED=85=8C=EC=9D=B4=EB=B8=94=ED=99=94=EB=A9=B4=EC=
+=9C=BC=EB=A1=9C =EC=9D=B4=EB=8F=99=ED=95=A9=EB=8B=88=EB=8B=A4" "=ED=99=95=
+=EC=9D=B8"</s></li>
+<li><s>=ED=85=8C=EC=9D=B4=EB=B8=94 =ED=99=94=EB=A9=B4 =EC=9D=B4=EB=8F=99</s=
+></li>
+</ol></li>
+<li><s>=EC=A3=BC=EB=AC=B8=EC=9D=B4 =EB=93=A4=EC=96=B4=EA=B0=80=EA=B3=A0 =ED=
+=95=98=EB=82=98=EC=9D=98 =EA=B2=B0=EC=A0=9C=EB=A7=8C =EC=9E=88=EB=8A=94 =EA=
+=B2=BD=EC=9A=B0 (=EC=84=A0=EB=B6=88 / =ED=9B=84=EB=B6=88)</s>
+<ol>
+<li><s>=EC=A3=BC=EB=AC=B8=EC=B7=A8=EC=86=8C =EB=B2=84=ED=8A=BC</s></li>
+<li><s>"=EA=B2=B0=EC=A0=9C=EB=90=9C =EA=B8=88=EC=95=A1=EC=9D=B4 =EC=9E=88=
+=EB=8A=94 =EC=A3=BC=EB=AC=B8=EC=9E=85=EB=8B=88=EB=8B=A4. =EC=A3=BC=EB=AC=B8=
+=EA=B3=BC =EA=B2=B0=EC=A0=9C=EB=A5=BC =EB=AA=A8=EB=91=90 =EC=B7=A8=EC=86=8C=
+=ED=95=A9=EB=8B=88=EB=8B=A4.&nbsp; =EC=B7=A8=EC=86=8C=ED=95=98=EC=8B=9C=EA=
+=B2=A0=EC=8A=B5=EB=8B=88=EA=B9=8C? " "=EC=95=84=EB=8B=88=EC=9A=94/=EC=98=88=
+"</s></li>
+<li><s>=ED=9B=84=EB=B6=88 - "=EC=A3=BC=EB=AC=B8=EC=9D=B4 =EC=B7=A8=EC=86=8C=
+=EB=90=98=EC=97=88=EC=8A=B5=EB=8B=88=EB=8B=A4. =ED=85=8C=EC=9D=B4=EB=B8=94 =
+=ED=99=94=EB=A9=B4=EC=9C=BC=EB=A1=9C =EC=9D=B4=EB=8F=99=ED=95=A9=EB=8B=88=
+=EB=8B=A4." "=ED=99=95=EC=9D=B8"&nbsp;</s>
+<ol>
+<li><s>=ED=85=8C=EC=9D=B4=EB=B8=94 =ED=99=94=EB=A9=B4 =EC=9D=B4=EB=8F=99</s=
+></li>
+</ol></li>
+<li><s>=EC=84=A0=EB=B6=88 - "=EC=A3=BC=EB=AC=B8=EC=9D=B4 =EC=B6=94=EC=86=8C=
+=EB=90=98=EC=97=88=EC=8A=B5=EB=8B=88=EB=8B=A4. =EC=83=88=EC=A3=BC=EB=AC=B8=
+=EC=9C=BC=EB=A1=9C =EC=9D=B4=EB=8F=99=ED=95=A9=EB=8B=88=EB=8B=A4." "=ED=99=
+=95=EC=9D=B8"</s>
+<ol>
+<li><s>=EC=83=88=EC=A3=BC=EB=AC=B8 =EC=9E=85=EB=A0=A5 =ED=99=94=EB=A9=B4</s=
+></li>
+</ol></li>
+</ol></li>
+<li><s>=EC=A3=BC=EB=AC=B8=EC=9D=B4 =EB=93=A4=EC=96=B4=EA=B0=80=EA=B3=A0 =EB=
+=91=90=EA=B0=9C =EC=9D=B4=EC=83=81=EC=9D=98 =EA=B2=B0=EC=A0=9C=EA=B0=80 =EC=
+=9E=88=EB=8A=94 =EA=B2=BD=EC=9A=B0 (=EB=B6=84=ED=95=A0=EA=B2=B0=EC=A0=9C)</=
+s>
+<ol>
+<li><s>=EC=A3=BC=EB=AC=B8=EC=B7=A8=EC=86=8C=EB=B2=84=ED=8A=BC</s></li>
+<li><s>"=EB=B3=B5=ED=95=A9 =EA=B2=B0=EC=A0=9C=EB=90=9C =EA=B8=88=EC=95=A1=
+=EC=9D=B4 =EC=9E=88=EB=8A=94 =EC=A3=BC=EB=AC=B8=EC=9E=85=EB=8B=88=EB=8B=A4.=
+ =EC=A3=BC=EB=AC=B8=EC=9D=84 =EC=B7=A8=EC=86=8C=ED=95=98=EC=8B=9C=EA=B2=A0=
+=EC=8A=B5=EB=8B=88=EA=B9=8C?" "=EC=95=84=EB=8B=88=EC=9A=94/=EC=98=88"</s></=
+li>
+<li><s>"=EC=A3=BC=EB=AC=B8=EC=9D=80 =EC=B7=A8=EC=86=8C=EB=90=98=EC=97=88=EC=
+=8A=B5=EB=8B=88=EB=8B=A4. =EA=B2=B0=EC=A0=9C =EC=B7=A8=EC=86=8C=EB=8A=94 =
+=EA=B0=81=EA=B0=81 =EC=A7=84=ED=96=89=ED=95=B4 =EC=A3=BC=EC=84=B8=EC=9A=94"=
+</s></li>
+</ol></li>
+<li><span style=3D"color: rgb(29,28,29);">=EC=A3=BC=EB=B0=A9=EC=97=90 =EC=
+=A3=BC=EB=AC=B8 =EC=95=84=EC=9D=B4=ED=85=9C =EC=A4=91 =EC=96=B4=EB=8A=90 =
+=EA=B2=83=EB=8F=84 =EB=93=A4=EC=96=B4=EA=B0=80=EC=A7=80 =EC=95=8A=EC=9D=80 =
+=EA=B2=BD=EC=9A=B0</span>
+<ol>
+<li><span style=3D"color: rgb(29,28,29);">=EB=B2=84=ED=8A=BC=EB=88=84=EB=A5=
+=BC=EB=95=8C : =EB=A9=94=EC=8B=9C=EC=A7=80 =EC=97=86=EC=9D=8C</span></li>
+<li><span style=3D"color: rgb(29,28,29);">=EC=B7=A8=EC=86=8C=EC=99=84=EB=A3=
+=8C =ED=9B=84 : =EB=A9=94=EC=8B=9C=EC=A7=80 =EC=97=86=EC=9D=8C</span></li>
+<li><span style=3D"color: rgb(29,28,29);">=ED=9B=84=EB=B6=88 - =ED=85=8C=EC=
+=9D=B4=EB=B8=94 =ED=99=94=EB=A9=B4=EC=9C=BC=EB=A1=9C =EC=9D=B4=EB=8F=99</sp=
+an></li>
+<li><span style=3D"color: rgb(29,28,29);">=EC=84=A0=EB=B6=88 - =EC=83=88=EC=
+=A3=BC=EB=AC=B8 =ED=99=94=EB=A9=B4 =EC=9C=A0=EC=A7=80</span></li>
+</ol></li>
+<li><span style=3D"color: rgb(29,28,29);">=EC=A3=BC=EB=B0=A9=EC=97=90 =EC=
+=A3=BC=EB=AC=B8 =EC=95=84=EC=9D=B4=ED=85=9C =EC=A4=91 =ED=95=98=EB=82=98 =
+=EC=9D=B4=EC=83=81 =EC=A3=BC=EB=AC=B8=EC=9D=B4 =EB=93=A4=EC=96=B4=EA=B0=84 =
+=EA=B2=BD=EC=9A=B0</span>
+<ol>
+<li><span style=3D"color: rgb(29,28,29);">=EB=B2=84=ED=8A=BC=EB=88=84=EB=A5=
+=BC=EB=95=8C : =E2=80=98=EC=A3=BC=EB=AC=B8=EC=9D=84 =EC=B7=A8=EC=86=8C=ED=
+=95=98=EC=8B=9C=EA=B2=A0=EC=8A=B5=EB=8B=88=EA=B9=8C?=E2=80=98, =E2=80=98=ED=
+=98=84=EC=9E=AC =EC=A3=BC=EB=AC=B8=EC=9D=84 =EC=B7=A8=EC=86=8C=ED=95=98=EA=
+=B3=A0 =EC=A3=BC=EB=B0=A9=EC=9C=BC=EB=A1=9C =EC=B7=A8=EC=86=8C =EC=A3=BC=EB=
+=AC=B8=EC=84=9C=EB=A5=BC =EC=A0=84=EC=86=A1=ED=95=A9=EB=8B=88=EB=8B=A4.=E2=
+=80=99</span></li>
+<li><span style=3D"color: rgb(29,28,29);">=EC=B7=A8=EC=86=8C=EC=99=84=EB=A3=
+=8C =ED=9B=84</span>
+<ol>
+<li><span style=3D"color: rgb(29,28,29);">(=EC=84=A0=EB=B6=88) =E2=80=98=EC=
+=A3=BC=EB=AC=B8 =EC=B7=A8=EC=86=8C=EA=B0=80 =EC=99=84=EB=A3=8C=EB=90=98=EC=
+=97=88=EC=8A=B5=EB=8B=88=EB=8B=A4.=E2=80=98, =E2=80=98=EC=83=88=EC=A3=BC=EB=
+=AC=B8 =ED=99=94=EB=A9=B4=EC=9C=BC=EB=A1=9C =EC=9D=B4=EB=8F=99=ED=95=A9=EB=
+=8B=88=EB=8B=A4.=E2=80=99 (=ED=86=A0=EC=8A=A4=ED=8A=B8=EB=A1=9C =EA=B0=9C=
+=EC=84=A0 =ED=95=84=EC=9A=94)</span></li>
+<li><span style=3D"color: rgb(29,28,29);">(=ED=9B=84=EB=B6=88) =E2=80=98=EC=
+=A3=BC=EB=AC=B8 =EC=B7=A8=EC=86=8C=EA=B0=80 =EC=99=84=EB=A3=8C=EB=90=98=EC=
+=97=88=EC=8A=B5=EB=8B=88=EB=8B=A4.=E2=80=98, =E2=80=98=ED=85=8C=EC=9D=B4=EB=
+=B8=94 =ED=99=94=EB=A9=B4=EC=9C=BC=EB=A1=9C =EC=9D=B4=EB=8F=99=ED=95=A9=EB=
+=8B=88=EB=8B=A4.=E2=80=99 (=ED=86=A0=EC=8A=A4=ED=8A=B8=EB=A1=9C =EA=B0=9C=
+=EC=84=A0 =ED=95=84=EC=9A=94)</span></li>
+</ol></li>
+</ol></li>
+<li><span style=3D"color: rgb(29,28,29);">=EC=A3=BC=EB=B0=A9=EC=97=90 =EC=
+=A3=BC=EB=AC=B8 =EC=95=84=EC=9D=B4=ED=85=9C =EC=A4=91 =ED=95=98=EB=82=98 =
+=EC=9D=B4=EC=83=81 =EC=A3=BC=EB=AC=B8=EC=9D=B4 =EB=93=A4=EC=96=B4=EA=B0=94=
+=EA=B3=A0 =EC=A0=95=EC=83=81 =EA=B2=B0=EC=A0=9C=EA=B0=80 =ED=95=9C =EA=B1=
+=B4=EC=9D=B4 =EC=9E=88=EB=8A=94 =EA=B2=BD=EC=9A=B0</span>
+<ol>
+<li><span style=3D"color: rgb(29,28,29);">=EB=B2=84=ED=8A=BC=EB=88=84=EB=A5=
+=BC=EB=95=8C : =E2=80=98=EA=B2=B0=EC=A0=9C=EB=90=9C =EA=B8=88=EC=95=A1=EC=
+=9D=B4 =EC=9E=88=EB=8A=94 =EC=A3=BC=EB=AC=B8=EC=9D=84 =EC=B7=A8=EC=86=8C=ED=
+=95=98=EC=8B=9C=EA=B2=A0=EC=8A=B5=EB=8B=88=EA=B9=8C?=E2=80=98, =E2=80=98=EA=
+=B2=B0=EC=A0=9C=EC=99=80 =EC=A3=BC=EB=AC=B8=EC=9D=84 =EC=B7=A8=EC=86=8C=ED=
+=95=98=EA=B3=A0 =EC=A3=BC=EB=B0=A9=EC=9C=BC=EB=A1=9C =EC=B7=A8=EC=86=8C =EC=
+=A3=BC=EB=AC=B8=EC=84=9C=EB=A5=BC =EC=A0=84=EC=86=A1=ED=95=A9=EB=8B=88=EB=
+=8B=A4. =E2=80=99</span></li>
+<li><span style=3D"color: rgb(29,28,29);">=EC=B7=A8=EC=86=8C=EC=99=84=EB=A3=
+=8C =ED=9B=84 </span>
+<ol>
+<li><span style=3D"color: rgb(29,28,29);">(=EC=84=A0=EB=B6=88) =E2=80=98=EC=
+=A3=BC=EB=AC=B8 =EC=B7=A8=EC=86=8C=EA=B0=80 =EC=99=84=EB=A3=8C=EB=90=98=EC=
+=97=88=EC=8A=B5=EB=8B=88=EB=8B=A4.=E2=80=98, =E2=80=98=EC=83=88=EC=A3=BC=EB=
+=AC=B8 =ED=99=94=EB=A9=B4=EC=9C=BC=EB=A1=9C =EC=9D=B4=EB=8F=99=ED=95=A9=EB=
+=8B=88=EB=8B=A4.=E2=80=99 (=ED=86=A0=EC=8A=A4=ED=8A=B8=EB=A1=9C =EA=B0=9C=
+=EC=84=A0 =ED=95=84=EC=9A=94)</span></li>
+<li><span style=3D"color: rgb(29,28,29);">(=ED=9B=84=EB=B6=88) =E2=80=98=EC=
+=A3=BC=EB=AC=B8 =EC=B7=A8=EC=86=8C=EA=B0=80 =EC=99=84=EB=A3=8C=EB=90=98=EC=
+=97=88=EC=8A=B5=EB=8B=88=EB=8B=A4.=E2=80=98, =E2=80=98=ED=85=8C=EC=9D=B4=EB=
+=B8=94 =ED=99=94=EB=A9=B4=EC=9C=BC=EB=A1=9C =EC=9D=B4=EB=8F=99=ED=95=A9=EB=
+=8B=88=EB=8B=A4.=E2=80=99 (=ED=86=A0=EC=8A=A4=ED=8A=B8=EB=A1=9C =EA=B0=9C=
+=EC=84=A0 =ED=95=84=EC=9A=94)</span></li>
+</ol></li>
+</ol></li>
+<li><span style=3D"color: rgb(29,28,29);">=EC=A3=BC=EB=B0=A9=EC=97=90 =EC=
+=A3=BC=EB=AC=B8 =EC=95=84=EC=9D=B4=ED=85=9C =EC=A4=91 =ED=95=98=EB=82=98 =
+=EC=9D=B4=EC=83=81 =EC=A3=BC=EB=AC=B8=EC=9D=B4 =EB=93=A4=EC=96=B4=EA=B0=94=
+=EA=B3=A0 =EC=A0=95=EC=83=81 =EA=B2=B0=EC=A0=9C=EA=B0=80 =ED=95=9C =EA=B1=
+=B4 =EC=9D=B4=EC=83=81=EC=9D=B8 =EA=B2=BD=EC=9A=B0</span>
+<ol>
+<li><span style=3D"color: rgb(29,28,29);">=EB=B2=84=ED=8A=BC=EB=88=84=EB=A5=
+=BC=EB=95=8C : =E2=80=98=EB=B3=B5=ED=95=A9 =EA=B2=B0=EC=A0=9C=EB=90=9C =EC=
+=A3=BC=EB=AC=B8=EC=9D=84 =EC=B7=A8=EC=86=8C=ED=95=98=EC=8B=9C=EA=B2=A0=EC=
+=8A=B5=EB=8B=88=EA=B9=8C?=E2=80=98, =E2=80=98=EC=A3=BC=EB=AC=B8=EC=9D=80 =
+=EC=B7=A8=EC=86=8C=EB=90=98=EA=B3=A0, =EA=B2=B0=EC=A0=9C=EB=8A=94 =EA=B0=9C=
+=EB=B3=84=EC=A0=81=EC=9C=BC=EB=A1=9C =EC=B7=A8=EC=86=8C=ED=95=B4=EC=95=BC=
+=ED=95=A9=EB=8B=88=EB=8B=A4. =EA=B3=84=EC=86=8D=ED=95=98=EC=8B=9C=EA=B2=A0=
+=EC=8A=B5=EB=8B=88=EA=B9=8C?=E2=80=99</span></li>
+<li><span style=3D"color: rgb(29,28,29);">=EC=B7=A8=EC=86=8C=EC=99=84=EB=A3=
+=8C =ED=9B=84 : (=EC=84=A0=ED=9B=84=EB=B6=88) =E2=80=98=EA=B2=B0=EC=A0=9C =
+=EC=B7=A8=EC=86=8C=EB=8A=94 =EB=B3=84=EB=8F=84=EB=A1=9C =EC=A7=84=ED=96=89=
+=ED=95=B4 =EC=A3=BC=EC=84=B8=EC=9A=94.=E2=80=98, =E2=80=98=EC=A3=BC=EB=AC=
+=B8 =EC=B7=A8=EC=86=8C=EB=8A=94 =EC=A0=95=EC=83=81=EC=A0=81=EC=9C=BC=EB=A1=
+=9C =EC=A7=84=ED=96=89=EB=90=98=EC=97=88=EC=9C=BC=EB=82=98, =EA=B2=B0=EC=A0=
+=9C=EA=B0=80 =EC=97=AC=EB=9F=AC =EA=B1=B4 =EC=A1=B4=EC=9E=AC=ED=95=98=EB=8A=
+=94 =EC=A3=BC=EB=AC=B8 =EA=B1=B4=EC=9C=BC=EB=A1=9C =EB=B3=84=EB=8F=84=EB=A1=
+=9C [=EA=B2=B0=EC=A0=9C=EC=B7=A8=EC=86=8C]=EB=A5=BC =EC=A7=84=ED=96=89=ED=
+=95=B4 =EC=A3=BC=EC=84=B8=EC=9A=94=E2=80=99</span></li>
+<li><span style=3D"color: rgb(29,28,29);">=ED=98=84=EC=9E=AC =EC=B0=BD =EC=
+=9C=A0=EC=A7=80</span></li>
+</ol></li>
+</ol></li>
+<li>=EA=B2=B0=EC=A0=9C / =EB=8D=94=EC=B9=98=ED=8E=98=EC=9D=B4
+<ol>
+<li>=EA=B2=B0=EC=A0=9C=EB=A5=BC =EB=88=84=EB=A5=B4=EB=A9=B4 =EC=99=BC=EC=AA=
+=BD=EC=9D=B4 '=EC=A0=84=EC=B2=B4' '=EC=95=84=EC=9D=B4=ED=85=9C=EB=B3=84 =EC=
+=84=A0=ED=83=9D' =ED=99=94=EB=A9=B4=EC=9C=BC=EB=A1=9C =EC=A0=84=ED=99=98</l=
+i>
+<li>=EB=B3=B5=EC=88=98=EA=B0=80 =EC=95=84=EC=9D=B4=ED=85=9C=EC=9D=98 =EA=B2=
+=BD=EC=9A=B0 1=EA=B0=9C=EC=94=A9 =EB=82=98=EB=88=94</li>
+<li>=EC=99=BC=EC=AA=BD=EC=9D=84 =EC=95=84=EC=9D=B4=ED=85=9C =EB=B3=B5=EC=88=
+=98 =EC=84=A0=ED=83=9D =EA=B0=80=EB=8A=A5</li>
+<li>=EC=84=A0=ED=83=9D=ED=95=98=EB=A9=B4 =EA=B8=88=EC=95=A1=EC=9D=B4 =EB=B3=
+=80=EA=B2=BD</li>
+<li>=EA=B2=B0=EC=A0=9C =ED=95=98=EB=A9=B4 =EA=B2=B0=EC=A0=9C=EB=90=9C =EC=
+=95=84=EC=9D=B4=ED=85=9C=EC=9D=80 =EB=B3=84=EB=8F=84 =ED=91=9C=EC=8B=9C</li=
+>
+<li>=ED=95=B4=EB=8B=B9 =EB=B6=80=EB=B6=84 =EA=B2=B0=EC=A0=9C=EB=A5=BC =EC=
+=B7=A8=EC=86=8C=ED=95=98=EB=A9=B4 =ED=95=B4=EB=8B=B9 =EC=95=84=EC=9D=B4=ED=
+=85=9C=EB=8F=84 =EB=8B=A4=EC=8B=9C =EC=9B=90=EB=9E=98 =EC=83=81=ED=83=9C=EB=
+=A1=9C =ED=91=9C=EC=8B=9C</li>
+</ol></li>
+<li>=EC=A3=BC=EB=AC=B8=EC=84=9C =EC=B6=9C=EB=A0=A5 =EC=96=91=EC=8B=9D
+<ol>
+<li>=EA=B8=B0=EB=B3=B8 =EC=A3=BC=EB=AC=B8=EC=84=9C =EC=96=91=EC=8B=9D</li>
+<li>=EC=88=98=EC=A0=95 =EC=A3=BC=EB=AC=B8=EC=84=9C
+<ol>
+<li>=EC=88=98=EC=A0=95=EC=97=90 =EB=8C=80=ED=95=B4=EC=84=A0 3=EA=B0=80=EC=
+=A7=80 =EC=A0=95=EC=B1=85=EC=9C=BC=EB=A1=9C =EC=B6=9C=EB=A0=A5=EC=9D=84 =EC=
+=84=A0=ED=83=9D=ED=95=A0 =EC=88=98 =EC=9E=88=EB=8B=A4&nbsp;
+<ol>
+<li><s>=EB=B3=80=EA=B2=BD=EC=95=84=EC=9D=B4=ED=85=9C=EB=A7=8C =EC=B6=9C=EB=
+=A0=A5&nbsp;</s>
+<ol>
+<li><s>=EC=B6=94=EA=B0=80, =EC=82=AD=EC=A0=9C =ED=95=AD=EB=AA=A9=EB=A7=8C =
+=EC=B6=9C=EB=A0=A5=ED=95=9C=EB=8B=A4</s></li>
+<li><s>=EC=82=AC=EC=9A=A9=EC=9E=90=EB=8A=94 =EA=B8=B0=EC=A1=B4 =EC=A3=BC=EB=
+=AC=B8=EC=84=9C=EB=A5=BC =EC=B0=BE=EC=95=84=EC=84=9C =EB=AC=B6=EC=96=B4=EC=
+=84=9C =EB=B3=B4=EA=B3=A0 =EA=B3=84=EC=82=B0=ED=95=98=EA=B2=8C =EB=90=9C=EB=
+=8B=A4</s></li>
+</ol></li>
+<li><s>=EC=B5=9C=EC=A2=85=EC=A3=BC=EB=AC=B8=EC=84=9C</s>
+<ol>
+<li><s>=EC=B5=9C=EC=A2=85 =EA=B2=B0=EA=B3=BC=EC=A3=BC=EB=AC=B8=EB=A7=8C =EC=
+=B6=9C=EB=A0=A5=ED=95=9C=EB=8B=A4. =EA=B8=B0=EC=A1=B4 =EC=A3=BC=EB=AC=B8=EC=
+=84=9C=EB=A5=BC =EB=B3=B4=EA=B3=A0 =EB=B3=80=EA=B2=BD=EB=82=B4=EC=97=AD=EC=
+=9D=84 =EC=9D=B4=ED=95=B4=ED=95=9C=ED=9B=84, =EA=B8=B0=EC=A1=B4 =EC=A3=BC=
+=EB=AC=B8=EC=84=9C=EB=A5=BC =EB=B2=84=EB=A6=AC=EA=B3=A0, =EC=83=88=EB=A1=9C=
+=EC=9A=B4 =EA=B2=83=EB=A7=8C =EB=B3=B8=EB=8B=A4</s></li>
+</ol></li>
+<li>=EA=B8=B0=EC=A1=B4=EC=A3=BC=EB=AC=B8=EC=84=9C=EC=97=90 =EB=B3=80=EA=B2=
+=BD=EB=82=B4=EC=97=AD =ED=91=9C=EC=8B=9C=ED=95=98=EA=B8=B0&nbsp;<br>
+<ol>
+<li>=EA=B8=B0=EC=A1=B4=EC=A3=BC=EB=AC=B8=EC=84=9C=EC=97=90 =EC=B7=A8=EC=86=
+=8C=EB=B6=80=EB=B6=84=EC=9D=84 strike=EC=9C=BC=EB=A1=9C =ED=91=9C=EC=8B=9C=
+=ED=95=98=EA=B3=A0 =EC=B6=94=EA=B0=80=EB=90=9C =EC=95=84=EC=9D=B4=ED=85=9C=
+=EC=9D=80 =EC=95=84=EB=9E=98=EC=AA=BD=EC=97=90 =EC=B6=94=EA=B0=80=EB=A1=9C =
+=EB=B3=B4=EC=97=AC=EC=A4=80=EB=8B=A4.</li>
+<li>=EC=A0=84=EC=B2=B4=EA=B0=80 '=EB=B3=80=EA=B2=BD=EB=82=B4=EC=97=AD=EA=B3=
+=BC' '=EC=B5=9C=EC=A2=85=EC=A3=BC=EB=AC=B8'=EC=9D=84 =EB=82=98=ED=83=80=EB=
+=82=B8=EB=8B=A4</li>
+</ol></li>
+</ol></li>
+</ol></li>
+<li>=EC=B7=A8=EC=86=8C =EC=A3=BC=EB=AC=B8=EC=84=9C</li>
+</ol></li>
+<li>=EC=88=98=EB=8F=99=EC=99=84=EB=A3=8C / =EA=B0=95=EC=A0=9C=EC=99=84=EB=
+=A3=8C<br>
+<ol>
+<li><s>"=EA=B2=B0=EC=A0=9C=EA=B0=80 =EB=90=98=EC=96=B4=EB=8F=84 =ED=85=8C=
+=EC=9D=B4=EB=B8=94 =EB=B9=84=EC=9A=B0=EC=A7=80 =EC=95=8A=EA=B8=B0"</s><br>
+<ol>
+<li><s>=EA=B2=B0=EC=A0=9C =EC=A0=84=EC=97=90 =EA=B2=B0=EC=A0=9C=EC=B0=BD=EC=
+=97=90=EC=84=9C '=EA=B2=B0=EC=A0=9C=EC=8B=9C =EC=A3=BC=EB=AC=B8=EC=A2=85=EB=
+=A3=8C' =EB=A5=BC =EC=96=B8=EC=B2=B4=ED=81=AC=ED=95=98=EB=A9=B4&nbsp; =EB=
+=88=84=EB=A5=B4=EB=A9=B4 =EA=B2=B0=EC=A0=9C=EA=B0=80 =EC=99=84=EB=A3=8C=EB=
+=90=98=EC=96=B4=EB=8F=84 =EC=A3=BC=EB=AC=B8=EC=9D=84 =EC=99=84=EB=A3=8C=EC=
+=8B=9C=ED=82=A4=EC=A7=80 =EC=95=8A=EB=8A=94=EB=8B=A4</s>
+<ol>
+<li><s>=EA=B2=B0=EC=A0=9C=EC=B0=BD=EC=97=90 =EB=82=B4=EC=9A=A9 =EC=B6=94=EA=
+=B0=80 :&nbsp; (V) =EC=98=81=EC=88=98=EC=A6=9D =EC=B6=9C=EB=A0=A5=ED=95=98=
+=EA=B8=B0, ( V) =EA=B2=B0=EC=A0=9C=EC=8B=9C =EC=A3=BC=EB=AC=B8=EC=A2=85=EB=
+=A3=8C</s></li>
+</ol></li>
+<li><s>=ED=95=B4=EB=8B=B9 =EC=A3=BC=EB=AC=B8=EC=9D=80 '=ED=85=8C=EC=9D=B4=
+=EB=B8=94'=EC=97=90 =EA=B7=B8=EB=8C=80=EB=A1=9C =ED=91=9C=EC=8B=9C=EB=90=9C=
+=EB=8B=A4.&nbsp;</s></li>
+<li><s>=ED=95=B4=EB=8B=B9 =EC=A3=BC=EB=AC=B8=EC=9D=84 =EC=84=A0=ED=83=9D=ED=
+=95=98=EC=97=AC '=ED=85=8C=EC=9D=B4=EB=B8=94=EB=B9=84=EC=9A=B0=EA=B8=B0'&nb=
+sp; "=EC=A3=BC=EB=AC=B8=EC=A2=85=EB=A3=8C =EC=B2=98=EB=A6=AC"=EB=A5=BC =EB=
+=88=84=EB=A5=B4=EB=A9=B4 =EC=99=84=EB=A3=8C=EC=B2=98=EB=A6=AC=EA=B0=80 =EB=
+=90=9C=EB=8B=A4</s></li>
+</ol></li>
+<li><s>=EC=88=98=EB=8F=99 =EC=99=84=EB=A3=8C</s><br>
+<ol>
+<li><s>=EA=B2=B0=EC=A0=9C=EA=B0=80 =EC=99=84=EB=A3=8C=EB=90=98=EC=A7=80 =EC=
+=95=8A=EC=95=98=EB=8A=94=EB=8D=B0, =EC=96=B4=EB=96=A4 =EC=9D=B4=EC=9C=A0=EC=
+=97=90=EC=84=9C=EB=93=A0 =ED=85=8C=EC=9D=B4=EB=B8=94=EC=9D=84 =EB=B9=84=EC=
+=9B=8C=EC=95=BC =ED=95=A0 =EB=95=8C</s></li>
+<li><s>'=ED=85=8C=EC=9D=B4=EB=B8=94=EB=B9=84=EC=9A=B0=EA=B8=B0'=EB=A5=BC =
+=EB=88=84=EB=A5=B4=EB=A9=B4 =ED=85=8C=EC=9D=B4=EB=B8=94=EC=97=90=EC=84=9C =
+=EC=82=AC=EB=9D=BC=EC=A7=84=EB=8B=A4.</s></li>
+<li><s>=EC=A3=BC=EB=AC=B8 =EC=83=81=ED=83=9C=EC=97=90=EC=84=9C=EB=8A=94 '=
+=EC=99=84=EB=A3=8C=EB=A1=9C =ED=91=9C=EC=8B=9C=EB=90=9C=EB=8B=A4'</s></li>
+<li><s>=EC=B7=A8=EC=86=8C=EC=99=80=EB=8A=94 =EB=8B=A4=EB=A5=B4=EB=8B=A4.&nb=
+sp;</s></li>
+</ol></li>
+<li>POS =ED=85=8C=EC=9D=B4=EB=B8=94 =EB=B0=B0=EC=B9=98 =ED=99=94=EB=A9=B4=
+=EC=97=90 "=ED=85=8C=EC=9D=B4=EB=B8=94=EB=B9=84=EC=9A=B0=EA=B8=B0" =EB=B2=
+=84=ED=8A=BC =EC=98=A4=EB=A5=B8=EC=AA=BD=EC=97=90 =EB=B0=B0=EC=B9=98
+<ol>
+<li>=ED=85=8C=EC=9D=B4=EB=B8=94 =EB=B9=84=EC=9A=B0=EA=B8=B0=EB=A5=BC =EB=88=
+=84=EB=A5=B4=EB=A9=B4
+<ol>
+<li>=EA=B2=B0=EC=A0=9C=EA=B0=80 =EC=99=84=EB=A3=8C=EB=90=9C =EC=A3=BC=EB=AC=
+=B8=EC=9D=B8 =EA=B2=BD=EC=9A=B0
+<ol>
+<li>POS =EC=84=A4=EC=A0=95=EC=97=90 =EC=9D=98=ED=95=B4 '=EC=88=98=EB=8F=99=
+=EC=9C=BC=EB=A1=9C =ED=85=8C=EC=9D=B4=EB=B8=94 =EB=B9=84=EC=9A=B0=EA=B8=B0'=
+=EA=B0=80 true=EC=9D=B8 =EA=B2=BD=EC=9A=B0=EB=8A=94 =EA=B2=B0=EC=A0=9C=EA=
+=B0=80 =EC=99=84=EB=A3=8C=EB=90=98=EC=96=B4=EB=8F=84 =ED=85=8C=EC=9D=B4=EB=
+=B8=94=EC=97=90 =EC=A3=BC=EB=AC=B8=EC=9D=B4 =EB=82=A8=EC=95=84=EC=9E=88=EC=
+=9D=8C</li>
+<li>=ED=85=8C=EC=9D=B4=EB=B8=94 =EB=B9=84=EC=9A=B0=EA=B8=B0=EB=A5=BC =EB=88=
+=84=EB=A6=84
+<ol>
+<li>=ED=85=8C=EC=9D=B4=EB=B8=94 =EB=B9=84=EC=9A=B0=EA=B8=B0 =EB=AA=A8=EB=93=
+=9C=EB=A1=9C =EB=B3=80=EA=B2=BD</li>
+</ol></li>
+<li>=ED=85=8C=EC=9D=B4=EB=B8=94 =EC=84=A0=ED=83=9D
+<ol>
+<li>=EB=B0=94=EB=A1=9C =ED=85=8C=EC=9D=B4=EB=B8=94=EC=9D=B4 =EB=B9=84=EC=9B=
+=8C=EC=A7=90</li>
+<li>=EB=B0=94=EB=A1=9C =EC=9D=BC=EB=B0=98 =EB=8C=80=EA=B8=B0 =EB=AA=A8=EB=
+=93=9C=EB=A1=9C =EB=B3=80=EA=B2=BD</li>
+</ol></li>
+</ol></li>
+<li>=EA=B2=B0=EC=A0=9C=EA=B0=80 =EC=99=84=EB=A3=8C=EB=90=98=EC=A7=80 =EC=95=
+=8A=EC=9D=80 =EC=A3=BC=EB=AC=B8=EC=9D=B8 =EA=B2=BD=EC=9A=B0
+<ol>
+<li>=ED=85=8C=EC=9D=B4=EB=B8=94 =EB=B9=84=EC=9A=B0=EA=B8=B0=EB=A5=BC =EB=88=
+=84=EB=A6=84
+<ol>
+<li>=EB=B9=84=EC=9A=B0=EA=B8=B0 =EB=AA=A8=EB=93=9C=EB=A1=9C =EB=B3=80=EA=B2=
+=BD</li>
+</ol></li>
+<li>=ED=85=8C=EC=9D=B4=EB=B8=94 =EC=84=A0=ED=83=9D
+<ol>
+<li>=ED=8C=9D=EC=97=85 "=EC=95=84=EC=A7=81 =EA=B2=B0=EC=A0=9C=EA=B0=80 =EC=
+=99=84=EB=A3=8C=EB=90=98=EC=A7=80 =EC=95=8A=EC=9D=80 =EC=A3=BC=EB=AC=B8=EC=
+=9E=85=EB=8B=88=EB=8B=A4. =ED=85=8C=EC=9D=B4=EB=B8=94=EC=9D=84 =EB=B9=84=EC=
+=9A=B0=EC=8B=9C=EA=B2=A0=EC=8A=B5=EB=8B=88=EA=B9=8C? "=EC=B7=A8=EC=86=8C" "=
+=ED=99=95=EC=9D=B8"</li>
+<li>=EC=B7=A8=EC=86=8C=EB=82=98 =ED=99=95=EC=9D=B8=EC=9D=84 =EB=88=84=EB=A5=
+=B4=EB=A9=B4</li>
+<li>=EB=B0=94=EB=A1=9C =EC=9D=BC=EB=B0=98 =EB=AA=A8=EB=93=9C=EB=A1=9C =EB=
+=B3=80=EA=B2=BD</li>
+</ol></li>
+</ol></li>
+</ol></li>
+</ol></li>
+<li>CEO - =EC=88=98=EB=8F=99=EC=9C=BC=EB=A1=9C =ED=85=8C=EC=9D=B4=EB=B8=94 =
+=EB=B9=84=EC=9A=B0=EA=B8=B0 =EC=84=A4=EC=A0=95
+<ol>
+<li>&nbsp;=EB=A7=A4=EC=9E=A5&gt;POS=EC=84=A4=EC=A0=95
+<ol>
+<li>=EA=B2=B0=EC=A0=9C=EC=9C=A0=ED=98=95
+<ol>
+<li>=ED=9B=84=EB=B6=88 =EC=84=A0=ED=83=9D
+<ol>
+<li>=ED=9B=84=EB=B6=88=EC=84=A0=ED=83=9D=EC=8B=9C=EC=97=90=EB=A7=8C =EC=84=
+=A0=ED=83=9D=ED=95=A0 =EC=88=98 =EC=9E=88=EB=8A=94 =EC=98=B5=EC=85=98=EC=9D=
+=B4 =EB=82=98=ED=83=80=EB=82=A8</li>
+<li>=ED=95=B4=EB=8B=B9 =EA=B8=B0=EB=8A=A5 =EC=9C=84=EC=B9=98=EB=8A=94 =EC=
+=95=84=EB=9E=98=EC=AA=BD =EA=B8=B0=ED=83=80 =EC=84=A4=EC=A0=95=EC=97=90 =EB=
+=B0=B0=EC=B9=98</li>
+</ol></li>
+<li>'=EC=88=98=EB=8F=99=EC=9C=BC=EB=A1=9C =ED=85=8C=EC=9D=B4=EB=B8=94 =EB=
+=B9=84=EC=9A=B0=EA=B8=B0'
+<ol>
+<li>=EA=B8=B0=EB=B3=B8=EA=B0=92 false</li>
+</ol></li>
+</ol></li>
+</ol></li>
+</ol></li>
+</ol></li>
+<li>=EC=B6=9C=EB=A0=A5 =EA=B8=B0=EB=8A=A5 =EC=B6=94=EA=B0=80
+<ol>
+<li>=EC=B6=9C=EB=A0=A5=EB=B2=84=ED=8A=BC=EC=9D=84 =EB=88=84=EB=A5=B4=EB=A9=
+=B4 =EC=95=84=EB=9E=98 =EC=84=A0=ED=83=9D=EC=9D=84 =ED=95=98=EC=97=AC =EC=
+=B6=9C=EB=A0=A5=ED=95=A0 =EC=88=98 =EC=9E=88=EB=8B=A4
+<ol>
+<li>=EC=A3=BC=EB=AC=B8=EC=84=9C=EC=9E=AC=EC=B6=9C=EB=A0=A5
+<ol>
+<li>=EC=A3=BC=EB=AC=B8=EC=84=9C=EB=A5=BC =EC=9E=AC=EC=B6=9C=EB=A0=A5 =ED=95=
+=9C=EB=8B=A4.</li>
+<li>=EC=A3=BC=EB=B0=A9=ED=94=84=EB=A6=B0=ED=84=B0 =EC=A2=85=EC=9D=B4=EA=B0=
+=80 =EB=96=A8=EC=96=B4=EC=A7=84 =EA=B2=BD=EC=9A=B0 =EB=93=B1</li>
+<li>=EC=96=91=EC=8B=9D</li>
+</ol></li>
+<li>=EA=B3=84=EC=82=B0=EC=84=9C=EC=B6=9C=EB=A0=A5
+<ol>
+<li>=EA=B3=A0=EA=B0=9D=EC=9A=A9 =ED=98=84=EC=9E=AC =EC=A3=BC=EB=AC=B8 =EC=
+=98=81=EC=88=98=EC=A6=9D=EC=9D=84 =EC=B6=9C=EB=A0=A5=ED=95=9C=EB=8B=A4</li>
+<li>=EC=96=91=EC=8B=9D</li>
+</ol></li>
+</ol></li>
+</ol></li>
+</ol>
+<p><br></p>
+<h2 id=3D"Poly_milestone#2-#9POS-=ED=85=8C=EC=9D=B4=EB=B8=94=EC=A3=BC=EB=AC=
+=B8=EA=B4=80=EB=A6=AC"><strong>#9 POS - =ED=85=8C=EC=9D=B4=EB=B8=94 =EC=A3=
+=BC=EB=AC=B8 =EA=B4=80=EB=A6=AC</strong></h2>
+<ol>
+<li>=EC=9D=B4=EB=8F=99
+<ol>
+<li>=ED=95=9C =EC=A3=BC=EB=AC=B8=EC=9D=84 =EB=8B=A4=EB=A5=B8 =ED=85=8C=EC=
+=9D=B4=EB=B8=94=EB=A1=9C =EC=98=AE=EA=B8=B0=EB=8A=94 =EA=B8=B0=EB=8A=A5</li=
+>
+<li>=EC=9D=B4=EB=AF=B8 =EC=A1=B4=EC=9E=AC=ED=95=98=EB=8A=94 =EC=A3=BC=EB=AC=
+=B8=EC=9D=84 =EB=88=84=EB=A5=B4=EB=A9=B4 =EB=91=90 =EC=A3=BC=EB=AC=B8=EC=9D=
+=B4 =ED=95=A9=EC=B3=90=EC=A7=90</li>
+<li>=EC=8B=9C=EB=82=98=EB=A6=AC=EC=98=A4
+<ol>
+<li>=EC=9D=B4=EB=8F=99=EB=B2=84=ED=8A=BC =ED=81=B4=EB=A6=AD</li>
+<li>=EC=9D=B4=EB=8F=99=EB=B2=84=ED=8A=BC=EC=9D=80 =EB=88=8C=EB=A0=A4=EC=A7=
+=84 =EC=83=81=ED=83=9C</li>
+<li>=EC=A3=BC=EB=AC=B8=EC=9D=B4 =EC=9E=88=EB=8A=94 =ED=85=8C=EC=9D=B4=EB=B8=
+=94=EC=9D=84 =EB=88=84=EB=A5=B4=EA=B3=A0
+<ol>
+<li>=EB=B9=88 =ED=85=8C=EC=9D=B4=EB=B8=94=EC=9D=84 =EB=88=84=EB=A5=B8 =EA=
+=B2=BD=EC=9A=B0
+<ol>
+<li>=EC=A3=BC=EB=AC=B8=EC=9D=B4 =EA=B7=B8=EB=8C=80=EB=A1=9C =EC=9D=B4=EB=8F=
+=99</li>
+<li>=EC=9D=B4=EB=8F=99=EB=B2=84=ED=8A=BC =ED=92=80=EB=A6=BC</li>
+<li>(=EC=9D=B4=EB=8F=99=EC=9C=BC=EB=A1=9C =EC=9D=B8=ED=95=9C =EB=82=B4=EC=
+=9A=A9 =EC=B6=9C=EB=A0=A5)&nbsp;</li>
+</ol></li>
+<li>=EC=9D=B4=EB=AF=B8 =EC=A3=BC=EB=AC=B8=EC=9D=B4 =EC=9E=88=EB=8A=94 =ED=
+=85=8C=EC=9D=B4=EB=B8=94=EC=9D=84 =EB=88=84=EB=A5=B4=EB=8A=94 =EA=B2=BD=EC=
+=9A=B0
+<ol>
+<li>=EC=A3=BC=EB=AC=B8=EC=9D=84 =ED=95=A9=EC=B9=98=EA=B2=A0=EC=8A=B5=EB=8B=
+=88=EA=B9=8C?
+<ol>
+<li>=EC=B7=A8=EC=86=8C, =ED=99=95=EC=9D=B8</li>
+</ol></li>
+<li>=EB=91=90 =EC=A3=BC=EB=AC=B8=EC=9D=B4 =ED=95=98=EB=82=98=EB=A1=9C =ED=
+=95=A9=EC=B3=90=EC=A7=84=EB=8B=A4.&nbsp;</li>
+</ol></li>
+</ol></li>
+<li><s>=EC=9E=90=EB=A6=AC=EC=9D=B4=EB=8F=99 =EB=B3=80=EA=B2=BD =EC=A3=BC=EB=
+=AC=B8=EC=84=9C</s></li>
+</ol></li>
+</ol></li>
+<li>=EB=8B=A8=EC=B2=B4
+<ol>
+<li>=EC=97=AC=EB=9F=AC =ED=85=8C=EC=9D=B4=EB=B8=94=EC=9D=84 =ED=95=98=EB=82=
+=98=EB=A1=9C =EA=B7=B8=EB=A3=B9=ED=95=98=EC=97=AC =EA=B4=80=EB=A6=AC</li>
+<li>=EA=B7=B8=EB=A3=B9=EB=90=9C =ED=85=8C=EC=9D=B4=EB=B8=94 =EB=8B=A4=EB=A5=
+=B4=EA=B2=8C =ED=91=9C=EC=8B=9C</li>
+<li>=EA=B7=B8=EB=A3=B9 =ED=95=B4=EC=A0=9C =EA=B0=80=EB=8A=A5</li>
+<li>=EA=B2=B0=EC=A0=9C=EC=8B=9C "=EB=8B=A8=EC=B2=B4 =EB=A9=94=EB=89=B4 =ED=
+=95=9C=EB=B2=88=EC=97=90 =EA=B2=B0=EC=A0=9C" =EC=84=A0=ED=83=9D =EA=B0=80=
+=EB=8A=A5</li>
+</ol></li>
+<li>=ED=85=8C=EC=9D=B4=EB=B8=94=EB=82=98=EB=88=84=EA=B8=B0&nbsp;
+<ol>
+<li>=ED=95=9C =ED=85=8C=EC=9D=B4=EB=B8=94=EC=97=90 =EC=97=AC=EB=9F=AC=EB=AA=
+=85 =EC=95=89=EB=8A=94 =EA=B2=BD=EC=9A=B0</li>
+<li>=ED=85=8C=EC=9D=B4=EB=B8=94 =EB=82=98=EB=88=84=EA=B8=B0=EB=A5=BC =EB=88=
+=84=EB=A5=B4=EA=B3=A0</li>
+<li>=ED=85=8C=EC=9D=B4=EB=B8=94 =EC=84=A0=ED=83=9D=ED=95=98=EB=A9=B4&nbsp; =
+"=EC=9B=90=EB=9E=98=EB=A0=88=EC=9D=B4=EB=B8=94-1" =ED=85=8C=EC=9D=B4=EB=B8=
+=94=EC=9D=B4 =EC=83=9D=EC=84=B1=EB=90=98=EA=B3=A0 =EC=A3=BC=EB=AC=B8=ED=99=
+=94=EB=A9=B4=EC=9C=BC=EB=A1=9C =EB=93=A4=EC=96=B4=EA=B0=90</li>
+<li>=EC=A3=BC=EB=AC=B8=EC=9D=84 =EB=84=A3=EC=9C=BC=EB=A9=B4 =ED=85=8C=EC=9D=
+=B4=EB=B8=94=EC=97=90=EB=8A=94 =ED=95=B4=EB=8B=B9 =EB=91=90 =EB=A0=88=EC=9D=
+=B4=EB=B8=94=EC=9D=B4 =ED=91=9C=EC=8B=9C</li>
+<li>=ED=85=8C=EC=9D=B4=EB=B8=94=EC=9D=84 =ED=81=B4=EB=A6=AD=ED=95=98=EB=A9=
+=B4 =EB=91=98 =EC=A4=91 =EC=96=B4=EB=96=A4 =ED=85=8C=EC=9D=B4=EB=B8=94=EC=
+=9D=84 =EC=84=A0=ED=83=9D=ED=95=A0=EC=A7=80 =EC=84=9C=EB=B8=8C =EC=B0=BD=EC=
+=9D=B4 =EB=9C=B8</li>
+</ol></li>
+<li>=EC=A3=BC=EB=AC=B8=EB=B3=91=ED=95=A9&nbsp;
+<ol>
+<li>=EB=91=90 =EA=B0=9C =EC=9D=B4=EC=83=81=EC=9D=98 =ED=85=8C=EC=9D=B4=EB=
+=B8=94=EC=9D=84 =ED=95=9C =EC=A3=BC=EB=AC=B8=EC=9C=BC=EB=A1=9C =ED=95=A9=EC=
+=B9=98=EB=8A=94 =EA=B8=B0=EB=8A=A5</li>
+<li>=EC=8B=9C=EB=82=98=EB=A6=AC=EC=98=A4
+<ol>
+<li>=EB=B3=91=ED=95=A9=EB=B2=84=ED=8A=BC =EB=88=84=EB=A6=84</li>
+<li>=EB=B3=91=ED=95=A9=EC=83=81=ED=83=9C=EB=A1=9C =EB=B3=80=EA=B2=BD
+<ol>
+<li>=ED=8C=9D=EC=97=85=EB=9C=B8 - =ED=95=A9=EC=B9=98=EB=A0=A4=EB=8A=94 =EC=
+=A3=BC=EB=AC=B8=EC=9D=84 =EC=84=A0=ED=83=9D=ED=95=98=EC=84=B8=EC=9A=94. =ED=
+=95=A9=EC=B9=9C =EC=A3=BC=EB=AC=B8=EC=9D=84 =EB=8B=A4=EC=8B=9C =EB=82=98=EB=
+=88=8C =EC=88=98 =EC=97=86=EC=8A=B5=EB=8B=88=EB=8B=A4</li>
+</ol></li>
+<li>=ED=85=8C=EC=9D=B4=EB=B8=94=EC=9D=84 =EC=97=AC=EB=9F=AC=EA=B0=9C =EC=84=
+=A0=ED=83=9D=ED=95=98=EB=A9=B4 =EB=B3=91=ED=95=A9=ED=91=9C=EC=8B=9C=EA=B0=
+=80 =EB=90=A8</li>
+<li>=EB=B3=91=ED=95=A9=EB=B2=84=ED=8A=BC=EC=9D=84 =EB=88=84=EB=A6=84
+<ol>
+<li>=EC=84=A0=ED=83=9D=ED=95=9C =EC=A3=BC=EB=AC=B8=EC=9D=84 =ED=95=98=EB=82=
+=98=EB=A1=9C =ED=95=A9=EC=B9=A0=EA=B9=8C=EC=9A=94? =EB=B3=91=ED=95=A9=ED=95=
+=9C =EC=A3=BC=EB=AC=B8=EC=9D=80 =EB=8B=A4=EC=8B=9C =EB=82=98=EB=88=8C =EC=
+=88=98 =EC=97=86=EC=8A=B5=EB=8B=88=EB=8B=A4. '=EC=B7=A8=EC=86=8C' '=ED=99=
+=95=EC=9D=B8'</li>
+</ol></li>
+</ol></li>
+<li>=EB=B3=91=ED=95=A9=EB=90=9C =EC=A3=BC=EB=AC=B8
+<ol>
+<li>=EB=AA=A8=EB=93=A0 =EB=9D=BC=EC=9D=B8=EC=95=84=EC=9D=B4=ED=85=9C=EC=9D=
+=B4 =EB=A7=88=EC=A7=80=EB=A7=89=EC=97=90 =EC=84=A0=ED=83=9D=ED=95=9C =EC=A3=
+=BC=EB=AC=B8=EC=9C=BC=EB=A1=9C =EB=93=A4=EC=96=B4=EC=98=B4</li>
+<li>=EC=95=84=EC=9D=B4=ED=85=9C=EC=9D=B4 =EC=A3=BC=EA=B0=80=EB=90=9C =EC=8B=
+=9C=EC=A0=90=EB=93=A4=EC=9D=80 =EC=9B=90=EB=9E=98 =EC=A0=95=EB=B3=B4 =EC=9C=
+=A0=EC=A7=80</li>
+<li>=EC=A3=BC=EB=AC=B8=EC=9D=98 =EC=83=81=ED=83=9C=EB=8F=84 =EC=9C=A0=EC=A7=
+=80</li>
+<li>=EB=B6=80=EB=B6=84 =EA=B2=B0=EC=A0=9C=EA=B0=80 =EB=90=98=EC=96=B4 =EC=
+=9E=88=EC=9C=BC=EB=A9=B4 =EB=B3=91=ED=95=A9=EB=B6=88=EA=B0=80</li>
+<li>=EA=B8=B0=EC=A1=B4 =EC=A3=BC=EB=AC=B8=EB=93=A4
+<ol>
+<li>=EC=83=81=ED=83=9C '=EB=B3=91=ED=95=A9=EB=90=A8'=EC=9C=BC=EB=A1=9C =EB=
+=B3=80=EA=B2=BD</li>
+<li>=ED=85=8C=EC=9D=B4=EB=B8=94=EC=97=90=EC=84=9C =EC=82=AC=EB=9D=BC=EC=A7=
+=90 (=EC=99=84=EB=A3=8C =EC=83=81=ED=83=9C)</li>
+</ol></li>
+</ol></li>
+</ol></li>
+</ol>
+<h2 id=3D"Poly_milestone#2-#10=ED=8F=AC=EC=9E=A5=EC=A3=BC=EB=AC=B8"><strong=
+>#10 =ED=8F=AC=EC=9E=A5 =EC=A3=BC=EB=AC=B8</strong></h2>
+<ol>
+<li>=ED=9B=84=EB=B6=88=EC=97=90=EC=84=9C =ED=8F=AC=EC=9E=A5 =EC=A3=BC=EB=AC=
+=B8 =EA=B4=80=EB=A6=AC =EA=B8=B0=EB=8A=A5=EC=9D=84 =EC=BC=A4 =EC=88=98 =EC=
+=9E=88=EB=8B=A4</li>
+<li>=ED=8F=AC=EC=9E=A5=EC=A3=BC=EB=AC=B8 =EA=B4=80=EB=A6=AC=EB=A5=BC =EC=BC=
+=9C=EB=A9=B4 =ED=85=8C=EC=9D=B4=EB=B8=94 =ED=99=94=EB=A9=B4=EC=97=90=EC=84=
+=9C '=ED=8F=AC=EC=9E=A5=EC=A3=BC=EB=AC=B8' =ED=83=AD=EC=9D=B4 =EC=83=9D=EA=
+=B8=B4=EB=8B=A4</li>
+<li>=ED=95=B4=EB=8B=B9 =ED=83=AD=EC=97=90=EC=84=9C '=EC=83=88=EB=A1=9C=EC=
+=9A=B4 =ED=8F=AC=EC=9E=A5=EC=A3=BC=EB=AC=B8'=EC=9D=84 =EC=B6=94=EA=B0=80=ED=
+=95=A0 =EC=88=98 =EC=9E=88=EB=8B=A4</li>
+<li>=EC=A3=BC=EB=AC=B8 =EC=9C=A0=ED=98=95=EC=9D=98 =EB=B3=80=EA=B2=BD
+<ol>
+<li>=ED=8F=AC=EC=9E=A5&nbsp;=E2=86=92 =EB=A7=A4=EC=9E=A5, =EB=A7=A4=EC=9E=
+=A5=E2=86=92 =ED=8F=AC=EC=9E=A5</li>
+<li>=EB=B3=80=EA=B2=BD =EC=A3=BC=EB=AC=B8=EC=84=9C</li>
+</ol></li>
+</ol>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<h2 id=3D"Poly_milestone#2-OpenQuestions">Open Questions</h2>
+<div class=3D"table-wrap">
+<table class=3D"wrapped confluenceTable">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"confluenceTh">Question</th>
+<th class=3D"confluenceTh">Answer</th>
+<th class=3D"confluenceTh">Date Answered</th>
+</tr>
+<tr>
+<td class=3D"confluenceTd"></td>
+<td class=3D"confluenceTd"></td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"Poly_milestone#2-OutofScope">Out of Scope</h2>
+<p></p>
+    </div>
+</body>
+</html>
+------=_Part_318_814331214.1586735587699
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: base64
+Content-Location: file:///C:/23421e7881d0ed60ea6faee1ea587d42
+
+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
+LAnPwxgIw4AgiFoij9jOeiSPOZzE4QcOz7OfyfkiDAIC56Ixos61/9s7vvHvLsQPIbH/mB1B0N6K
+fBTWs4cOW3Iues2iu+7fB8Yc/zGIyKcWhiHWWta+t54bZ/+I1nyB0V+uO8a9HMZYVq1dx649H3PX
+D2/h/Il/uT/wflGdNCFVRCSO1HoqfxpH4IfYjhpcDr4oOfKueImE1sX9HDjncDhWvLOKh//7KRYv
+W07oPnm8qQsdtQNrmH7FJZxz1jg8z/vC9zgqpIqIiIhI7HQUUjXVWkRERERiRyFVRERERGJHIVVE
+REREYkchVURERERiRyFVRERERGJHIVVEREREYkchVURERERiRyFVRERERGIncawNHHRYpk9ERERE
+5E/RUc48ZkhNWMsXvFqXiIiIiHSSjsrCfmJItcawp7EZjEYFiIiIiEjnOFog7TCkOufAQOhc1A6r
+1lQRERER+aw5wBzZ599hSDXGEIaO7iVFWM/rzEMTERERkS+wPzbsPeJvxxyTWghDUlYhVUREREQ+
+e66DmVPHDKkGNHFKRERERE4ozYgSERERkdhRSBURERGR2FFIFREREZHYUUgVERERkdhRSBURERGR
+2FFIFREREZHYUUgVERERkdhRSBURERGR2FFIFREREZHYUUgVERERkdhRSBURERGR2FFIFREREZHY
+UUgVERERkdhRSBURERGR2FFIFREREZHYUUgVERERkdhRSBURERGR2FFIFREREZHYUUgVERERkdhR
+SBURERGR2FFIFREREZHYUUgVERERkdhRSBURERGR2FFIFREREZHYUUgVERERkdhRSBURERGR2FFI
+FREREZHYUUgVERERkdj5f6JGnbrv6loNAAAAAElFTkSuQmCC
+------=_Part_318_814331214.1586735587699--
